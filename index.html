@@ -19,12 +19,12 @@
     
     <!-- Custom styles for this template -->
     <link href="css/agency.css" rel="stylesheet">
-
+	  
   </head>
 
   <body id="page-top">
-
 	  
+		  
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
       <div class="container">
@@ -32,24 +32,40 @@
       Menu
       <i class="fas fa-bars"></i>
     </button>
-
-		          <div class="container fa-stack-2x text-light">
-	    	<i style="display: inline" class="fas fa-female" title="Vous êtes un particulier"></i>&nbsp;&nbsp;
-		    <i style="display: inline"  class="fas fa-beer" title="Vous êtes un bar"></i> &nbsp;
-			<i style="display: inline"  class="fas fa-building" title="Vous êtes une entreprise"></i>
-		  </div>
+		  
 		  
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav text-uppercase ml-auto">
-            <li class="nav-item">
+          
+    
+			  <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#services">Services</a>
             </li>
-            <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="#tester">TESTER</a> </li>
-            <li class="nav-item"> </li>
-            <li class="nav-item"> </li>
-            <li class="nav-item">
+            <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="#tester">Tester</a> </li>
+              <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#about">Contact</a>
             </li>
+			   
+			  <li class="nav-item">
+				
+              	<div class="nav-link text-light" id="profil">					
+					<a onclick="setprofil(1)" class="text-light">
+						<i class="fas fa-female" title="Vous êtes un particulier"></i>&nbsp;&nbsp;
+					</a>
+					
+					
+      				<a onclick="setprofil(2)" class="text-light">
+						<i class="fas fa-beer" title="Vous êtes un bar"></i> &nbsp;
+					</a>
+	  			
+					
+					<a onclick="setprofil(2)" class="text-light">
+						<i class="fas fa-building" title="Vous êtes une entreprise"></i>
+					</a>
+
+	  			</div>
+            </li>
+			
           </ul>
         </div>
       </div>
@@ -66,28 +82,24 @@
 				     pour vos événements</h2>
 				   <br>
 				   
-			
 				   <div class="d-none d-lg-block">
 					      <a class="btn btn-primary btn-xl" href="http://templates.shifumix.com">DEMARRER</a>
 				   </div>
-					
-				 
-			 
-			 		<a class="btn btn-primary btn-xl d-lg-none" href="http://beta.shifumix.com">DEMARRER</a>
-			
-	
-        </div>
-		  </div>
+								 
+			 	<a class="btn btn-primary btn-xl d-lg-none" href="http://beta.shifumix.com">DEMARRER</a>
+        	</div>
+		</div>
      
 	</section>
   
 
-   
+
     <section class="bg-light" id="services">
-      <div class="container">
-      
-		  
+	
+      <div class="container" id="services_perso">  
+		  <h2 class="text-center section-heading text-uppercase">Services</h2><br>
         <div class="row text-center">
+			
           <div class="col-md-4"><span class="fa-stack fa-4x"> <em class="fas fa-circle fa-stack-2x text-primary"></em> <em class="fas fa-music fa-stack-1x fa-inverse"></em> </span>
             <h4 class="service-heading">Musique </h4>
             <p class="text-muted">Vos participants votent sur la playlist, ajoutent des titres</p>
@@ -110,10 +122,7 @@
           </div>
         </div>
       </div>
-	  </section>
-		<section class="bg-light" id="services-pro">
-	  <div class="container bg-light">
-        
+	  <div class="container bg-light" id="services_pro">    
         <div class="row text-center">
           <div class="col-md-4"><span class="fa-stack fa-4x"> <em class="fas fa-circle fa-stack-2x text-primary"></em> <em class="fas fa-poll-h fa-stack-1x fa-inverse"></em> </span>
             <h4 class="service-heading">Sondages </h4>
@@ -151,7 +160,12 @@
             <h2 class="section-heading text-uppercase">TESTER</h2>
             <h3 class="section-subheading">Avec le simulateur, utilisez Shifumix comme si vous aviez un smartphone et un écran pour partager votre événement </h3>
           </div>
-          <iframe style="border:none" src="https://shifumixweb.appspot.com/tutoriel.html?screens=1&size=150&ihm=perso" width="100%" height="730px" style="overflow:hidden" scrolling="no"></iframe>
+          <iframe 
+				  id="iframe_tester"
+				  style="border:none" 
+				  src="https://shifumixweb.appspot.com/tutoriel.html?screens=1&size=150&ihm=perso" 
+				  width="100%" height="730px" style="overflow:hidden" scrolling="no">
+			</iframe>
 			
         </div>
 		</div>
@@ -236,6 +250,8 @@
     <!-- Custom scripts for this template -->
     <script src="js/agency.min.js"></script>
 
-  </body>
+	 
 
+	  
+  </body>
 </html>
