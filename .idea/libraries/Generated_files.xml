@@ -2,10 +2,24 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/beta/assets/js/exif.min.js" />
+        <item url="file://$PROJECT_DIR$/beta/assets/js/sdk.min.js" />
+        <item url="file://$PROJECT_DIR$/beta/build/main.min.js" />
+        <item url="file://$PROJECT_DIR$/beta/build/polyfills.min.js" />
+        <item url="file://$PROJECT_DIR$/beta/build/sw-toolbox.min.js" />
+        <item url="file://$PROJECT_DIR$/beta/build/vendor.min.js" />
+        <item url="file://$PROJECT_DIR$/beta/service-worker.min.js" />
         <item url="file://$PROJECT_DIR$/js/agency.min.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
+      <root url="file://$PROJECT_DIR$/beta/assets/js/exif.min.js" />
+      <root url="file://$PROJECT_DIR$/beta/assets/js/sdk.min.js" />
+      <root url="file://$PROJECT_DIR$/beta/build/main.min.js" />
+      <root url="file://$PROJECT_DIR$/beta/build/polyfills.min.js" />
+      <root url="file://$PROJECT_DIR$/beta/build/sw-toolbox.min.js" />
+      <root url="file://$PROJECT_DIR$/beta/build/vendor.min.js" />
+      <root url="file://$PROJECT_DIR$/beta/service-worker.min.js" />
       <root url="file://$PROJECT_DIR$/js/agency.min.js" />
     </CLASSES>
     <JAVADOC />

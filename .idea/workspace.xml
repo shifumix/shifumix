@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b51205e8-903b-4932-95f0-d62cbc997d6a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,11 +41,13 @@
         <counts>
           <entry key="html" value="2" />
           <entry key="js" value="5" />
+          <entry key="json" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="2" />
+          <entry key="JSON" value="1" />
           <entry key="JavaScript" value="5" />
         </counts>
       </usages-collector>
@@ -110,13 +112,7 @@
             <path>
               <item name="shifumixwebsite" type="b2602c69:ProjectViewProjectNode" />
               <item name="shifumixwebsite" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shifumixwebsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shifumixwebsite" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="agency.js" type="620a8d5e:NestingTreeNode" />
+              <item name="beta" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -173,7 +169,7 @@
       <workItem from="1545037086113" duration="3854000" />
       <workItem from="1545067194474" duration="177000" />
       <workItem from="1545067526306" duration="421000" />
-      <workItem from="1545068008804" duration="238000" />
+      <workItem from="1545068008804" duration="458000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1544658353116</created>
@@ -214,10 +210,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14113000" />
+    <option name="totallyTimeSpent" value="14333000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13113007" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -268,6 +264,9 @@
           <caret line="51" column="6" lean-forward="true" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beta/manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
