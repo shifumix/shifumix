@@ -15,8 +15,8 @@
     <session id="250551579">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
-          <entry key="project.open.time.0" value="7" />
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.0" value="9" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="1" />
@@ -24,7 +24,7 @@
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -50,7 +50,7 @@
           <entry key="css" value="9" />
           <entry key="gitignore" value="1" />
           <entry key="html" value="4" />
-          <entry key="js" value="5" />
+          <entry key="js" value="6" />
           <entry key="json" value="1" />
           <entry key="map" value="1" />
           <entry key="scss" value="22" />
@@ -61,7 +61,7 @@
           <entry key="CSS" value="9" />
           <entry key="HTML" value="4" />
           <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="5" />
+          <entry key="JavaScript" value="6" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="SCSS" value="22" />
           <entry key="SourceMap" value="1" />
@@ -132,6 +132,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,11 +145,23 @@
               <item name="shifumixwebsite" type="462c0819:PsiDirectoryNode" />
               <item name="beta" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="shifumixwebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shifumixwebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="beta" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shifumixwebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shifumixwebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="beta" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="main.js" type="620a8d5e:NestingTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -168,12 +181,12 @@
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hhoareau\IdeaProjects\shifumixwebsite\beta" />
       <recent name="C:\Users\hhoareau\IdeaProjects\shifumixwebsite\css" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hhoareau\IdeaProjects\shifumixwebsite\css" />
-      <recent name="C:\Users\hhoareau\IdeaProjects\shifumixwebsite\beta" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -216,6 +229,8 @@
       <workItem from="1545411282363" duration="521000" />
       <workItem from="1545473713292" duration="73000" />
       <workItem from="1545495376835" duration="116000" />
+      <workItem from="1545936203588" duration="82000" />
+      <workItem from="1545984561439" duration="3000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1544658353116</created>
@@ -287,16 +302,23 @@
       <option name="project" value="LOCAL" />
       <updated>1545495437907</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="initial commit">
+      <created>1545936291757</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1545936291758</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20931000" />
+    <option name="totallyTimeSpent" value="21016000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1380597" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.141258" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -351,12 +373,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/beta/.gitignore" />
     <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="281">
           <caret column="244800" selection-start-column="244800" selection-end-column="244800" />
         </state>
       </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/_contact.scss">
       <provider selected="true" editor-type-id="text-editor" />
@@ -426,6 +448,9 @@
           <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beta/build/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
