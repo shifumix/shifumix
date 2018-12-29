@@ -45,19 +45,7 @@
     })
     $('.portfolio-modal').on('hidden.bs.modal', function(e) {
         $('.navbar').removeClass('d-none');
-    })
-
-
-    var setprofil=function(i) {
-        var type_profil="pro";
-        if(i==1)type_profil="perso";
-
-        if (type_profil == 'perso') $(".services_pro").innerHTLM = "";
-        if (type_profil == 'pro') $(".services_perso").innerHTML = "";
-
-        $(".iframe_tester").src = "https://shifumixweb.appspot.com/tutoriel.html?screens=1&size=150&ihm=" + type_profil;
-        $(".profil").classList.toggle("invisible");
-    };
+    });
 
 
 })(jQuery); // End of use strict
