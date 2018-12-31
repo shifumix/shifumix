@@ -28,15 +28,14 @@
 
 
 <!-- Navigation -->
-<nav class="navbar navbar-expand-lg fixed-top  section-bg-tertiary" id="mainNav">
-    <div class="container">
-
+<nav class="navbar navbar-expand-lg fixed-top section-bg-tertiary" id="mainNav">
+    <div class="container-fluid">
         <div class="collapse navbar-collapse" id="navbarResponsive">
-            <ul class="navbar-nav text-uppercase ml-auto" style="font-size: x-large;font-weight: 700;">
+            <ul class="navbar-nav text-uppercase ml-auto" style="font-size: large;font-weight: 700;">
 
                 <li class="nav-item">
 
-                    <div class="nav-link text-secondary" style="font-size:x-large" id="profil">
+                    <div class="nav-link text-secondary" id="profil">
                         <a onclick="setprofil(1)">
                             <i class="fas fa-female" title="Vous êtes un particulier"></i>&nbsp;&nbsp;
                         </a>
@@ -55,15 +54,20 @@
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger text-secondary" href="#services">Services</a>
+                    <a class="nav-link text-secondary js-scroll-trigger " href="#services">Services</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger text-secondary" href="#tester">Tester</a>
+                    <a class="nav-link text-secondary js-scroll-trigger " href="#tester">Tester</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger text-secondary" href="#about">Contact</a>
+                    <a class="nav-link text-secondary js-scroll-trigger" href="#tarifs">Tarifs</a>
+                </li>
+
+
+                <li class="nav-item">
+                    <a class="nav-link text-secondary js-scroll-trigger" href="#about">Contact</a>
                 </li>
 
             </ul>
@@ -72,14 +76,14 @@
 </nav>
 
 
-<section class="bg-tertiary" id="intro">
-    <div class="container">
+<section class="bg-secondary" id="intro" style="padding: 2%;">
+    <div class="container-fluid">
         <div class="text-center">
-
+            <br><br><br><br>
             <img src="img/logo1024x500.png" alt="Responsive image" width="300" class="img-fluid">
             <br><br><br><br><br><br><br>
 
-            <div id="carouselExampleSlidesOnly" class="carousel slide text-dark" data-ride="carousel">
+            <div id="carouselExampleSlidesOnly" class="carousel slide text-light" data-ride="carousel">
 
                 <div class="carousel-item active">
                     <h2 class="section-subheading">Afficher un mur de photos partagées en 1 click</h2>
@@ -120,18 +124,20 @@
             </div>
 
             <a class="btn btn-primary btn-xl d-lg-none" href="http://beta.shifumix.com">DEMARRER</a>
+            <br><br><br><br>
         </div>
     </div>
 
 </section>
 
 
+<section class="bg-tertiary" style="padding:5%;" id="services">
+    <div class="container text-center" id="services_perso">
+        <h2 class="text-center section-heading text-uppercase">Services</h2>
+        <p>Shifumix offre de nombreux service pour renforcer l'interractivité de vos événements</p>
+        <br><br>
 
-<section class="bg-light" id="services">
-    <div class="container" id="services_perso">
-        <h2 class="text-center section-heading text-uppercase">Services</h2><br>
         <div class="row text-center">
-
             <div class="col-md-4"><span class="fa-stack fa-4x"> <em class="fas fa-circle fa-stack-2x text-primary"></em> <em class="fas fa-music fa-stack-1x fa-inverse"></em> </span>
                 <h4 class="service-heading">Musique </h4>
                 <p class="text-muted">Vos participants votent sur les titres de la playlist et y ajoutent leurs morceaux préférés</p>
@@ -154,7 +160,8 @@
             </div>
         </div>
     </div>
-    <div class="container bg-light" id="services_pro">
+    <br><br>
+    <div class="container" id="services_pro">
         <div class="row text-center">
             <div class="col-md-4"><span class="fa-stack fa-4x"> <em class="fas fa-circle fa-stack-2x text-primary"></em> <em class="fas fa-poll-h fa-stack-1x fa-inverse"></em> </span>
                 <h4 class="service-heading">Sondages </h4>
@@ -178,39 +185,48 @@
             </div>
         </div>
         <br><br>
-        <h2 class="text-center text-primary">Shifumix respect l'anonymat, gratuit et sans publicité<br>
+        <h2 class="text-center text-primary">Shifumix respecte l'anonymat, est totalement gratuit et sans publicité<br>
         </h2>
     </div>
 </section>
 
-<section class="bg-tertiary d-none d-lg-block" id="tester">
-    <div class="container" >
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2 class="section-heading text-uppercase">TESTER</h2>
-                <h3 class="section-subheading">Avec le simulateur, utilisez Shifumix comme si vous aviez un smartphone et un écran pour partager votre événement </h3>
-            </div>
+<section style="padding:2%"  class="bg-light d-none d-lg-block" id="tester">
+    <div class="container-fluid text-center" >
+        <h2 class="text-center section-heading text-uppercase">TESTER</h2>
+        <p>Avec le simulateur, utilisez Shifumix comme si vous aviez un smartphone et un écran pour partager votre événement </p>
             <iframe
                     id="iframe_tester"
-                    style="border:none"
+                    style="border:none;width:90%;max-width: 1200px;height: 75vh;"
                     src="https://shifumixweb.appspot.com/tutoriel.html?screens=1&size=150&ihm=perso"
-                    width="100%" height="730px" style="overflow:hidden" scrolling="no">
+                    style="overflow:hidden" scrolling="no">
             </iframe>
+    </div>
+</section>
 
-        </div>
+<section style="padding:2%" class="bg-light d-lg-none" id="tester_small">
+    <h2 class="text-center section-heading text-uppercase">Utiliser</h2>
+    <div class="container-fluid">
+        <iframe
+                id="iframe_mobile_tester"
+                src="http://app.shifumix.com"
+                height="400px" style="border:none;overflow:hidden;width:100%;" scrolling="no">
+        </iframe>
     </div>
 </section>
 
 
-<section class="d-none d-lg-block" id="price">
-    <div class="container text-center" >
-        <h2 class="section-heading text-uppercase">TARIFS</h2>
+<section id="tarifs" style="padding:0px" class="bg-tertiary">
+    <div class="container-fluid">
         <div class="row">
-            <div class="col-lg-50 text-center">
-
-                <h3 class="section-subheading">Shifumix est gratuit</h3>
+            <div class="col-sm text-center" style="padding:5%">
+                <h2 class="section-heading text-uppercase">TARIFS</h2><br>
+                <p>
+                    L'usage de Shifumix est <span class="text-primary">totalement gratuit</span>. <br><br>
+                    Le revenu nécessaire au fonctionnement du service est assuré par l'assistance à la personnalisation des widgets ou de l'application,
+                    les possibilités de formation spécifiques sur le service, l'usage pour des événements de grande empleure.
+                </p>
             </div>
-            <div class="col-lg-50 text-center">
+            <div class="col-sm" style="padding:0px">
                 <img src="/img/calculator.png" style="width: 100%;height:100%;">
             </div>
         </div>
@@ -242,26 +258,21 @@
 
 
 <!-- Footer -->
-<footer id="about">
+<footer id="about" class="bg-secondary text-light">
     <div class="container">
         <div class="row">
             <div class="col-md-4">
-                <span class="copyright">Copyright &copy; Your Website 2018</span>
+                <span class="copyright">Copyright &copy; Shifumix 2018</span>
             </div>
             <div class="col-md-4">
                 <ul class="list-inline social-buttons">
                     <li class="list-inline-item">
-                        <a href="#">
-                            <i class="fab fa-twitter"></i>
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a href="#">
+                        <a href="https://www.facebook.com/Shifumix/">
                             <i class="fab fa-facebook-f"></i>
                         </a>
                     </li>
                     <li class="list-inline-item">
-                        <a href="#">
+                        <a href="https://www.linkedin.com/company/f80">
                             <i class="fab fa-linkedin-in"></i>
                         </a>
                     </li>
@@ -270,10 +281,10 @@
             <div class="col-md-4">
                 <ul class="list-inline quicklinks">
                     <li class="list-inline-item">
-                        <a href="#">Privacy Policy</a>
+                        <a href="https://shifumixweb.appspot.com/privacy.html">Privacy Policy</a>
                     </li>
                     <li class="list-inline-item">
-                        <a href="#">Terms of Use</a>
+                        <a href="https://shifumixweb.appspot.com/termofuse_fr.html">Terms of Use</a>
                     </li>
                 </ul>
             </div>

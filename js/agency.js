@@ -28,7 +28,7 @@
 
     // Collapse Navbar
     var navbarCollapse = function() {
-        if ($("#mainNav").offset().top > 100) {
+        if ($("#mainNav").offset().top > 0) {
             $("#mainNav").addClass("navbar-shrink");
         } else {
             $("#mainNav").removeClass("navbar-shrink");
@@ -46,6 +46,5 @@
     $('.portfolio-modal').on('hidden.bs.modal', function(e) {
         $('.navbar').removeClass('d-none');
     });
-
 
 })(jQuery); // End of use strict
