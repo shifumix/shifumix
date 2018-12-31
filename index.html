@@ -7,9 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Shifumix Home Page</title>
-
     <link href="scss/perso.css" rel="stylesheet">
 
     <!-- Bootstrap core CSS -->
@@ -112,10 +111,7 @@
                 <div class="carousel-item">
                     <h2 class="section-subheading">Shifumix est gratuit, sans publicité et respect l'anonymat</h2>
                 </div>
-
-
             </div>
-
 
             <br><br>
 
@@ -138,7 +134,11 @@
         <br><br>
 
         <div class="row text-center">
-            <div class="col-md-4"><span class="fa-stack fa-4x"> <em class="fas fa-circle fa-stack-2x text-primary"></em> <em class="fas fa-music fa-stack-1x fa-inverse"></em> </span>
+            <div class="col-md-4">
+                <span class="fa-stack fa-4x">
+                 <em class="fas fa-circle fa-stack-2x text-primary"></em>
+                    <a href=""><em class="fas fa-music fa-stack-1x fa-inverse"></em></a>
+                </span>
                 <h4 class="service-heading">Musique </h4>
                 <p class="text-muted">Vos participants votent sur les titres de la playlist et y ajoutent leurs morceaux préférés</p>
             </div>
@@ -196,25 +196,16 @@
         <p>Avec le simulateur, utilisez Shifumix comme si vous aviez un smartphone et un écran pour partager votre événement </p>
             <iframe
                     id="iframe_tester"
-                    style="border:none;width:90%;max-width: 1200px;height: 75vh;"
+                    style="border:none;width:90%;max-width: 1200px;height: 75vh;overflow:hidden"
                     src="https://shifumixweb.appspot.com/tutoriel.html?screens=1&size=150&ihm=perso"
-                    style="overflow:hidden" scrolling="no">
+                    scrolling="no">
             </iframe>
     </div>
 </section>
 
-<section style="padding:2%" class="bg-light d-lg-none" id="tester_small">
-    <h2 class="text-center section-heading text-uppercase">Tutos</h2>
-    <div class="container-fluid">
-        <div class="embed-responsive embed-responsive-1by1">
-            <iframe class="embed-responsive-item" src="./img/AddSong.avi"></iframe>
-        </div>
-    </div>
-</section>
 
-
-<section id="tarifs" style="padding:0px" class="bg-tertiary">
-    <div class="container-fluid">
+<section id="tarifs" style="padding:0px" class="bg-dark">
+    <div class="container-fluid text-light">
         <div class="row">
             <div class="col-sm text-center" style="padding:5%">
                 <h2 class="section-heading text-uppercase">TARIFS</h2><br>
