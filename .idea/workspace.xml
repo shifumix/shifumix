@@ -13,17 +13,18 @@
     <session id="-835947693">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="conf" value="3" />
-          <entry key="html" value="1840" />
+          <entry key="html" value="1894" />
           <entry key="js" value="35" />
           <entry key="json" value="204" />
           <entry key="txt" value="28" />
@@ -31,7 +32,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="1840" />
+          <entry key="HTML" value="1894" />
           <entry key="JSON" value="204" />
           <entry key="JavaScript" value="35" />
           <entry key="PLAIN_TEXT" value="31" />
@@ -60,15 +61,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="191" column="19" selection-start-line="191" selection-start-column="19" selection-end-line="191" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -146,8 +138,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
-    <option name="y" value="-8" />
+    <option name="x" value="-1905" />
+    <option name="y" value="78" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -183,8 +175,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -243,6 +235,7 @@
       <workItem from="1546257420961" duration="10914000" />
       <workItem from="1546278698928" duration="119000" />
       <workItem from="1546365887235" duration="1514000" />
+      <workItem from="1546512071710" duration="1939000" />
     </task>
     <task id="LOCAL-00001" summary="reconnexion">
       <created>1546254979729</created>
@@ -314,17 +307,24 @@
       <option name="project" value="LOCAL" />
       <updated>1546367387290</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="première version">
+      <created>1546523292064</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1546523292064</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14967000" />
+    <option name="totallyTimeSpent" value="16906000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15351813" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15511727" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Gulp" order="3" side_tool="true" />
@@ -384,15 +384,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="191" column="19" selection-start-line="191" selection-start-column="19" selection-end-line="191" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        <state relative-caret-position="323">
+          <caret line="294" column="89" lean-forward="true" selection-start-line="294" selection-start-column="89" selection-end-line="294" selection-end-column="89" />
         </state>
       </provider>
     </entry>
@@ -410,6 +403,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/shifumix_website.js">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
