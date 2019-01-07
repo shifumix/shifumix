@@ -28,7 +28,7 @@
     "version":"1.0.0",
     "myAddress":"https://ss.shifumix.com",
     "port":4567,
-    "jks_password","hh4271"
+    "jks_password":"hh4271"
   },
   
   "Client":{
