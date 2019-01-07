@@ -4,6 +4,7 @@
     "version": "1.0.0",
     "server":"https://shifumixweb.appspot.com",
     "port":4271,
+    "myAddress":"ss.shifumix.com",
     "events_dir":"/home/events",
 
     "mail_server":{
