@@ -1,0 +1,19 @@
+{
+  "MicroServer": {
+    "name": "shifumixV2",
+    "version": "1.0.0",
+    "server":"https://shifumixweb.appspot.com",
+    "port":4271,
+    "events_dir":"/home/events",
+
+    "mail_server":{
+        "smtp.host":"smtp.gmail.com",
+        "user":"shifumixwww@gmail.com",
+        "password":"hh4271!!"
+      }
+  },
+  
+  "SocketServer":{},
+  
+  "Client":{},
+}
