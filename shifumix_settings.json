@@ -1,10 +1,16 @@
 {
+  "Server":{
+    "api_name":"shifumixweb",
+    "domain":"appspot.com",
+    "api_version":"v1",
+    "password","hh4271",
+  },
+  
   "MicroServer": {
-    "name": "shifumixV2",
+    "name": "shifumix",
     "version": "1.0.0",
-    "server":"https://shifumixweb.appspot.com",
     "port":4271,
-    "myAddress":"ss.shifumix.com",
+    "myAddress":"https://ss.shifumix.com",
     "events_dir":"/home/events",
 
     "mail_server":{
@@ -14,7 +20,15 @@
       }
   },
   
-  "SocketServer":{},
+  "SocketServer":{
+    "version":"1.0.0",
+    "myAddress":"https://ss.shifumix.com",
+    "port":4567,
+    "jks_password","hh4271"
+  },
   
-  "Client":{}
+  "Client":{
+    "primary_color":"orange",
+    "secondary_color":"lightgrey"
+  }
 }
