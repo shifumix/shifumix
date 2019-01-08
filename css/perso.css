@@ -4,4 +4,10 @@ bg-secondary {
 bg-primary {
   background-color: #F07C00; }
 
+.carousel-center {
+  top:20%;
+  left:10%;
+  width:30%;
+}
+
 /*# sourceMappingURL=perso.css.map */
