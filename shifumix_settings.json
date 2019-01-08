@@ -2,6 +2,15 @@
   "Server":{
     "project_id":"shifumixweb",
     "domain":"appspot.com",
+    "root_email":"root@shifumix.com",
+    "admin_email":"noreply@shifumix.com",
+    "image_proxy":"https://images.weserv.nl/?url=/",
+
+    "keys":{
+      "google_api":"AIzaSyB_n-rCldEBObvMroy7UQ4-GLsnDlGyYvM",
+      "pixabay":"5489947-2039fe3621c0de1cbb91d08c6",
+      "customer_search":"AIzaSyCbO6Haf3LbegyF7rO32eb6tRLTEmGPOJ8"
+    },
     
     "api":{
       "name":"shifumix",  
@@ -13,7 +22,7 @@
   "MicroServer": {
     "name": "shifumix",
     "version": "1.0.0",
-    "port":4271,
+    "port":5271,
     "myAddress":"https://ss.shifumix.com",
     "events_dir":"/home/events",
 
@@ -32,7 +41,5 @@
   },
   
   "Client":{
-    "primary_color":"orange",
-    "secondary_color":"lightgrey"
   }
 }
