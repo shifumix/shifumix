@@ -5,7 +5,7 @@ bg-primary {
   background-color: #F07C00; }
 
 .carousel-center {
-  top:20%;
+  top:15%;
   left:10%;
   width:40%;
   max-width: 600px;
@@ -16,5 +16,44 @@ bg-primary {
   font-weight: bolder;
   color:white;
 }
+
+.btn-title {
+  position: absolute;
+  z-index: 10;
+  left:70%;
+  top:45%;
+  width: 25vmin;
+  height: 6.6vmin;
+  font-size:3vmin;
+}
+
+
+
+.accordion-section .panel-default > .panel-heading {
+  border: 0;
+  background: #f4f4f4;
+  padding: 0;
+}
+.accordion-section .panel-default .panel-title a {
+  display: block;
+  font-style: italic;
+  font-size: 1.5rem;
+}
+.accordion-section .panel-default .panel-title a:after {
+  font-family: 'FontAwesome';
+  font-style: normal;
+  font-size: 3rem;
+  content: "\f106";
+  color: #1f7de2;
+  float: right;
+  margin-top: -12px;
+}
+.accordion-section .panel-default .panel-title a.collapsed:after {
+  content: "\f107";
+}
+.accordion-section .panel-default .panel-body {
+  font-size: 1.2rem;
+}
+
 
 /*# sourceMappingURL=perso.css.map */
