@@ -1,10 +1,13 @@
 {
+  "log":"",
+  
   "Server":{
     "project_id":"shifumixweb",
     "domain":"appspot.com",
     "root_email":"root@shifumix.com",
     "admin_email":"noreply@shifumix.com",
     "image_proxy":"https://images.weserv.nl/?url=/",
+    "authent_services":"facebook,google,linkedin,email,anonymous",
 
     "keys":{
       "google_api":"AIzaSyB_n-rCldEBObvMroy7UQ4-GLsnDlGyYvM",
@@ -20,11 +23,11 @@
   },
   
   "MicroServer": {
-    "name": "shifumix",
     "version": "1.0.0",
     "port":5271,
     "myAddress":"https://ss.shifumix.com",
     "events_dir":"/home/events",
+    "jks_password":"hh4271",
 
     "mail_server":{
         "smtp.host":"smtp.gmail.com",
