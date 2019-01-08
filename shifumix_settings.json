@@ -27,6 +27,7 @@
     "port":5271,
     "myAddress":"https://ss.shifumix.com",
     "events_dir":"/home/events",
+    "jks_password":"hh4271",
 
     "mail_server":{
         "smtp.host":"smtp.gmail.com",
