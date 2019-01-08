@@ -7,7 +7,14 @@ bg-primary {
 .carousel-center {
   top:20%;
   left:10%;
-  width:30%;
+  width:40%;
+  max-width: 600px;
+}
+
+.carousel-title {
+  font-size: 4vmin;
+  font-weight: bolder;
+  color:white;
 }
 
 /*# sourceMappingURL=perso.css.map */
