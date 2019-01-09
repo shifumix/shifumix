@@ -2,7 +2,6 @@
 <html lang="en">
 
 <head>
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
@@ -21,8 +20,14 @@
     <!-- Custom styles for this template -->
     <link href="scss/agency.css" rel="stylesheet">
     <link href="css/perso.css" rel="stylesheet">
-
 </head>
+
+<style>
+    .carousel-inner img {
+        width: 100%;
+        max-height:80vh;
+    }
+</style>
 
 <body id="page-top">
 
@@ -76,80 +81,66 @@
 </nav>
 
 
-<section class="bg-secondary m-0 p-0" id="intro">
+<section class="m-0 p-0"  id="intro">
     <!--<br><br><br><br>-->
     <!--<img src="img/logo1024x500.png" alt="Responsive image" width="300" class="img-fluid">-->
     <!--<br><br><br><br><br><br><br>-->
 
-    <a class="btn btn-primary btn-x1 btn-title" href="http://templates.shifumix.com">DEMARRER</a>
+    <div id="carouselExampleSlidesOnly" class="carousel-fade slide" data-ride="carousel">
 
-    <div id="carouselExampleSlidesOnly" class="carousel-inner slide text-light" data-ride="carousel">
-        <div class="carousel-item active">
+        <div class="carousel-inner">
+            <div class="carousel-item active" id="slide1">
+                <img src="/img/portfolio/iwall.jpg">
+                <div class="carousel-caption carousel-center">
+                    <div class="carousel-title">Afficher un mur de photos partagées en 1 click</div>
+                    <a class="btn btn-primary btn-title" href="javascript:openScreen(1)">START</a>
+                </div>
+            </div>
 
-            <div style="padding:0;width:100%;height:60vh;">
-                <img class="d-block w-100" src="./img/portfolio/iwall.jpg">
+            <div class="carousel-item" id="slide2">
+                <img src="/img/portfolio/yourthedj.jpg">
+                <div class="carousel-caption carousel-center">
+                    <div class="carousel-title">Modifier la playlist à tout moment</div>
+                    <a class="btn btn-primary btn-title" href="javascript:openScreen(2)">START</a>
+                </div>
             </div>
 
 
-            <div class="carousel-caption carousel-center">
-                <span class="carousel-title">Afficher un mur de photos partagées en 1 click</span>
-            </div>
-        </div>
-
-        <div class="carousel-item">
-
-            <div style="padding:0;width:100%;height:60vh;">
-                <img class="d-block w-100" src="./img/portfolio/yourthedj.jpg">
+            <div class="carousel-item" id="slide3">
+                <img class="w-100" src="./img/portfolio/sharemessage.jpg">
+                <div class="carousel-caption carousel-center">
+                    <div class="carousel-title">Afficher des messages partagés en grand format</div>
+                    <a class="btn btn-primary btn-title" href="javascript:openScreen(3)">START</a>
+                </div>
             </div>
 
-            <div class="carousel-caption carousel-center">
-                <span class="carousel-title">Modifier la playlist à tout moment</span>
+            <!--<div class="carousel-item">-->
+            <!--<h2 class="section-subheading">Sonder vos participants en temps réel</h2>-->
+            <!--<h2 class="section-subheading">Sonder vos participants en temps réel</h2>-->
+            <!--</div>-->
+
+            <!--<div class="carousel-item">-->
+            <!--<h2 class="section-subheading">Organiser des paris, une tombola en quelques click</h2>-->
+            <!--</div>-->
+
+            <div class="carousel-item" id="slide6">
+                <img src="/img/portfolio/menuonphone.jpg">
+                <div class="carousel-caption carousel-center">
+                    <div class="carousel-title">Passez vos commandes depuis votre portable</div>
+                    <a class="btn btn-primary btn-title" href="javascript:openScreen(6)">START</a>
+                </div>
             </div>
 
-        </div>
+            <div class="carousel-item" id="slide7">
+                    <img src="./img/portfolio/gratuit.jpg">
+                <div class="carousel-caption carousel-center" >
+                    <div class="carousel-title">Shifumix est gratuit, sans publicité et respect l'anonymat</div>
+                    <a class="btn btn-primary btn-title" href="javascript:openScreen(7)">START</a>
+                </div>
 
-        <div class="carousel-item">
-
-            <div style="padding:0;width:100%;height:60vh;">
-                <img class="d-block w-100" src="./img/portfolio/sharemessage.jpg">
-            </div>
-
-            <div class="carousel-caption carousel-center">
-                <span class="carousel-title">Afficher des messages partagés en grand format</span>
-            </div>
-
-        </div>
-
-        <!--<div class="carousel-item">-->
-        <!--<h2 class="section-subheading">Sonder vos participants en temps réel</h2>-->
-        <!--</div>-->
-
-        <!--<div class="carousel-item">-->
-        <!--<h2 class="section-subheading">Organiser des paris, une tombola en quelques click</h2>-->
-        <!--</div>-->
-
-        <div class="carousel-item">
-
-            <div style="padding:0;width:100%;height:60vh;">
-                <img class="d-block w-100" src="./img/portfolio/menuonphone.png">
-            </div>
-
-            <div class="carousel-caption carousel-center">
-                <span class="carousel-title">Passez vos commandes depuis votre portable</span>
             </div>
         </div>
 
-        <div class="carousel-item">
-
-            <div style="padding:0;width:100%;height:60vh;">
-                <img class="d-block w-100" src="./img/portfolio/gratuit.jpg">
-            </div>
-
-            <div class="carousel-caption carousel-center" >
-                <span class="carousel-title">Shifumix est gratuit, sans publicité et respect l'anonymat</span>
-            </div>
-
-        </div>
     </div>
 
 
@@ -173,7 +164,7 @@
 
         <div class="row text-center">
             <div class="col-md-4">
-                <span class="fa-stack fa-4x">
+                <span class="fa-stack fa-3x">
                  <em class="fas fa-circle fa-stack-2x text-primary"></em>
                     <a href=""><em class="fas fa-music fa-stack-1x fa-inverse"></em></a>
                 </span>
@@ -182,7 +173,7 @@
             </div>
             <div class="col-md-4">
                 <a href="https://goo.gl/j3mEqK">
-                    <span class="fa-stack fa-4x">
+                    <span class="fa-stack fa-3x">
                       <i class="fas fa-circle fa-stack-2x text-primary"></i>
                       <i class="fas fa-camera fa-stack-1x fa-inverse"></i>
                     </span>
@@ -192,7 +183,7 @@
             </div>
             <div class="col-md-4">
 
-                <span class="fa-stack fa-4x">
+                <span class="fa-stack fa-3x">
                   <i class="fas fa-circle fa-stack-2x text-primary"></i>
                     <i class="fas fa-dice fa-stack-1x fa-inverse"></i>
 
@@ -207,13 +198,13 @@
     <br><br>
     <div class="container" id="services_pro">
         <div class="row text-center">
-            <div class="col-md-4"><span class="fa-stack fa-4x"> <em class="fas fa-circle fa-stack-2x text-primary"></em> <em class="fas fa-poll-h fa-stack-1x fa-inverse"></em> </span>
+            <div class="col-md-4"><span class="fa-stack fa-3x"> <em class="fas fa-circle fa-stack-2x text-primary"></em> <em class="fas fa-poll-h fa-stack-1x fa-inverse"></em> </span>
                 <h4 class="service-heading">Sondages </h4>
                 <p class="text-muted">Sondez vos participant, organisez un brainstorming, afficher les résultats comme sur un paper board</p>
             </div>
             <div class="col-md-4">
                 <a href="https://goo.gl/uwGWuU">
-                <span class="fa-stack fa-4x">
+                <span class="fa-stack fa-3x">
               <i class="fas fa-circle fa-stack-2x text-primary"></i>
               <i class="fas fa-video fa-stack-1x fa-inverse"></i>
             </span>
@@ -224,7 +215,7 @@
             </div>
             <div class="col-md-4">
                 <a href="https://goo.gl/7Lv9ow">
-            <span class="fa-stack fa-4x">
+            <span class="fa-stack fa-3x">
               <i class="fas fa-circle fa-stack-2x text-primary"></i>
               <i class="fas fa-comments fa-stack-1x fa-inverse"></i>
             </span>
@@ -345,6 +336,12 @@
     </div>
 </footer>
 
+
+<script>
+    function openScreen(elt){
+        debugger;
+    }
+</script>
 
 <!-- Bootstrap core JavaScript -->
 <script src="vendor/jquery/jquery.min.js"></script>

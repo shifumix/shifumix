@@ -9,7 +9,7 @@
     "author": "Hervé Hoareau",
 
   "scripts": {
-    "server": "live-server --ignore=./backup"
+    "server": "live-server --ignore=./backup --port=8090"
   },
 
     "contributors": [
