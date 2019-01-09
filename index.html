@@ -24,8 +24,10 @@
 
 <style>
     .carousel-inner img {
-        width: 100%;
+        min-height: 300px;
         max-height:70vh;
+        width:100vw;
+        object-fit: cover;
     }
 </style>
 
@@ -92,7 +94,7 @@
             <div class="carousel-item active" id="slide1">
                 <img src="/img/portfolio/iwall.jpg">
                 <div class="carousel-caption carousel-center">
-                    <div class="carousel-title">Afficher un mur de photos partagées en 1 click</div>
+                    <div class="carousel-title">Affichez un mur de photos partagées en 1 click</div>
                     <a class="btn btn-primary btn-title" href="javascript:openScreen(1)">START</a>
                 </div>
             </div>
@@ -100,7 +102,7 @@
             <div class="carousel-item" id="slide2">
                 <img src="/img/portfolio/yourthedj.jpg">
                 <div class="carousel-caption carousel-center">
-                    <div class="carousel-title">Modifier la playlist à tout moment</div>
+                    <div class="carousel-title">Construire la playlist ensemble<br>votez sur vos titres préférés</div>
                     <a class="btn btn-primary btn-title" href="javascript:openScreen(2)">START</a>
                 </div>
             </div>
@@ -109,7 +111,7 @@
             <div class="carousel-item" id="slide3">
                 <img class="w-100" src="./img/portfolio/sharemessage.jpg">
                 <div class="carousel-caption carousel-center">
-                    <div class="carousel-title">Afficher des messages partagés en grand format</div>
+                    <div class="carousel-title">Partagez vos messages en grand format</div>
                     <a class="btn btn-primary btn-title" href="javascript:openScreen(3)">START</a>
                 </div>
             </div>
@@ -126,7 +128,7 @@
             <div class="carousel-item" id="slide6">
                 <img src="/img/portfolio/menuonphone.jpg">
                 <div class="carousel-caption carousel-center">
-                    <div class="carousel-title">Passez vos commandes depuis votre portable</div>
+                    <div class="carousel-title">Passez vos commandes depuis votre smartphone</div>
                     <a class="btn btn-primary btn-title" href="javascript:openScreen(6)">START</a>
                 </div>
             </div>
@@ -155,9 +157,9 @@
 </section>
 
 
-<section class="bg-tertiary" style="padding:5%;" id="services">
+<section class="bg-tertiary p-0" id="services">
     <div class="container text-center" id="services_perso">
-        <h2 class="text-center section-heading text-uppercase">Services</h2>
+        <span class="section-heading section-title">Services</span>
         <p>Shifumix offre de nombreux service pour renforcer l'interractivité de vos événements</p>
         <br><br>
 
@@ -230,9 +232,9 @@
     </div>
 </section>
 
-<section style="padding:2%"  class="bg-light d-none d-lg-block" id="tester">
+<section class="bg-light d-none d-lg-block p-0" id="tester">
     <div class="container-fluid text-center" >
-        <h2 class="text-center section-heading text-uppercase">TESTER</h2>
+        <span class="section-title section-heading">Tester</span>
         <p>Avec le simulateur, utilisez Shifumix comme si vous aviez un smartphone et un écran pour partager votre événement </p>
         <iframe
                 id="iframe_tester"
@@ -246,9 +248,10 @@
 
 <section id="tarifs" style="padding:0px" class="bg-dark">
     <div class="container-fluid text-light">
+
         <div class="row">
             <div class="col-sm text-center" style="padding:5%">
-                <h2 class="section-heading text-uppercase">TARIFS</h2><br>
+                <span class="section-heading section-title">Tarifs</span><br>
                 <p>
                     L'usage de Shifumix est <span class="text-primary">totalement gratuit</span>. <br><br>
                     Le revenu nécessaire au fonctionnement du service est assuré par l'assistance à la personnalisation des widgets ou de l'application,
@@ -256,7 +259,7 @@
                 </p>
             </div>
             <div class="col-sm d-none d-lg-block" style="padding:0px">
-                <img src="./img/portfolio/calculator.png" style="width: 100%;height:100%;">
+                <img src="./img/portfolio/calculator.jpg" style="width: 100%;height:100%;">
             </div>
         </div>
     </div>
