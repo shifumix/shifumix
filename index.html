@@ -227,18 +227,18 @@
             </div>
         </div>
         <br><br>
-        <h2 class="text-center text-primary">Shifumix respecte l'anonymat, est totalement gratuit et sans publicité<br>
-        </h2>
+        <h2 class="text-center text-primary">Shifumix respecte l'anonymat, est totalement gratuit et sans publicité</h2>
+        <br><br>
     </div>
 </section>
 
 <section class="bg-light d-none d-lg-block p-0" id="tester">
     <div class="container-fluid text-center" >
         <span class="section-title section-heading">Tester</span>
-        <p>Avec le simulateur, utilisez Shifumix comme si vous aviez un smartphone et un écran pour partager votre événement </p>
+        <p>Avec le simulateur, utilisez Shifumix comme si vous aviez un smartphone et un écran pour partager votre événement </p><br>
         <iframe
                 id="iframe_tester"
-                style="border:none;width:90%;max-width: 1200px;height: 75vh;overflow:hidden"
+                style="border:none;width:95%;max-width: 1500px;height: 75vh;overflow:hidden"
                 src="https://shifumixweb.appspot.com/tutoriel.html?screens=1&size=150&ihm=perso"
                 scrolling="no">
         </iframe>
@@ -342,9 +342,14 @@
 <script>
     function openScreen(template){
         var url="";
-        if(template==1)url="https://goo.gl/o4UUTq";
-        if(template==2)url="https://goo.gl/QWSsQT";
-        if(template==3)url="https://goo.gl/uDzjt9";
+        if(document.location.href.indexOf("127.0.0.1")==-1 && document.location.href.indexOf("localhost")==-1){
+            if(template==1)url="https://goo.gl/o4UUTq";
+            if(template==2)url="https://goo.gl/QWSsQT";
+            if(template==3)url="https://goo.gl/uDzjt9";
+        } else {
+            if(template==1)url="https://goo.gl/giM8HG";
+            if(template==2)url="http://localhost:8080/widgets/freeScreen.html?eventcode=557394&sc=1547055085317&widget=musicOnly&event=event1547055085317&user=event_owner&message=Cette%20%C3%A9cran%20vous%20permet%20de%20partager%20votre%20%C3%A9v%C3%A9nement%20avec%20l%27ensemble%20des%20participants&1547055086050";
+        }
         window.open(url,"_blank","left=0,top=0,resizable=0,scrollbars=0,titlebar=0,status=0,width="+screen.availWidth+",height="+screen.availHeight);
     }
 </script>
