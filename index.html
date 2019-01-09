@@ -25,7 +25,7 @@
 <style>
     .carousel-inner img {
         width: 100%;
-        max-height:80vh;
+        max-height:70vh;
     }
 </style>
 
@@ -135,7 +135,6 @@
                     <img src="./img/portfolio/gratuit.jpg">
                 <div class="carousel-caption carousel-center" >
                     <div class="carousel-title">Shifumix est gratuit, sans publicité et respect l'anonymat</div>
-                    <a class="btn btn-primary btn-title" href="javascript:openScreen(7)">START</a>
                 </div>
 
             </div>
@@ -257,7 +256,7 @@
                 </p>
             </div>
             <div class="col-sm d-none d-lg-block" style="padding:0px">
-                <img src="./img/calculator.png" style="width: 100%;height:100%;">
+                <img src="./img/portfolio/calculator.png" style="width: 100%;height:100%;">
             </div>
         </div>
     </div>
@@ -338,8 +337,12 @@
 
 
 <script>
-    function openScreen(elt){
-        debugger;
+    function openScreen(template){
+        var url="";
+        if(template==1)url="https://goo.gl/kt3mEa";
+        if(template==2)url="https://goo.gl/r7YRaf";
+        if(template==3)url="https://goo.gl/29fzez";
+        window.open(url,"_blank","left=0,top=0,resizable=0,scrollbars=0,titlebar=0,status=0,width="+screen.availWidth+",height="+screen.availHeight);
     }
 </script>
 
