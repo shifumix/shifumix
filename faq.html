@@ -5,10 +5,10 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Question frequente pour l'usage et la comprehension de Shifumix">
+    <meta name="author" content="Hervé Hoareau">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Shifumix Home Page</title>
+    <title>FAQ Shifumix</title>
     <link href="scss/perso.css" rel="stylesheet">
 
     <!-- Bootstrap core CSS -->
@@ -26,45 +26,660 @@
 
 <body id="page-top">
 
-<section class="accordion-section clearfix mt-3" aria-label="Question Accordions">
+<section aria-label="Question Accordions">
+
+
+
+
     <div class="container">
-
-        <h2>Frequently Asked Questions </h2>
-
-        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-
-            <div class="panel panel-default">
-                <div class="panel-heading p-3 mb-3" role="tab" id="heading0">
-                    <h3 class="panel-title">
-                        <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse0" aria-expanded="true" aria-controls="collapse0">
-                            De quoi ai-je besoin pour afficher un iWall ?
-                        </a>
-                    </h3>
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="nav nav-pills faq-nav" id="faq-tabs" role="tablist" aria-orientation="vertical">
+                    <a href="#tab0" class="nav-link" data-toggle="pill" role="tab" aria-controls="tab1" aria-selected="true">
+                        <i class="mdi mdi-help-circle"></i> Principaux concepts de Shifumix
+                    </a>
+                    <a href="#tab1" class="nav-link active" data-toggle="pill" role="tab" aria-controls="tab1" aria-selected="true">
+                        <i class="mdi mdi-help-circle"></i> Installer Shifumix
+                    </a>
+                    <a href="#tab2" class="nav-link" data-toggle="pill" role="tab" aria-controls="tab2" aria-selected="false">
+                        <i class="mdi mdi-account"></i> Les événements
+                    </a>
+                    <a href="#tab3" class="nav-link" data-toggle="pill" role="tab" aria-controls="tab3" aria-selected="false">
+                        <i class="mdi mdi-account-settings"></i> La musique
+                    </a>
+                    <a href="#tab4" class="nav-link" data-toggle="pill" role="tab" aria-controls="tab4" aria-selected="false">
+                        <i class="mdi mdi-heart"></i>Les photos & messages
+                    </a>
+                    <a href="#tab5" class="nav-link" data-toggle="pill" role="tab" aria-controls="tab5" aria-selected="false">
+                        <i class="mdi mdi-coin"></i>  Les sondages / paris / jeux
+                    </a>
+                    <a href="#tab6" class="nav-link" data-toggle="pill" role="tab" aria-controls="tab6" aria-selected="false">
+                        <i class="mdi mdi-help"></i> Les autres services
+                    </a>
                 </div>
-                <div id="collapse0" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading0">
-                    <div class="panel-body px-3 mb-4">
+            </div>
+            <div class="col-lg-8">
+                <div class="tab-content" id="faq-tab-content">
+                    <div class="tab-pane show" id="tab0" role="tabpanel" aria-labelledby="tab0">
+                        <div class="accordion" id="accordion-tab-0">
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-0-heading-1">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-0-content-1" aria-expanded="false" aria-controls="accordion-tab-0-content-1">
+                                            Shifumix, à quoi ça sert ?
+                                        </button>
+                                    </h5>
+                                </div>
+                                <div class="collapse show" id="accordion-tab-0-content-1" aria-labelledby="accordion-tab-0-heading-1" data-parent="#accordion-tab-0">
+                                    <div class="card-body">
+                                        <p>
+                                            Shifumix se présente comme un ensemble de services visant à augmenter les interactions entre les participants d’un événement et permettant à l’organisateur de mieux connaître ses participants pour mieux les fidéliser.
 
-                        – Il vous suffit d’avoir un écran ou retroprojecteur connecté à internet
-                        – Lancer un navigateur et ouvrir la page http://w.shifumix.com.
-                        – Puis via le menu  » Vos écrans  » de l’application vous pouvez piloter à distance ce que vous affichez
+                                            Il est utilisable dans un cadre privé ou dans un contexte public (bars, événements divers)
 
-                        Et si vous avez plusieurs écrans vous pouvez avoir plusieurs iWALL en même temps !
+                                            Techniquement c’est une application web, compatible avec les principaux navigateurs mobile et desktop du marché. Dans une configuration standard, chaque utilisateur sera plutôt connecté via son smartphone. L’organisateur sera de préférence sur un écran plus large (tablette, ordinateur). Différents écrans seront également connectés sur l’événement pour en montrer certains aspects (photos partagées, playlist, sondage).
 
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-0-heading-2">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-0-content-2" aria-expanded="false" aria-controls="accordion-tab-0-content-2">
+                                            Quels sont les services proposés ?
+                                        </button>
+                                    </h5>
+                                </div>
+                                <div class="collapse show" id="accordion-tab-0-content-2" aria-labelledby="accordion-tab-0-heading-2" data-parent="#accordion-tab-0">
+                                    <div class="card-body">
+                                        <p>
+                                            Les principales fonctionnalités qu’apporte Shifumix dans un événements sont les suivantes :
+
+                                        <ul class="c17 lst-kix_qhzeer97ctxn-0 start"><li class="c1"><span class="c0">Créer un événement avec un flyer, titre, descriptif, teaser </span></li><li class="c1"><span class="c0">inviter des participants,</span></li><li class="c1"><span class="c0">Créer ensemble la playliste et passer automatiquement les titres via un dispositif comme spotify, deezer, youtube,</span></li><li class="c1"><span class="c0">poster et liker des photos et des messages visibles de tous,</span></li><li class="c1"><span class="c0">proposer et participer à des mini-sondages, des paris et des jeux types tombola,</span></li><li class="c1"><span class="c0">prendre des commandes à distance (pour les bars / restaurant par exemples)</span></li><li class="c1"><span class="c0">contrôler des écrans à distance pour rendre l’événement visible de tous,</span></li><li class="c1"><span class="c0">rendre les événements visible en direct sur internet dans votre site web, votre blog,</span></li><li class="c1"><span class="c0">gérer une monnaie virtuelle pour fidéliser les participants aux prochains événements,</span></li></ul>
+
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-0-heading-3">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-0-content-3" aria-expanded="false" aria-controls="accordion-tab-0-content-3">
+                                            C'est quoi un événement ?
+                                        </button>
+                                    </h5>
+                                </div>
+                                <div class="collapse show" id="accordion-tab-0-content-3" aria-labelledby="accordion-tab-0-heading-3" data-parent="#accordion-tab-0">
+                                    <div class="card-body">
+                                        <p>
+                                            Les événements sont les “concepts” qui permettent aux participants de vivre une expérience commune. C’est le fait d’être connectés au même événement qui crée le lien.
+                                            Il existe 2 type d’événements. Les événements public, sont visibles sur une carte et donc ouverts à tous les participants de Shifumix dès lors qu’ils ont renseigné leur email (profil non anonyme). Les événements privés, ne sont pas visible sur une carte (ils n’ont pas forcément d’adresse). Ils sont accessibles par un code à 6 chiffres communiqué par l’organisateur.
+                                            Sauf demande explicite de l’organisateur, les événements public ne sont pas accessible aux participants anonymes
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-0-heading-4">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-0-content-4" aria-expanded="false" aria-controls="accordion-tab-0-content-4">
+                                            Qu'est ce que l'iCoin ?
+                                        </button>
+                                    </h5>
+                                </div>
+                                <div class="collapse show" id="accordion-tab-0-content-4" aria-labelledby="accordion-tab-0-heading-4" data-parent="#accordion-tab-0">
+                                    <div class="card-body">
+                                        <p>
+                                            L’organisateur de l’événement (ou le caissier) peut également distribuer une monnaie virtuelle aux participants. Cette monnaie s’apparente à un système de points de fidélité. En effet, la monnaie distribuée par un organisateur n’est disponible que pour les événements de cet organisateur.
+
+
+                                            C’est l’organisateur qui la distribue quand il le souhaite :
+
+                                        <ul class="c17 lst-kix_cded01an0y27-0 start"><li class="c4 c9"><span class="c0">en désignant un participant (depuis la liste des participants)</span></li><li class="c4 c9"><span class="c0">en attribuant automatiquement une somme de départ à tous les entrants,</span></li><li class="c4 c9"><span class="c0">en attribuant automatiquement une même somme à tous les participants actifs à un moment donné.</span></li></ul>
+
+                                            Il décide également comment elle peut être utilisée dans son événement. Elle peut être utilisé pour acheter des articles / des services. Elle est également utilisable dans les paris et les tirages au sort (faisant ainsi office de frais d’inscription a une tombolla par exemple).
+
+
+                                            Cette monnaie ne peut être convertie en monnaie réel. Lorsqu’un utilisateur demande l’effacement de son compte, le crédit de monnaie est effacé.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-0-heading-5">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-0-content-5" aria-expanded="false" aria-controls="accordion-tab-0-content-5">
+                                            Qu'est qu'un iWall ?
+                                        </button>
+                                    </h5>
+                                </div>
+                                <div class="collapse show" id="accordion-tab-0-content-5" aria-labelledby="accordion-tab-0-heading-5" data-parent="#accordion-tab-0">
+                                    <div class="card-body">
+                                        <p>
+                                            Les écrans partagés rendent visible certains aspects de l’événements : la playlist de musique, les dernières photos envoyés, les messages, les paris ou sondages en cours.
+
+                                            Les iWall sont des pages WEB affichant les différentes activitées d’un événement. Ils sont référencé dans l’iWall Store. Celui-ci est accessible dans l’application Shifumix.
+
+                                            Ils peuvent être affiché sur les écrans rattaché à l’organisateur de l’événement.
+
+
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            
+                            
+                        </div>
+                    </div>
+                    <div class="tab-pane show active" id="tab1" role="tabpanel" aria-labelledby="tab1">
+                        <div class="accordion" id="accordion-tab-1">
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-1-heading-1">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-1-content-1" aria-expanded="false" aria-controls="accordion-tab-1-content-1">
+                                            Comment installer Shifumix
+                                        </button>
+                                    </h5>
+                                </div>
+                                <div class="collapse show" id="accordion-tab-1-content-1" aria-labelledby="accordion-tab-1-heading-1" data-parent="#accordion-tab-1">
+                                    <div class="card-body">
+                                        <p>Il est possible de lancer Shifumix de plusieurs façon. Le plus simple est d'ouvrir <a href="http://shifumix.com">shifumix.com</a> depuis son ordinateur ou son smarphone</p>
+                                        <p>Shifumix n'est pas une application mais un site web adapté au mobile, ainsi aucune installation n'est nécéssaire.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-1-heading-2">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-1-content-2" aria-expanded="false" aria-controls="accordion-tab-1-content-2">
+                                            Qu'est-ce qu'un iWall ? De quoi ai-je besoin pour l'afficher ?
+                                        </button>
+                                    </h5>
+                                </div>
+                                <div class="collapse" id="accordion-tab-1-content-2" aria-labelledby="accordion-tab-1-heading-2" data-parent="#accordion-tab-1">
+                                    <div class="card-body">
+                                        <p> Un iWall est une vue partagée de votre événement. Il existe de nombreux iWall pour
+                                            - afficher la playlist, les photos, les messages
+                                            - afficher la liste des invités
+                                            - afficher le meilleur DJ ... etc ...
+
+                                            Pour afficher un iWall vous devez disposer d'un écran connecté à Internet. Cela peut être
+                                            - un retro-projecteur,
+                                            - un ordinateur,
+                                            - une télé connectée disposant d'Android ou de ChromeCast,
+                                            - une télé non connectée brancher sur un ordinateur,
+
+                                            Il suffit de lancer un navigateur Web sur l'écran et d'ouvrir la page w.shifumix.com.
+                                            Puis s'approprier l'écran en
+                                            - flashant le code bar affiché
+                                            - saisissant le code affiché dans l'application, rubrique "Mes écrans"
+                                            Puis de choisir quel type d'iWall afficher.
+
+                                            Et si vous avez plusieurs écrans vous pouvez avoir plusieurs iWALL en même temps !</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-1-heading-3">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-1-content-3" aria-expanded="false" aria-controls="accordion-tab-1-content-3">
+                                            Afficher un iWall sur Android TV ou un téléphone Android
+                                        </button>
+                                    </h5>
+                                </div>
+                                <div class="collapse" id="accordion-tab-1-content-3" aria-labelledby="accordion-tab-1-heading-3" data-parent="#accordion-tab-1">
+                                    <div class="card-body">
+                                        <p>
+                                            Rien de plus simple ! Il vous suffit de télécharger l'application Shifumix Player dans le Play Store
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-1-heading-4">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-1-content-4" aria-expanded="false" aria-controls="accordion-tab-1-content-4">
+                                            Comment se connecter à Shifumix ?
+                                        </button>
+                                    </h5>
+                                </div>
+                                <div class="collapse" id="accordion-tab-1-content-4" aria-labelledby="accordion-tab-1-heading-4" data-parent="#accordion-tab-1">
+                                    <div class="card-body">
+                                        <p>Morbo can't understand his teleprompter because he forgot how you say that letter that's shaped like a man wearing a hat. Also Zoidberg. Can we have Bender Burgers again? Goodbye, cruel world. Goodbye, cruel lamp. Goodbye, cruel velvet drapes, lined with what would appear to be some sort of cruel muslin and the cute little pom-pom curtain pull cords.</p>
+                                        <p><strong>Example: </strong>Cruel though they may be...</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-1-heading-4">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-1-content-4" aria-expanded="false" aria-controls="accordion-tab-1-content-4">
+                                            Comment personnaliser les iWall ?
+                                        </button>
+                                    </h5>
+                                </div>
+                                <div class="collapse" id="accordion-tab-1-content-4" aria-labelledby="accordion-tab-1-heading-4" data-parent="#accordion-tab-1">
+                                    <div class="card-body">
+                                        <p>Au-delà d’une liste de widget disponibles imédiatement, Shifumix permet la création de ses propres widget. Par exemple, pour mieux respecter la charte de son entreprise ou pour rassembler sur un même écran différents éléments de l’événement.
+
+                                            Principe
+                                            Un iWall est une page HTML utilisant des modules particuliers. Ces modules sont disponibles à travers de simples balise. Chaque module dispose de ses propres paramètres, modifiable au travers de la balise HTML correpondant.
+
+                                            Les différents modules disponibles sont les suivants :
+
+                                            Module	Fonctionnement	Attributs
+                                            shifu-playlist	Affiche la playlist de l’événement	size : nombre de titres affichés
+                                            shifu-video	Affiche la video en tête de la playlist
+                                            shifu-slideshow	Enchaine l’affichage des photos sur la base d’un fondu	delay: indique le temps en secondes entre chaque transition
+                                            shifu-chart	Affiche le classement des participants
+                                            bet	Affiche l’enjeu d’un pari / sondage
+                                            betoptions	Affiche les options d’un pari
+                                            shifu-timer	Affiche le temps restant avant la fin d’un pari / sondage
+                                            shifu-svgwall	affiche le contenu d’un fichier SVG personnalisable	src : contient l’adresse web du template SVG
+                                            tags : filtre le contenant sur une liste de tag
+                                            services : indique la source de données à utiliser pour personnaliser le fichier SVG
+                                            Exemple d’iWall
+
+
+                                            Procédure
+                                            Pour fabriquer votre propre iWall vous pouvez :
+
+                                            partir du modèle de base, disponible directement dans l’iWall Store
+                                            partir d’un iWall existant puis modifier son code
+                                            Une fois terminer, votre iWall est automatiquement enregistrer et disponible dans l’iWall store mais uniquement visible par vous.
+
+                                            Publier son iWall
+                                            Vous pouvez rendre votre iWall disponible pour tous les utilisateurs de Shifumix après validation de ce dernier.
+
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="tab2" role="tabpanel" aria-labelledby="tab2">
+                        <div class="accordion" id="accordion-tab-2">
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-2-heading-1">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-2-content-1" aria-expanded="false" aria-controls="accordion-tab-2-content-1">
+                                            Comment créer son événement ?
+                                        </button>
+                                    </h5>
+                                </div>
+                                <div class="collapse show" id="accordion-tab-2-content-1" aria-labelledby="accordion-tab-2-heading-1" data-parent="#accordion-tab-2">
+                                    <div class="card-body">
+                                        <p>
+                                            Un événement se caractérise principalement par
+
+                                        <ul class="c17 lst-kix_2jqya3j8kgre-0 start"><li class="c1"><span class="c0">un titre (obligatoire) et une description (optionnelle)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li><li class="c1"><span class="c0">une date de début et une durée, définissant ainsi une date de fin,</span></li><li class="c1"><span class="c0">un visuel / flyer (obligatoire), </span></li><li class="c1"><span class="c0">une visibilité public (visible sur une carte) ou privée &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(non visible, accessible par code)</span></li><li class="c1"><span class="c0">une localisation par adresse et / ou coordonnées GPS (obligatoire pour les événements public et optionnelle pour les événements privés)</span></li><li class="c1"><span class="c0">des activités disponibles pour les participants et activables ou non à la fabrication de l’événement : photos, messages, sondages (voir liste des activités)</span></li><li class="c1"><span class="c0">un statut : </span></li></ul>
+
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-2-heading-2">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-2-content-2" aria-expanded="false" aria-controls="accordion-tab-2-content-2">
+                                            C'est quoi la différence entre un événement public et un événement privé ?
+                                        </button>
+                                    </h5>
+                                </div>
+                                <div class="collapse" id="accordion-tab-2-content-2" aria-labelledby="accordion-tab-2-heading-2" data-parent="#accordion-tab-2">
+                                    <div class="card-body">
+                                        <p>
+
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-2-heading-3">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-2-content-3" aria-expanded="false" aria-controls="accordion-tab-2-content-3">Who are you, my warranty?!</button>
+                                    </h5>
+                                </div>
+                                <div class="collapse" id="accordion-tab-2-content-3" aria-labelledby="accordion-tab-2-heading-3" data-parent="#accordion-tab-2">
+                                    <div class="card-body">
+                                        <p>Oh, I think we should just stay friends. I'll tell them you went down prying the wedding ring off his cold, dead finger. Aww, it's true. I've been hiding it for so long. Say it in Russian! Then throw her in the laundry room, which will hereafter be referred to as "the brig".</p>
+                                        <p><strong>Example: </strong> We're rescuing ya. Robot 1-X, save my friends! And Zoidberg! <em>Then we'll go with that data file!</em> Okay, I like a challenge.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-2-heading-4">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-2-content-4" aria-expanded="false" aria-controls="accordion-tab-2-content-4">
+                                            Que se passe-t'il quand l'événement se termine ?
+                                        </button>
+                                    </h5>
+                                </div>
+                                <div class="collapse" id="accordion-tab-2-content-4" aria-labelledby="accordion-tab-2-heading-4" data-parent="#accordion-tab-2">
+                                    <div class="card-body">
+                                        <p>
+                                            Un événement à toujours une durée, il se termine donc automatiquement une fois la durée écoulée. Il peut également se termine prématurément si l’organisateur demande sa fermeture avant l’heure prévue initialement.
+
+                                            A la fermeture, l’ensemble des participants sont “sortis” de l’événement (comme s’ils avaient demandé à le quitter).
+
+                                        <ul class="c17 lst-kix_7sd5zwueh0bi-0 start"><li class="c1"><span class="c0">des statistiques sur l’événement,</span></li><li class="c1"><span class="c0">les iCoins encaissé </span></li><li class="c1"><span class="c0">la playlist,</span></li><li class="c1"><span class="c0">les photos,</span></li><li class="c1"><span class="c0">les messages échangés,</span></li><li class="c1"><span class="c0">les résultats des sondages,</span></li></ul>
+
+                                        Les participants reçoivent également un mail contenant notamment la playlist et les photos mais également un lien permettant de consulter l’événement clôt pendant un an (sauf demande d’effacement préalable de l'évènement par l’organisateur).
+
+
+                                        grâce à ce lien, ils peuvent :
+
+                                        <ul class="c17 lst-kix_djarukfnw2lz-0 start"><li class="c4 c9"><span class="c0">consulter / télécharger les photos, </span></li><li class="c4 c9"><span class="c0">consulter les playlists et les récupérer dans Spotify ou Deezer,</span></li><li class="c4 c9"><span class="c0">consulter les messages partagés. </span></li></ul>
+
+
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="tab3" role="tabpanel" aria-labelledby="tab3">
+                        <div class="accordion" id="accordion-tab-3">
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-3-heading-1">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-3-content-1" aria-expanded="false" aria-controls="accordion-tab-3-content-1">
+                                            Comment créer un événement ?
+                                        </button>
+                                    </h5>
+                                </div>
+                                <div class="collapse show" id="accordion-tab-3-content-1" aria-labelledby="accordion-tab-3-heading-1" data-parent="#accordion-tab-3">
+                                    <div class="card-body">
+                                        <p>Pour créer un événement avec Shifumix, c’est très simple :
+
+                                            1 – Ouvrez app.shifumix.com et connectez-vous
+                                            2 – Laissez-vous guider, on vous explique tout ça dans une vidéo !
+                                            3 – Une fois votre événement créé vous pouvez inviter vos participants et commencer à interagir autour des différentes animations !
+
+                                            Challengez vos invités en les faisant participer à votre playlist musicale, à poster messages et photos et à participer aux différents jeux que vous pouvez lancer avec Shifumix !
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-3-heading-2">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-3-content-2" aria-expanded="false" aria-controls="accordion-tab-3-content-2">Why am I sticky and naked?</button>
+                                    </h5>
+                                </div>
+                                <div class="collapse" id="accordion-tab-3-content-2" aria-labelledby="accordion-tab-3-heading-2" data-parent="#accordion-tab-3">
+                                    <div class="card-body">
+                                        <p>Did I miss something fun? Humans dating robots is sick. You people wonder why I'm still single? It's 'cause all the fine robot sisters are dating humans! Kids don't turn rotten just from watching TV.</p>
+                                        <p><strong>Example: </strong>I usually try to keep my sadness pent up inside where it can fester quietly as a mental illness.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-3-heading-3">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-3-content-3" aria-expanded="false" aria-controls="accordion-tab-3-content-3">Is that a cooking show?</button>
+                                    </h5>
+                                </div>
+                                <div class="collapse" id="accordion-tab-3-content-3" aria-labelledby="accordion-tab-3-heading-3" data-parent="#accordion-tab-3">
+                                    <div class="card-body">
+                                        <p>OK, this has gotta stop. I'm going to remind Fry of his humanity the way only a woman can. You seem malnourished. Are you suffering from intestinal parasites? Check it out, y'all. Everyone who was invited is here. I am Singing Wind, Chief of the Martians.</p>
+                                        <p><strong>Example: </strong>Man, I'm sore all over. I feel like I just went ten rounds with mighty Thor.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-3-heading-4">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-3-content-4" aria-expanded="false" aria-controls="accordion-tab-3-content-4">You are the last hope of the universe?</button>
+                                    </h5>
+                                </div>
+                                <div class="collapse" id="accordion-tab-3-content-4" aria-labelledby="accordion-tab-3-heading-4" data-parent="#accordion-tab-3">
+                                    <div class="card-body">
+                                        <p>I don't want to be rescued. I videotape every customer that comes in here, so that I may blackmail them later. Ah, computer dating. It's like pimping, but you rarely have to use the phrase "upside your head."</p>
+                                        <p><strong>Example: </strong>Tell them I hate them.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="tab4" role="tabpanel" aria-labelledby="tab4">
+                        <div class="accordion" id="accordion-tab-4">
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-4-heading-1">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-4-content-1" aria-expanded="false" aria-controls="accordion-tab-4-content-1">
+                                            Comment partager ses photos ?
+                                        </button>
+                                    </h5>
+                                </div>
+                                <div class="collapse show" id="accordion-tab-4-content-1" aria-labelledby="accordion-tab-4-heading-1" data-parent="#accordion-tab-4">
+                                    <div class="card-body">
+                                        <p>
+                                            Dans l'onglet "photo", vous pouvez prendre une photo, utiliser une photo de votre smartphone ou télécharger une photo sur Internet via plusieur banque d'images<br>
+                                            Votre photo est immédiatement partagé si l'organisateur ne fait pas de validation avant partage.
+                                            Dés lors vous pouvez :
+                                            - ajouter un commentaire sur vos photos
+                                            - supprimer vos photos
+
+                                            Depuis cet onglet vous pouvez également voir les dernières photos partagées et vous pouvez voter dessus.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-4-heading-2">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-4-content-2" aria-expanded="false" aria-controls="accordion-tab-4-content-2">
+                                            Comment poster des messages ?
+                                        </button>
+                                    </h5>
+                                </div>
+                                <div class="collapse" id="accordion-tab-4-content-2" aria-labelledby="accordion-tab-4-heading-2" data-parent="#accordion-tab-4">
+                                    <div class="card-body">
+                                        <p>
+                                            Depuis l'onglet "message" vous pouvez écrire des messages (avec ou sans emoticones). Après envoi ses messages sont immédiatement partagés sur les iWall de l'événement.
+                                            En glissant le doigt sur les messages, vous pouvez voter sur les messages des autres ou supprimer les votres.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-4-heading-3">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-4-content-3" aria-expanded="false" aria-controls="accordion-tab-4-content-3">Comment paramétrer la modération ?</button>
+                                    </h5>
+                                </div>
+                                <div class="collapse" id="accordion-tab-4-content-3" aria-labelledby="accordion-tab-4-heading-3" data-parent="#accordion-tab-4">
+                                    <div class="card-body">
+                                        <p>
+                                            Vous craignez la publication de photos ou de messages inappropriés ?
+
+                                            Pas de problème, Shifumix vous propose 2 fonctionnalités de modération.
+
+                                            1 – Modération a posteriori
+
+                                            La modération a postériori permet de supprimer les contenus après publication.
+
+                                            Cette suppression est possible par l’auteur du contenu mais également par les modérateurs de l’événement :
+
+                                            – depuis l’onglet « Photos » en choisissant la photo et en cliquant sur l’icône poubelle
+
+                                            – depuis l’onglet « Message » en faisant glisser le message en question vers la droite et en cliquant sur l’icône poubelle
+
+                                            moderation_shifumix
+
+                                            2 – Modération a priori
+
+                                            La modération « a priori » implique que les contenus partagés soient préalablement « validés » par l’un des modérateurs de l’événement.
+
+                                            Le niveau de modération est supérieur à la modération a postériori mais risque de diminuer l’interactivité temps réel des événements Shifumix.
+
+                                            Dans ce cas, il faut s’assurer qu’on dispose de modérateurs disponibles pour vérifier régulièrement les contenus à valider.
+
+                                            Pour activer la modération a priori :
+
+                                            Onglet « photos », rubrique « Event Master » et cocher « modération forte des contenus«
+
+                                            moderation_shifumix
+
+                                            La modération des photos, se fait naturellement depuis l’onglet « Photo » : le modérateur verra apparaître la photo à valider ou à bloquer. Il peut même blacklister toutes les photos provenant d’un participant.
+
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-4-heading-4">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-4-content-4" aria-expanded="false" aria-controls="accordion-tab-4-content-4">Qui sont les modérateurs ?</button>
+                                    </h5>
+                                </div>
+                                <div class="collapse" id="accordion-tab-4-content-4" aria-labelledby="accordion-tab-4-heading-4" data-parent="#accordion-tab-4">
+                                    <div class="card-body">
+                                        <p>
+                                            Par défaut, l’organisateur de l’événement est modérateur mais il peut ajouter ou retirer ce rôle à n’importe quel participant à l’événement depuis le profil du participant en question (onglet people).
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="tab5" role="tabpanel" aria-labelledby="tab5">
+                        <div class="accordion" id="accordion-tab-5">
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-5-heading-1">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-5-content-1" aria-expanded="false" aria-controls="accordion-tab-5-content-1">
+                                            Comment participer aux sondages / paris / loterie ?
+                                        </button>
+                                    </h5>
+                                </div>
+                                <div class="collapse show" id="accordion-tab-5-content-1" aria-labelledby="accordion-tab-5-heading-1" data-parent="#accordion-tab-5">
+                                    <div class="card-body">
+                                        <p>   Si l’événement le permet, vous pouvez participer et parfois même proposer des paris, des sondages express ou des mini-loterie aux autres participants de l’événement.
+
+                                            Sur l’écran de « jeux », tous les sondages actifs sont affichés.
+
+                                            Pour les sondages, il est possible de voter tant qu’il vous reste des bulletins (le vote multiple est possible).
+                                            Pour les paris, si vous disposez d’iCoin il est possible de miser sur les options de votre choix,
+                                            Pour les loteries, vous pouvez acheter des billets de participation.
+                                            Lorsqu’un pari est terminé, il est possible d’évaluer l’organisateur du pari depuis cet écran.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-5-heading-2">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-5-content-2" aria-expanded="false" aria-controls="accordion-tab-5-content-2">Who's brave enough to fly into something we all keep calling a death sphere?</button>
+                                    </h5>
+                                </div>
+                                <div class="collapse" id="accordion-tab-5-content-2" aria-labelledby="accordion-tab-5-heading-2" data-parent="#accordion-tab-5">
+                                    <div class="card-body">
+                                        <p>Maybe I love you so much I love you no matter who you are pretending to be. Ah, the 'Breakfast Club' soundtrack! I can't wait til I'm old enough to feel ways about stuff! Now Fry, it's been a few years since medical school, so remind me.</p>
+                                        <p><strong>Example: </strong>Disemboweling in your species: fatal or non-fatal?</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-5-heading-3">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-5-content-3" aria-expanded="false" aria-controls="accordion-tab-5-content-3">You mean while I'm sleeping in it?</button>
+                                    </h5>
+                                </div>
+                                <div class="collapse" id="accordion-tab-5-content-3" aria-labelledby="accordion-tab-5-heading-3" data-parent="#accordion-tab-5">
+                                    <div class="card-body">
+                                        <p>We can't compete with Mom! Her company is big and evil! Ours is small and neutral! Look, everyone wants to be like Germany, but do we really have the pure strength of 'will'? I just told you! You've killed me!</p>
+                                        <p><strong>Example: </strong>But, like most politicians, he promised more than he could deliver.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-5-heading-4">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-5-content-4" aria-expanded="false" aria-controls="accordion-tab-5-content-4">And until then, I can never die?</button>
+                                    </h5>
+                                </div>
+                                <div class="collapse" id="accordion-tab-5-content-4" aria-labelledby="accordion-tab-5-heading-4" data-parent="#accordion-tab-5">
+                                    <div class="card-body">
+                                        <p>I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas. Well, let's just dump it in the sewer and say we delivered it.</p>
+                                        <p><strong>Example: </strong>Have you ever tried just turning off the TV, sitting down with your children, and hitting them? Hey, tell me something. You've got all this money. How come you always dress like you're doing your laundry?</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="tab6" role="tabpanel" aria-labelledby="tab6">
+                        <div class="accordion" id="accordion-tab-6">
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-6-heading-1">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-6-content-1" aria-expanded="false" aria-controls="accordion-tab-6-content-1">Doomsday device?</button>
+                                    </h5>
+                                </div>
+                                <div class="collapse show" id="accordion-tab-6-content-1" aria-labelledby="accordion-tab-6-heading-1" data-parent="#accordion-tab-6">
+                                    <div class="card-body">
+                                        <p>Ah, now the ball's in Farnsworth's court! We'll need to have a look inside you with this camera. Stop it, stop it. It's fine. I will 'destroy' you! Bender! Ship! Stop bickering or I'm going to come back there and change your opinions manually!</p>
+                                        <p><strong>Example: </strong>So I really am important? How I feel when I'm drunk is correct?</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-6-heading-2">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-6-content-2" aria-expanded="false" aria-controls="accordion-tab-6-content-2">And so we say goodbye to our beloved pet, Nibbler?</button>
+                                    </h5>
+                                </div>
+                                <div class="collapse" id="accordion-tab-6-content-2" aria-labelledby="accordion-tab-6-heading-2" data-parent="#accordion-tab-6">
+                                    <div class="card-body">
+                                        <p>Nibbler, who's gone to a place where I, too, hope one day to go. The toilet. But existing is basically all I do! I suppose I could part with 'one' and still be feared. I just told you! You've killed me!</p>
+                                        <p><strong>Example: </strong>What's with you kids? Every other day it's food, food, food.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-6-heading-3">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-6-content-3" aria-expanded="false" aria-controls="accordion-tab-6-content-3">Tell her you just want to talk?</button>
+                                    </h5>
+                                </div>
+                                <div class="collapse" id="accordion-tab-6-content-3" aria-labelledby="accordion-tab-6-heading-3" data-parent="#accordion-tab-6">
+                                    <div class="card-body">
+                                        <p>It has nothing to do with mating. Soon enough. There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors! Daylight and everything. Hey! I'm a porno-dealing monster, what do I care what you think?</p>
+                                        <p><strong>Example: </strong>Is that a cooking show? It doesn't look so shiny to me. And why did 'I' have to take a cab?</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="accordion-tab-6-heading-4">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-6-content-4" aria-expanded="false" aria-controls="accordion-tab-6-content-4">Good man. Nixon's pro-war and pro-family?</button>
+                                    </h5>
+                                </div>
+                                <div class="collapse" id="accordion-tab-6-content-4" aria-labelledby="accordion-tab-6-heading-4" data-parent="#accordion-tab-6">
+                                    <div class="card-body">
+                                        <p>I don't 'need' to drink. I can quit anytime I want! THE BIG BRAIN AM WINNING AGAIN! I AM THE GREETEST! NOW I AM LEAVING EARTH, FOR NO RAISEN! There's one way and only one way to determine if an animal is intelligent. Dissect its brain!</p>
+                                        <p><strong>Example: </strong>Guess again. Yeah, I do that with my stupidness. And when we woke up, we had these bodies.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
-
-
-
-
-
-
-
-
-
         </div>
-
     </div>
+
+
+
+
 </section>
 
 
@@ -139,431 +754,8 @@
 </html>
 
 <!--
-Comment créer un événement ?
-Pour créer un événement avec Shifumix, c’est très simple :
 
-1 – Ouvrez app.shifumix.com et connectez-vous
 
-2 – Laissez-vous guider, on vous explique tout ça dans une vidéo !
 
 
-
-3 – Une fois votre événement créé vous pouvez inviter vos participants et commencer à interagir autour des différentes animations !
-
-
-
-Challengez vos invités en les faisant participer à votre playlist musicale, à poster messages et photos et à participer aux différents jeux que vous pouvez lancer avec Shifumix !
-
-
-
-Rdv dans les prochaines FAQ pour en savoir plus sur comment inviter vos participants ou comment afficher votre mur interactif.
-
-Comment créer une playlist interactive ?
-Une fois que vous avez créé votre événement dans l’application, il est très facile de mettre à disposition votre playlist interactive :
-
-
-
-1/ Assurez-vous d’avoir bien lié votre compte à une plateforme musicale
-
-Rdv dans le menu « Perso » de l’application, puis dans « services complémentaires«
-
-
-
-
-
-2/ Choisissez la plateforme musicale avec laquelle vous souhaitez passer la musique :
-
-Spotify
-Deezer
-Google Drive
-Quand vous allez choisir votre plateforme, il vous sera ensuite demandé de vous authentifier avec votre compte Spotify, Deezer ou Google.
-
-
-
-3/ C’est tout ! Vous pourrez alors retrouver dans le menu Musique de votre événement toutes vos playlists.
-
-
-
-playlist shifumix
-
-4/ Vos invités peuvent eux aussi associer leurs propres plateformes musicales et ainsi piocher dans leurs playlists pour animer l’événement !
-
-
-
-5/ Vous souhaitez garder la maîtrise du type de musique qui sera passé dans votre événement? Pas de problème vous pouvez limiter le catalogue de titres à vos playlists !
-
-Vos invités pourront alors choisir uniquement les morceaux provenant de vos playlists
-
-Pour cela, dans le menu Musique, cliquez sur « Event Master »
-
-playlist shifumix
-
-– Cochez « Catalogue limité à mes playlists«
-
-Vous avez également la possibilité de limiter la taille de la playlist ou le nombre de titre publié par chaque participant
-
-Et même de limiter l’ajout de titres aux modérateurs de l’événement que vous aurez désignés au préalable.
-
-Pour savoir à présent comment diffuser votre musique, rdv sur la faq « Comment diffuser ma musique et utiliser Shifumix ? »
-
-
-Comment inviter mes participants ?
-Une fois que vous avez créé votre événement, il est très facile d’inviter vos participants à vous rejoindre sur Shifumix !
-
-Invitation_Shifumix
-
-1 – Depuis votre mobile, après avoir rejoint votre événement, rendez-vous dans l’onglet « people »dans le menu de l’application ,
-
-ou dans la barre de navigation située en bas des pages.
-
-
-
-2 – Cliquez ensuite sur le +, pour ajouter des participants
-
-ajoutparticipant_shifumix
-
-3 – Copiez simplement le lien de l’événement dans votre presse-papier pour l’envoyer par SMS, mail, « what’s app » à vos amis ​​!
-
-QRcode_Shifumix
-
-4 – Vous pouvez aussi envoyer directement un mail d’invitation en saisissant une adresse mail.
-
-
-
-5 – Si vous disposez d’un écran libre, vous pouvez ouvrir le iWALL « promotion », par http://promo.shifumix.com.
-
-Une fois connecté à votre événement il affiche un QRCode permettant à vos participants de simplement flasher le code pour rejoindre l’événement !
-
-Qu'est-ce qu'un iWALL ?
-Un iWALL est un écran interactif sur lequel vous pouvez publier toute l’animation de votre événement !
-
-Peuvent s’afficher en LIVE sur votre écran :
-
-– la playlist musicale en cours
-
-– les messages de vos invités
-
-– les photos
-
-– les jeux : sondages, paris, tombolas
-
-
-
-De quoi ai-je besoin pour afficher mon iWALL ?
-
-
-Comment choisir et afficher mon iWALL ?
-Vous avez créé votre événement et vous souhaitez afficher un mur interactif.
-
-1/ Il est nécessaire de disposer d’un écran (tv, retroprojecteur…), relié à un ordinateur connecté à internet
-
-2/ Sur l’écran de projection, ouvrez le site : http://w.shifumix.com
-
-Une page s’ouvre avec un code
-
-3/ Dans l’application Shifumix :
-
-allez dans le menu « Mes écrans »
-cliquez sur le + pour ajouter un écran
-tapez le code affiché sur l’écran de projection pour associer votre écran à votre événement Shifumix
-Par défaut, un écran de promotion s’affiche avec le flyer et le QR Code de votre événement.
-il vous suffit ensuite de choisir le format du iWall correspondant à votre événement où à l’animation du moment :
-
-iWall affichant uniquement les photos :
-
-PhotoShow : pour afficher les photos en plein écran les unes après les autres,
-
-SlideShow : permettant d’obtenir un défilement des photos,
-
-Gallery : affiche les photos en mode pêle-mêle
-
-iWall affichant uniquement la playlist :
-
-On Air
-
-Charts
-
-iWall multi-animations :
-
-Playlist – photos et 5 derniers messages (exemple)
-
-iwall shifumix
-
-Photos & Messages
-
-Playlist & Photos
-
-et bien d’autres encore
-
-
-
-Shifumix met à votre disposition plusieurs templates de iWALL pour vous permettre de choisir celui ou ceux qui s’adapte le mieux à votre événement !
-
-Avec le menu « écran » vous pouvez switcher d’un iWALL à l’autre en fonction de l’animation en cours pendant votre événement.
-
-Que contient l'offre Pilote ?
-L’offre pilote de Shifumix est réservée aux testeurs.
-
-Elle vous permet d’accèder gratuitement à l’ensemble des fonctionnalités de Shifumix en échange de l’acceptation que :
-
-votre compte puisse être réinitialisé à n’importe quel moment
-vous rencontriez parfois des dysfonctionnements lors de l’utilisation de Shifumix
-vous fassiez régulièrement des retours sur le fonctionnement de l’application via le formulaire de contact
-Vous pouvez à n’importe quel moment quitter cette offre, pour les autres offre : https://shifumixwww.wixsite.com/shifumix/tarifs
-
-
-
-Comment organiser des paris avec SHIFUMIX ?
-Matchs de foot, de rugby ou tout autre compétition : Shifumix met à votre disposition une fonction Paris !
-
-Utilisez les sCoins, la monnaie virtuelle de Shifumix pour faire miser vos invités !
-
-Comment ça marche ?
-
-1/ A la création de votre événement, dans les paramètres avancés, choisissez vos animations et activez notamment la fonctionnalité Paris.
-
-activation_animations_shifumix
-
-2/ Pour pouvoir faire des paris, vos invités vont avoir besoin de monnaie virtuelle : les sCoins.
-
-Dans le menu « People », vous allez pouvoir attribuer des sCoins à vos invités.
-
-A vous de voir avec vos invités comment valoriser les sCoins entre vous 🙂
-
-paris_shifumix
-
-– En cliquant sur « Bonus pour tous » vous pouvez déterminer un nombre de sCoins à attribuer à tous les invités par défaut.
-
-– Ou en cliquant sur la photo d’un participant vous pouvez déterminer le nombre de sCoins à lui attribuer personnellement.
-
-
-
-3/ Une fois que vos invités ont bien leur sCoins, vous pouvez alors créer un pari en allant dans le menu « Jouer »
-
-Indiquez le titre du pari, par exemple : « Quel sera le résultat du match OM – PSG ? »
-
-et ajouter les propositions :
-
-1/ L’OM bat le PSG
-
-2/ Match nul
-
-3/ Le PSG bat l’OM
-
-Vous pouvez déterminer l’heure de début et la durée du pari ainsi que la plus petite mise de départ
-
-
-
-4/ En se rendant dans l’onglet « Jouer », vos invités choisissent la proposition ainsi que le nombre de sCoins qu’ils souhaitent miser.
-
-
-
-Vous pouvez relayer ce pari sur le mur interactif en choisissant le iWALL correspondant !
-
-Comment publier un sondage avec SHIFUMIX ?
-Une fois que vous avez créé votre événement Shifumix, profitez des différents jeux qui sont à votre disposition pour lancer des animations originales!
-
-Vous pouvez très facilement publier un sondage et faire voter vos participants, par exemple :
-
-– quel est le meilleur déguisement de la soirée ?
-
-– qui a été le plus convaincant pendant la conférence ?
-
-Faites jouer votre créativité !
-
-
-
-1 – Sur votre mobile, cliquez sur l’icône « games » dans la barre de navigation ou « jouer » dans le menu de l’application
-
-
-
-2 – Cliquez sur le bouton sondage
-
-3 – Il existe deux manières de créer un sondage :
-
-avec du texte : vos participants auront à choisir dans une simple liste
-
-sondage_texte_shifumix
-
-avec des images : ils choisiront parmi des images​
-
-sondage_image_shifumix
-
-4 – Déterminez l’heure, la durée et le nombre de votes autorisés par personne, puis validez votre sondage en cliquant sur la coche en haut à droite
-
-sondage_shifumix
-
-5 – Faites jouer vos participants !
-
-Il leur suffit de se rendre dans le menu « games » et de répondre au sondage en cliquant sur leur réponse préférée.
-
-
-
-6 – Affichez le sondage sur votre iWALL : image survey !
-
-Comment organiser une tombola avec SHIFUMIX ?
-Vous souhaitez faire gagner un cadeau pendant votre événement? Shifumix met à votre disposition une fonction Tombola !
-
-Shifumix effectue simplement un tirage au sort aléatoire parmi les participants.
-
-Vous pouvez choisir un simple tirage au sort parmi les participants ou utilisez les sCoins, la monnaie virtuelle de Shifumix pour faire « acheter » des tickets de tombolas vos invités !
-
-Comment ça marche ?
-
-1/ A la création de votre événement, dans les paramètres avancés, choisissez vos animations et activez notamment la fonctionnalité Tombola.
-
-activation_animations_shifumix
-
-2/ Créez votre tombola
-
-Menu « Jouer » : Indiquez le titre du cadeau à gagner, par exemple : « Un vélo électrique à gagner ! « et ajouter une photo du lot.
-
-Vous pouvez déterminer l’heure de début et la durée de la tombola.
-
-Vous pouvez également indiquer si des sCoins sont nécessaires pour pouvoir jouer :
-
-si vous laissez à zéro alors il s’agira d’un simple tirage au sort parmi tous les participants
-sinon vous pouvez déterminer un nombre minimum et maximum de sCoins pour pouvoir participer (comme des tickets de tombolas)
-3/ Si vous souhaitez utiliser les sCoins pour votre tombola :
-
-Dans le menu « People », vous allez pouvoir attribuer des sCoins à vos invités.
-
-A vous de voir avec vos invités comment valoriser les sCoins entre vous 🙂
-
-paris_shifumix
-
-– En cliquant sur « Bonus pour tous » vous pouvez déterminer un nombre de sCoins à attribuer à tous les invités par défaut.
-
-– Ou en cliquant sur la photo d’un participant vous pouvez déterminer le nombre de sCoins à lui attribuer personnellement.
-
-4/ En se rendant dans l’onglet « Jouer », vos invités s’inscrivent à la tombola et indiquent le cas échéant le nombre de sCoins qu’ils souhaitent utiliser.
-
-5/ Au bout du temps imparti, Shifumix indiquera le gagnant de la Tombola !
-
-Vous pouvez relayer votre tombola sur le mur interactif en choisissant le iWALL correspondant !
-
-Comment partager des messages
-L’onglet « message » permet d’envoyer des messages à tout le monde, de voir les messages envoyés par les participants, de les liker (en faisant glisser le message).
-
-Sélectionner l’avatar du participant permet d’accéder à son profil publique.
-
-Si vous êtes organisateur de l’événement vous pouvez directement accéder à l’ensemble des iWall dédiés à l’affichage des messages.
-
-Comment paramétrer la modération ?
-Vous craignez la publication de photos ou de messages inappropriés ?
-
-Pas de problème, Shifumix vous propose 2 fonctionnalités de modération.
-
-1 – Modération a posteriori
-
-La modération a postériori permet de supprimer les contenus après publication.
-
-Cette suppression est possible par l’auteur du contenu mais également par les modérateurs de l’événement :
-
-– depuis l’onglet « Photos » en choisissant la photo et en cliquant sur l’icône poubelle
-
-– depuis l’onglet « Message » en faisant glisser le message en question vers la droite et en cliquant sur l’icône poubelle
-
-moderation_shifumix
-
-2 – Modération a priori
-
-La modération « a priori » implique que les contenus partagés soient préalablement « validés » par l’un des modérateurs de l’événement.
-
-Le niveau de modération est supérieur à la modération a postériori mais risque de diminuer l’interactivité temps réel des événements Shifumix.
-
-Dans ce cas, il faut s’assurer qu’on dispose de modérateurs disponibles pour vérifier régulièrement les contenus à valider.
-
-Pour activer la modération a priori :
-
-Onglet « photos », rubrique « Event Master » et cocher « modération forte des contenus«
-
-moderation_shifumix
-
-La modération des photos, se fait naturellement depuis l’onglet « Photo » : le modérateur verra apparaître la photo à valider ou à bloquer. Il peut même blacklister toutes les photos provenant d’un participant.
-
-Qui sont les modérateurs ?
-
-Par défaut, l’organisateur de l’événement est modérateur mais il peut ajouter ou retirer ce rôle à n’importe quel participant à l’événement depuis le profil du participant en question (onglet people).
-
-Personnaliser ses iWall
-Au-delà d’une liste de widget disponibles imédiatement, Shifumix permet la création de ses propres widget. Par exemple, pour mieux respecter la charte de son entreprise ou pour rassembler sur un même écran différents éléments de l’événement.
-
-Principe
-Un iWall est une page HTML utilisant des modules particuliers. Ces modules sont disponibles à travers de simples balise. Chaque module dispose de ses propres paramètres, modifiable au travers de la balise HTML correpondant.
-
-Les différents modules disponibles sont les suivants :
-
-Module	Fonctionnement	Attributs
-shifu-playlist	Affiche la playlist de l’événement	size : nombre de titres affichés
-shifu-video	Affiche la video en tête de la playlist
-shifu-slideshow	Enchaine l’affichage des photos sur la base d’un fondu	delay: indique le temps en secondes entre chaque transition
-shifu-chart	Affiche le classement des participants
-bet	Affiche l’enjeu d’un pari / sondage
-betoptions	Affiche les options d’un pari
-shifu-timer	Affiche le temps restant avant la fin d’un pari / sondage
-shifu-svgwall	affiche le contenu d’un fichier SVG personnalisable	src : contient l’adresse web du template SVG
-tags : filtre le contenant sur une liste de tag
-services : indique la source de données à utiliser pour personnaliser le fichier SVG
-Exemple d’iWall
-
-
-Procédure
-Pour fabriquer votre propre iWall vous pouvez :
-
-partir du modèle de base, disponible directement dans l’iWall Store
-partir d’un iWall existant puis modifier son code
-Une fois terminer, votre iWall est automatiquement enregistrer et disponible dans l’iWall store mais uniquement visible par vous.
-
-Publier son iWall
-Vous pouvez rendre votre iWall disponible pour tous les utilisateurs de Shifumix après validation de ce dernier.
-
-
-
-Comment se connecter à Shifumix ?
-Rien de plus simple !
-
-– RDV sur app.shifumix.com , ou cliquez sur l’URL ou scannez le QR code de l’événement auquel vous êtes invité.
-
-– Identifiez-vous avec un de vos profils (Facebook, Google, Spotify, Deezer ou une simple adresse email)
-
-Si vous avez opté pour la connexion via une adresse email, il vous faudra aller récupérer le code à 4 chiffres qui a été envoyé sur votre adresse email.
-
-– Et voilà !
-
-Vous pouvez à présent créer un événement ou rejoindre un événement à proximité.
-
-Evénement terminé : comment récupérer la playlist et les photos ?
-Vous avez organisé ou vous avez participé à un événement et vous souhaitez pouvoir consulter les photos, la playlist et tous les échanges ?
-
-1 – RDV sur votre application Shifumix : app.shifumix.com
-
-2 – Cliquez sur « mes événements » et choisissez celui qui vous intéresse
-
-Retrouvez la liste des participants, les photos, les messages, la playlist…
-
-Vous pouvez télécharger les photos et également ajouter la playlist à votre compte Spotify !
-
-Comment s'inscrire sur Shifumix ?
-L’inscription a Shifumix se fait généralement par la page d’acceuil accessible directement dans son navigateur à l’adresse : http://app.shifumix.com.
-
-Il est également possible de s’inscrire en envoyant un mail à start@shifumix.com puis d’ouvrir le lien internet présent dans la réponse.
-
-
-
-Rechercher de la music
-Shifumix permet d’utiliser plusieurs source pour chercher de la musique à ajouter dans la playlist :
-
-Faire des recherches par artiste ou titre dans le catalogue de l’événement (spotify, deezer, youtube)
-Utiliser vos playlists
-Utiliser différent classement des meilleurs ventes ou audience de différents pays
-Comment participer aux sondages / paris / loterie
-Si l’événement le permet, vous pouvez participer et parfois même proposer des paris, des sondages express ou des mini-loterie aux autres participants de l’événement.
-
-Sur l’écran de « jeux », tous les sondages actifs sont affichés.
-
-Pour les sondages, il est possible de voter tant qu’il vous reste des bulletins (le vote multiple est possible).
-Pour les paris, si vous disposez d’iCoin il est possible de miser sur les options de votre choix,
-Pour les loteries, vous pouvez acheter des billets de participation.
-Lorsqu’un pari est terminé, il est possible d’évaluer l’organisateur du pari depuis cet écran.
 -->

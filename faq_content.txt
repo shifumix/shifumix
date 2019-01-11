@@ -1,0 +1,300 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Comment créer une playlist interactive ?
+Une fois que vous avez créé votre événement dans l’application, il est très facile de mettre à disposition votre playlist interactive :
+
+
+
+1/ Assurez-vous d’avoir bien lié votre compte à une plateforme musicale
+
+Rdv dans le menu « Perso » de l’application, puis dans « services complémentaires«
+
+
+
+
+
+2/ Choisissez la plateforme musicale avec laquelle vous souhaitez passer la musique :
+
+Spotify
+Deezer
+Google Drive
+Quand vous allez choisir votre plateforme, il vous sera ensuite demandé de vous authentifier avec votre compte Spotify, Deezer ou Google.
+
+
+
+3/ C’est tout ! Vous pourrez alors retrouver dans le menu Musique de votre événement toutes vos playlists.
+
+
+
+playlist shifumix
+
+4/ Vos invités peuvent eux aussi associer leurs propres plateformes musicales et ainsi piocher dans leurs playlists pour animer l’événement !
+
+
+
+5/ Vous souhaitez garder la maîtrise du type de musique qui sera passé dans votre événement? Pas de problème vous pouvez limiter le catalogue de titres à vos playlists !
+
+Vos invités pourront alors choisir uniquement les morceaux provenant de vos playlists
+
+Pour cela, dans le menu Musique, cliquez sur « Event Master »
+
+playlist shifumix
+
+– Cochez « Catalogue limité à mes playlists«
+
+Vous avez également la possibilité de limiter la taille de la playlist ou le nombre de titre publié par chaque participant
+
+Et même de limiter l’ajout de titres aux modérateurs de l’événement que vous aurez désignés au préalable.
+
+Pour savoir à présent comment diffuser votre musique, rdv sur la faq « Comment diffuser ma musique et utiliser Shifumix ? »
+
+
+Comment inviter mes participants ?
+Une fois que vous avez créé votre événement, il est très facile d’inviter vos participants à vous rejoindre sur Shifumix !
+
+Invitation_Shifumix
+
+1 – Depuis votre mobile, après avoir rejoint votre événement, rendez-vous dans l’onglet « people »dans le menu de l’application ,
+
+ou dans la barre de navigation située en bas des pages.
+
+
+
+2 – Cliquez ensuite sur le +, pour ajouter des participants
+
+ajoutparticipant_shifumix
+
+3 – Copiez simplement le lien de l’événement dans votre presse-papier pour l’envoyer par SMS, mail, « what’s app » à vos amis ​​!
+
+QRcode_Shifumix
+
+4 – Vous pouvez aussi envoyer directement un mail d’invitation en saisissant une adresse mail.
+
+
+
+5 – Si vous disposez d’un écran libre, vous pouvez ouvrir le iWALL « promotion », par http://promo.shifumix.com.
+
+Une fois connecté à votre événement il affiche un QRCode permettant à vos participants de simplement flasher le code pour rejoindre l’événement !
+
+Qu'est-ce qu'un iWALL ?
+Un iWALL est un écran interactif sur lequel vous pouvez publier toute l’animation de votre événement !
+
+Peuvent s’afficher en LIVE sur votre écran :
+
+– la playlist musicale en cours
+
+– les messages de vos invités
+
+– les photos
+
+– les jeux : sondages, paris, tombolas
+
+
+
+De quoi ai-je besoin pour afficher mon iWALL ?
+
+
+
+
+
+Que contient l'offre Pilote ?
+L’offre pilote de Shifumix est réservée aux testeurs.
+
+Elle vous permet d’accèder gratuitement à l’ensemble des fonctionnalités de Shifumix en échange de l’acceptation que :
+
+votre compte puisse être réinitialisé à n’importe quel moment
+vous rencontriez parfois des dysfonctionnements lors de l’utilisation de Shifumix
+vous fassiez régulièrement des retours sur le fonctionnement de l’application via le formulaire de contact
+Vous pouvez à n’importe quel moment quitter cette offre, pour les autres offre : https://shifumixwww.wixsite.com/shifumix/tarifs
+
+
+
+Comment organiser des paris avec SHIFUMIX ?
+Matchs de foot, de rugby ou tout autre compétition : Shifumix met à votre disposition une fonction Paris !
+
+Utilisez les sCoins, la monnaie virtuelle de Shifumix pour faire miser vos invités !
+
+Comment ça marche ?
+
+1/ A la création de votre événement, dans les paramètres avancés, choisissez vos animations et activez notamment la fonctionnalité Paris.
+
+activation_animations_shifumix
+
+2/ Pour pouvoir faire des paris, vos invités vont avoir besoin de monnaie virtuelle : les sCoins.
+
+Dans le menu « People », vous allez pouvoir attribuer des sCoins à vos invités.
+
+A vous de voir avec vos invités comment valoriser les sCoins entre vous 🙂
+
+paris_shifumix
+
+– En cliquant sur « Bonus pour tous » vous pouvez déterminer un nombre de sCoins à attribuer à tous les invités par défaut.
+
+– Ou en cliquant sur la photo d’un participant vous pouvez déterminer le nombre de sCoins à lui attribuer personnellement.
+
+
+
+3/ Une fois que vos invités ont bien leur sCoins, vous pouvez alors créer un pari en allant dans le menu « Jouer »
+
+Indiquez le titre du pari, par exemple : « Quel sera le résultat du match OM – PSG ? »
+
+et ajouter les propositions :
+
+1/ L’OM bat le PSG
+
+2/ Match nul
+
+3/ Le PSG bat l’OM
+
+Vous pouvez déterminer l’heure de début et la durée du pari ainsi que la plus petite mise de départ
+
+
+
+4/ En se rendant dans l’onglet « Jouer », vos invités choisissent la proposition ainsi que le nombre de sCoins qu’ils souhaitent miser.
+
+
+
+Vous pouvez relayer ce pari sur le mur interactif en choisissant le iWALL correspondant !
+
+Comment publier un sondage avec SHIFUMIX ?
+Une fois que vous avez créé votre événement Shifumix, profitez des différents jeux qui sont à votre disposition pour lancer des animations originales!
+
+Vous pouvez très facilement publier un sondage et faire voter vos participants, par exemple :
+
+– quel est le meilleur déguisement de la soirée ?
+
+– qui a été le plus convaincant pendant la conférence ?
+
+Faites jouer votre créativité !
+
+
+
+1 – Sur votre mobile, cliquez sur l’icône « games » dans la barre de navigation ou « jouer » dans le menu de l’application
+
+
+
+2 – Cliquez sur le bouton sondage
+
+3 – Il existe deux manières de créer un sondage :
+
+avec du texte : vos participants auront à choisir dans une simple liste
+
+sondage_texte_shifumix
+
+avec des images : ils choisiront parmi des images​
+
+sondage_image_shifumix
+
+4 – Déterminez l’heure, la durée et le nombre de votes autorisés par personne, puis validez votre sondage en cliquant sur la coche en haut à droite
+
+sondage_shifumix
+
+5 – Faites jouer vos participants !
+
+Il leur suffit de se rendre dans le menu « games » et de répondre au sondage en cliquant sur leur réponse préférée.
+
+
+
+6 – Affichez le sondage sur votre iWALL : image survey !
+
+Comment organiser une tombola avec SHIFUMIX ?
+Vous souhaitez faire gagner un cadeau pendant votre événement? Shifumix met à votre disposition une fonction Tombola !
+
+Shifumix effectue simplement un tirage au sort aléatoire parmi les participants.
+
+Vous pouvez choisir un simple tirage au sort parmi les participants ou utilisez les sCoins, la monnaie virtuelle de Shifumix pour faire « acheter » des tickets de tombolas vos invités !
+
+Comment ça marche ?
+
+1/ A la création de votre événement, dans les paramètres avancés, choisissez vos animations et activez notamment la fonctionnalité Tombola.
+
+activation_animations_shifumix
+
+2/ Créez votre tombola
+
+Menu « Jouer » : Indiquez le titre du cadeau à gagner, par exemple : « Un vélo électrique à gagner ! « et ajouter une photo du lot.
+
+Vous pouvez déterminer l’heure de début et la durée de la tombola.
+
+Vous pouvez également indiquer si des sCoins sont nécessaires pour pouvoir jouer :
+
+si vous laissez à zéro alors il s’agira d’un simple tirage au sort parmi tous les participants
+sinon vous pouvez déterminer un nombre minimum et maximum de sCoins pour pouvoir participer (comme des tickets de tombolas)
+3/ Si vous souhaitez utiliser les sCoins pour votre tombola :
+
+Dans le menu « People », vous allez pouvoir attribuer des sCoins à vos invités.
+
+A vous de voir avec vos invités comment valoriser les sCoins entre vous 🙂
+
+paris_shifumix
+
+– En cliquant sur « Bonus pour tous » vous pouvez déterminer un nombre de sCoins à attribuer à tous les invités par défaut.
+
+– Ou en cliquant sur la photo d’un participant vous pouvez déterminer le nombre de sCoins à lui attribuer personnellement.
+
+4/ En se rendant dans l’onglet « Jouer », vos invités s’inscrivent à la tombola et indiquent le cas échéant le nombre de sCoins qu’ils souhaitent utiliser.
+
+5/ Au bout du temps imparti, Shifumix indiquera le gagnant de la Tombola !
+
+Vous pouvez relayer votre tombola sur le mur interactif en choisissant le iWALL correspondant !
+
+Comment partager des messages
+L’onglet « message » permet d’envoyer des messages à tout le monde, de voir les messages envoyés par les participants, de les liker (en faisant glisser le message).
+
+Sélectionner l’avatar du participant permet d’accéder à son profil publique.
+
+Si vous êtes organisateur de l’événement vous pouvez directement accéder à l’ensemble des iWall dédiés à l’affichage des messages.
+
+
+
+
+
+
+
+
+
+Vous pouvez à présent créer un événement ou rejoindre un événement à proximité.
+
+Evénement terminé : comment récupérer la playlist et les photos ?
+Vous avez organisé ou vous avez participé à un événement et vous souhaitez pouvoir consulter les photos, la playlist et tous les échanges ?
+
+1 – RDV sur votre application Shifumix : app.shifumix.com
+
+2 – Cliquez sur « mes événements » et choisissez celui qui vous intéresse
+
+Retrouvez la liste des participants, les photos, les messages, la playlist…
+
+Vous pouvez télécharger les photos et également ajouter la playlist à votre compte Spotify !
+
+Comment s'inscrire sur Shifumix ?
+L’inscription a Shifumix se fait généralement par la page d’acceuil accessible directement dans son navigateur à l’adresse : http://app.shifumix.com.
+
+Il est également possible de s’inscrire en envoyant un mail à start@shifumix.com puis d’ouvrir le lien internet présent dans la réponse.
+
+
+
+Rechercher de la music
+Shifumix permet d’utiliser plusieurs source pour chercher de la musique à ajouter dans la playlist :
+
+Faire des recherches par artiste ou titre dans le catalogue de l’événement (spotify, deezer, youtube)
+Utiliser vos playlists
+Utiliser différent classement des meilleurs ventes ou audience de différents pays
+
