@@ -1,14 +1,37 @@
-.section-bg-secondary {
+.bg-tertiary {
+  background-color: #dbdedb; }
+
+bg-secondary {
   background-color: #88837D; }
 
-.section-bg-primary {
+bg-primary {
   background-color: #F07C00; }
 
-.section-bg-tertiary {
-  background-color: #F07C00; }
+.carousel-center {
+  position: absolute;
+  top: 8%;
+  left: 5%;
+  width: 40vw;
+  height: 100%; }
 
-.bg-tertiary {
-  background-color: #dbdedb; 
-}
+.section-title {
+  font-size: 15vmin;
+  font-size: 15vmin;
+  font-weight: 300;
+  font-variant-caps: all-small-caps; }
+
+.carousel-title {
+  font-size: 4vmin;
+  font-weight: bolder;
+  color: white; }
+
+.btn-title {
+  position: absolute;
+  left: 35%;
+  z-index: 10;
+  width: 15vw;
+  max-width: 200px;
+  font-size: 5vmin;
+  top: 60%; }
 
 /*# sourceMappingURL=perso.css.map */

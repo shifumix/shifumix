@@ -35,11 +35,10 @@
 
 
 <!-- Navigation -->
-<nav class="navbar navbar-expand-lg fixed-top section-bg-tertiary" id="mainNav">
+<nav class="navbar navbar-expand fixed-top bg-tertiary" id="mainNav">
     <div class="container-fluid">
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav text-uppercase ml-auto" style="font-size: large;font-weight: 700;">
-
                 <li class="nav-item">
 
                     <div class="nav-link text-secondary" id="profil">
@@ -47,11 +46,9 @@
                             <i class="fas fa-female" title="Vous êtes un particulier"></i>&nbsp;&nbsp;
                         </a>
 
-
                         <a onclick="setprofil(2)" >
                             <i class="fas fa-beer" title="Vous êtes un bar"></i> &nbsp;
                         </a>
-
 
                         <a onclick="setprofil(2)" >
                             <i class="fas fa-building" title="Vous êtes une entreprise"></i>
@@ -90,17 +87,25 @@
 
     <div id="carouselExampleSlidesOnly" class="carousel-fade slide" data-ride="carousel">
 
+        <div class="carousel-item" id="slide8" tag="pro">
+            <img class="image-slide" src="/img/portfolio/brainstorm.jpg">
+            <div class="carousel-caption carousel-center">
+                <div class="carousel-title">Transformer votre écran en paperboard</div>
+                <a class="btn btn-primary btn-title" href="javascript:openScreen(8)">START</a>
+            </div>
+        </div>
+
         <div class="carousel-inner">
             <div class="carousel-item active" id="slide1">
-                <img src="/img/portfolio/iwall.jpg">
+                <img class="image-slide" src="/img/portfolio/iwall.jpg">
                 <div class="carousel-caption carousel-center">
                     <div class="carousel-title">Affichez un mur de photos partagées en 1 click</div>
                     <a class="btn btn-primary btn-title" href="javascript:openScreen(1)">START</a>
                 </div>
             </div>
 
-            <div class="carousel-item" id="slide2">
-                <img src="/img/portfolio/yourthedj.jpg">
+            <div class="carousel-item" id="slide2" tag="perso">
+                <img class="image-slide" src="/img/portfolio/yourthedj.jpg">
                 <div class="carousel-caption carousel-center">
                     <div class="carousel-title">Construire la playlist ensemble<br>votez sur vos titres préférés</div>
                     <a class="btn btn-primary btn-title" href="javascript:openScreen(2)">START</a>
@@ -109,7 +114,7 @@
 
 
             <div class="carousel-item" id="slide3">
-                <img class="w-100" src="./img/portfolio/sharemessage.jpg">
+                <img class="image-slide" src="./img/portfolio/sharemessage.jpg">
                 <div class="carousel-caption carousel-center">
                     <div class="carousel-title">Partagez vos messages en grand format</div>
                     <a class="btn btn-primary btn-title" href="javascript:openScreen(3)">START</a>
@@ -125,21 +130,21 @@
             <!--<h2 class="section-subheading">Organiser des paris, une tombola en quelques click</h2>-->
             <!--</div>-->
 
-            <div class="carousel-item" id="slide6">
-                <img src="/img/portfolio/menuonphone.jpg">
+            <div class="carousel-item" id="slide6" tag="perso">
+                <img class="image-slide" src="/img/portfolio/menuonphone.jpg">
                 <div class="carousel-caption carousel-center">
                     <div class="carousel-title">Passez vos commandes depuis votre smartphone</div>
                     <a class="btn btn-primary btn-title" href="javascript:openScreen(6)">START</a>
                 </div>
             </div>
 
-            <div class="carousel-item" id="slide7">
-                    <img src="./img/portfolio/gratuit.jpg">
+            <div class="carousel-item" id="slide7" tag="perso">
+                    <img class="image-slide" src="./img/portfolio/gratuit.jpg">
                 <div class="carousel-caption carousel-center" >
                     <div class="carousel-title">Shifumix est gratuit, sans publicité et respect l'anonymat</div>
                 </div>
-
             </div>
+
         </div>
 
     </div>
@@ -235,13 +240,20 @@
 <section class="bg-light d-none d-lg-block p-0" id="tester">
     <div class="container-fluid text-center" >
         <span class="section-title section-heading">Tester</span>
-        <p>Avec le simulateur, utilisez Shifumix comme si vous aviez un smartphone et un écran pour partager votre événement </p><br>
+        <p>Avec le simulateur, utilisez Shifumix comme si vous aviez un smartphone et un écran pour partager votre événement
+        </p>
         <iframe
                 id="iframe_tester"
                 style="border:none;width:95%;max-width: 1500px;height: 75vh;overflow:hidden"
                 src="https://shifumixweb.appspot.com/tutoriel.html?screens=1&size=150&ihm=perso"
                 scrolling="no">
         </iframe>
+        <p class="text-center">
+            <br>
+            <a class="btn btn-primary btn-xl" href="javascript:openTemplates()" target="_blank">Start</a>
+            <br><br>
+        </p>
+
     </div>
 </section>
 
@@ -305,7 +317,7 @@
                     </li>
                     <li class="list-inline-item">
                         <a href="https://www.tapatalk.com/groups/shifumix/index.php">
-                            <i class="fab fa-forumbee"></i>
+                            <i class="fab fa-lightbulb-o"></i>
                         </a>
                     </li>
                     <li class="list-inline-item">
@@ -338,21 +350,6 @@
     </div>
 </footer>
 
-
-<script>
-    function openScreen(template){
-        var url="";
-        if(document.location.href.indexOf("127.0.0.1")==-1 && document.location.href.indexOf("localhost")==-1){
-            if(template==1)url="https://goo.gl/o4UUTq";
-            if(template==2)url="https://goo.gl/QWSsQT";
-            if(template==3)url="https://goo.gl/uDzjt9";
-        } else {
-            if(template==1)url="https://goo.gl/giM8HG";
-            if(template==2)url="http://localhost:8080/widgets/freeScreen.html?eventcode=557394&sc=1547055085317&widget=musicOnly&event=event1547055085317&user=event_owner&message=Cette%20%C3%A9cran%20vous%20permet%20de%20partager%20votre%20%C3%A9v%C3%A9nement%20avec%20l%27ensemble%20des%20participants&1547055086050";
-        }
-        window.open(url,"_blank","left=0,top=0,resizable=0,scrollbars=0,titlebar=0,status=0,width="+screen.availWidth+",height="+screen.availHeight);
-    }
-</script>
 
 <!-- Bootstrap core JavaScript -->
 <script src="vendor/jquery/jquery.min.js"></script>
