@@ -36,3 +36,21 @@ function openScreen(template){
     }
     window.open(url,"_blank","left=0,top=0,resizable=0,scrollbars=0,titlebar=0,status=0,width="+screen.availWidth+",height="+screen.availHeight);
 }
+
+function activaTab(tab){
+    var elt=$('.faq-nav a[href="#' + tab + '"]');
+    elt.tab('show');
+}
+
+$(document).ready(function() {
+    if(location.href.indexOf("#")>-1){
+        var param=location.href.split("#")[1];
+        var elt=document.getElementById(param);
+        if(elt!=null){
+            var section=elt.parentElement.parentElement.parentElement.id;
+            activaTab(section);
+            document.getElementById("_"+param).classList.toggle("show");
+        }
+    }
+});
+
