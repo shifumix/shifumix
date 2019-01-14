@@ -13,7 +13,6 @@ function setprofil(i) {
             document.removeChild(elt);
     }
 
-
     document.getElementById("iframe_tester").src = "https://shifumixweb.appspot.com/tutoriel.html?screens=1&size=150&ihm=" + type_profil;
     document.getElementById("profil").classList.toggle("invisible");
 };
