@@ -29,8 +29,8 @@ bg-primary {
   position: absolute;
   left: 35%;
   z-index: 10;
-  width: 15vw;
-  max-width: 200px;
+  width: 25vw;
+  max-width: 150px;
   font-size: 5vmin;
   top: 60%; }
 
