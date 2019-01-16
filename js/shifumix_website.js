@@ -49,6 +49,12 @@ function activaTab(tab){
 
 
 $(document).ready(function() {
+
+    var ua=navigator.userAgent.toLowerCase();
+    if(ua.indexOf("android")>-1)
+
+
+
     if(location.href.indexOf("#")>-1){
         var param=location.href.split("#")[1];
         if(param!=null)param=param.split("?")[0];
