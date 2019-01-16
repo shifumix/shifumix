@@ -1,6 +1,6 @@
 var type_profil="";
 var domain=document.location.protocol+"//"+document.location.hostname+":8080";
-if(domain.indexOf("www.shifumix.com")>-1)domain="https://shifumixweb.appspot.com:8080";
+if(domain.indexOf("www.shifumix.com")>-1)domain="https://shifumixweb.appspot.com";
 
 function setprofil(i) {
     type_profil="pro";

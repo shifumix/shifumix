@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/shifumix_website.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/shifumix_website.js" afterDir="false" />
-    </list>
+    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +13,7 @@
     <session id="-835947693">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="35" />
+          <entry key="project.closed" value="36" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="16" />
           <entry key="project.open.time.11" value="2" />
@@ -87,7 +84,7 @@
         <entry file="file://$PROJECT_DIR$/faq.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="502" column="42" lean-forward="true" selection-start-line="502" selection-start-column="42" selection-end-line="502" selection-end-column="42" />
+              <caret line="502" column="42" selection-start-line="502" selection-start-column="42" selection-end-line="502" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -115,7 +112,7 @@
         <entry file="file://$PROJECT_DIR$/js/shifumix_website.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="87" lean-forward="true" selection-start-line="2" selection-start-column="87" selection-end-line="2" selection-end-column="87" />
+              <caret line="2" column="87" selection-start-line="2" selection-start-column="87" selection-end-line="2" selection-end-column="87" />
             </state>
           </provider>
         </entry>
@@ -243,8 +240,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
-    <option name="y" value="-8" />
+    <option name="x" value="-1811" />
+    <option name="y" value="114" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -388,14 +385,7 @@
       <workItem from="1547623550444" duration="120000" />
       <workItem from="1547623704039" duration="40000" />
       <workItem from="1547625441997" duration="1045000" />
-      <workItem from="1547634530134" duration="695000" />
-    </task>
-    <task id="LOCAL-00013" summary="première version">
-      <created>1546875767624</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1546875767624</updated>
+      <workItem from="1547634530134" duration="827000" />
     </task>
     <task id="LOCAL-00014" summary="première version">
       <created>1546936744795</created>
@@ -733,11 +723,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547634542859</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="avec les faq version 0.1">
+      <created>1547638621803</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1547638621803</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106242000" />
+    <option name="totallyTimeSpent" value="106374000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
@@ -891,7 +888,7 @@
     <entry file="file://$PROJECT_DIR$/faq.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="502" column="42" lean-forward="true" selection-start-line="502" selection-start-column="42" selection-end-line="502" selection-end-column="42" />
+          <caret line="502" column="42" selection-start-line="502" selection-start-column="42" selection-end-line="502" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -933,7 +930,7 @@
     <entry file="file://$PROJECT_DIR$/js/shifumix_website.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="87" lean-forward="true" selection-start-line="2" selection-start-column="87" selection-end-line="2" selection-end-column="87" />
+          <caret line="2" column="87" selection-start-line="2" selection-start-column="87" selection-end-line="2" selection-end-column="87" />
         </state>
       </provider>
     </entry>
