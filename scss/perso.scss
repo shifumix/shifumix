@@ -22,13 +22,13 @@ bg-primary {
 
 .section-title {
   font-size: 15vmin;
-  font-size: 15vmin;
   font-weight: 300;
   font-variant-caps: all-small-caps;
 }
 
 .carousel-title {
-  font-size: 4vmin;
+  margin-top:6vh;
+  font-size: 3vw;
   font-weight: bolder;
   color:white;
 }
@@ -37,10 +37,14 @@ bg-primary {
   position:absolute;
   left:35%;
   z-index: 10;
-  width:25vw;
-  max-width: 150px;
-  font-size:5vmin;
   top:60%;
+}
+
+.btn-start {
+  font-variant-caps:all-petite-caps;
+  width:20vw;
+  max-width: 120px;
+  font-size:30px;
 }
 
 .nav-link-perso {
