@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/agency.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/perso.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/iwall.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/iwall.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/perso.css" beforeDir="false" afterPath="$PROJECT_DIR$/scss/perso.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/perso.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/scss/perso.css.map" afterDir="false" />
@@ -21,9 +20,9 @@
     <session id="-835947693">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="41" />
+          <entry key="project.closed" value="42" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="19" />
+          <entry key="project.open.time.1" value="20" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="3" />
           <entry key="project.open.time.13" value="1" />
@@ -33,30 +32,30 @@
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="42" />
+          <entry key="project.opened" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="conf" value="3" />
           <entry key="css" value="796" />
-          <entry key="html" value="19162" />
+          <entry key="html" value="19269" />
           <entry key="js" value="1381" />
           <entry key="json" value="489" />
           <entry key="php" value="28" />
-          <entry key="scss" value="633" />
-          <entry key="txt" value="117" />
+          <entry key="scss" value="944" />
+          <entry key="txt" value="144" />
           <entry key="xml" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="796" />
-          <entry key="HTML" value="19162" />
+          <entry key="HTML" value="19269" />
           <entry key="JSON" value="489" />
           <entry key="JavaScript" value="1381" />
-          <entry key="PLAIN_TEXT" value="148" />
-          <entry key="SCSS" value="633" />
+          <entry key="PLAIN_TEXT" value="175" />
+          <entry key="SCSS" value="944" />
           <entry key="XML" value="37" />
         </counts>
       </usages-collector>
@@ -69,7 +68,7 @@
           <entry key="json" value="11" />
           <entry key="php" value="4" />
           <entry key="rnc" value="1" />
-          <entry key="scss" value="11" />
+          <entry key="scss" value="15" />
           <entry key="txt" value="3" />
           <entry key="xml" value="1" />
         </counts>
@@ -82,7 +81,7 @@
           <entry key="JavaScript" value="9" />
           <entry key="PLAIN_TEXT" value="8" />
           <entry key="RNG Compact" value="1" />
-          <entry key="SCSS" value="11" />
+          <entry key="SCSS" value="15" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -108,17 +107,28 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="105" column="40" lean-forward="true" selection-start-line="105" selection-start-column="40" selection-end-line="105" selection-end-column="40" />
+            <state relative-caret-position="340">
+              <caret line="188" column="16" selection-start-line="188" selection-start-column="16" selection-end-line="188" selection-end-column="16" />
               <folding>
+                <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/_contact.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -137,11 +147,20 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss/perso.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+            <state>
+              <caret lean-forward="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/faq.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="653">
+              <caret line="68" column="23" selection-start-line="68" selection-start-column="23" selection-end-line="68" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -155,16 +174,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scss/_global.scss">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>créer un</find>
       <find>Evenement</find>
       <find>inviter</find>
       <find>private</find>
@@ -190,10 +203,11 @@
       <find>totale</find>
       <find>AFFICH</find>
       <find>facebi</find>
-      <find>start</find>
       <find>fa-bra</find>
       <find>forum</find>
       <find>btn-title</find>
+      <find>start</find>
+      <find>tester</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;div</replace>
@@ -232,8 +246,8 @@
         <option value="$PROJECT_DIR$/faq.html" />
         <option value="$PROJECT_DIR$/scss/perso.css" />
         <option value="$PROJECT_DIR$/js/shifumix_website.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/scss/perso.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -271,7 +285,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -282,7 +295,13 @@
             <path>
               <item name="shifumixWebSite" type="b2602c69:ProjectViewProjectNode" />
               <item name="shifumixWebSite" type="462c0819:PsiDirectoryNode" />
-              <item name="beta" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shifumixWebSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shifumixWebSite" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shifumixWebSite" type="b2602c69:ProjectViewProjectNode" />
@@ -294,22 +313,11 @@
               <item name="shifumixWebSite" type="462c0819:PsiDirectoryNode" />
               <item name="scss" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="shifumixWebSite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shifumixWebSite" type="462c0819:PsiDirectoryNode" />
-              <item name="scss" type="462c0819:PsiDirectoryNode" />
-              <item name="agency.scss" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="shifumixWebSite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shifumixWebSite" type="462c0819:PsiDirectoryNode" />
-              <item name="scss" type="462c0819:PsiDirectoryNode" />
-              <item name="perso.scss" type="620a8d5e:NestingTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -416,14 +424,8 @@
       <workItem from="1547742238232" duration="1252000" />
       <workItem from="1547762520671" duration="4152000" />
       <workItem from="1547809957648" duration="4878000" />
-      <workItem from="1547836953462" duration="562000" />
-    </task>
-    <task id="LOCAL-00020" summary="version avec images">
-      <created>1547043368403</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1547043368403</updated>
+      <workItem from="1547836953462" duration="660000" />
+      <workItem from="1547882698322" duration="2865000" />
     </task>
     <task id="LOCAL-00021" summary="version avec images">
       <created>1547043647063</created>
@@ -761,24 +763,31 @@
       <option name="project" value="LOCAL" />
       <updated>1547824554702</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Pour passage sur autre ordi">
+      <created>1547837592774</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1547837592774</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131863000" />
+    <option name="totallyTimeSpent" value="134826000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12846482" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12953092" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Gulp" order="3" side_tool="true" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20555556" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20555556" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -815,7 +824,8 @@
     <MESSAGE value="version avec images" />
     <MESSAGE value="version avec qrcode scanner" />
     <MESSAGE value="avec les faq version 0.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="avec les faq version 0.1" />
+    <MESSAGE value="Pour passage sur autre ordi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pour passage sur autre ordi" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/js/contact_me.js">
@@ -830,13 +840,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="518">
           <caret line="6048" selection-start-line="6048" selection-end-line="6048" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_contact.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -899,6 +902,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/perso.css" />
+    <entry file="file://$PROJECT_DIR$/css/agency.css" />
+    <entry file="file://$PROJECT_DIR$/scss/perso.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/faq.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9078">
@@ -916,28 +928,15 @@
     <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_global.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/shifumix_website.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/faq.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="815">
-          <caret line="68" column="23" selection-start-line="68" selection-start-column="23" selection-end-line="68" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_global.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/perso.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/agency.css">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/agency.scss">
       <provider selected="true" editor-type-id="text-editor">
@@ -946,30 +945,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/perso.css">
+    <entry file="file://$PROJECT_DIR$/scss/faq.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="653">
+          <caret line="68" column="23" selection-start-line="68" selection-start-column="23" selection-end-line="68" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/scss/_contact.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="105" column="40" lean-forward="true" selection-start-line="105" selection-start-column="40" selection-end-line="105" selection-end-column="40" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/perso.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="188" column="16" selection-start-line="188" selection-start-column="16" selection-end-line="188" selection-end-column="16" />
+          <folding>
+            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
