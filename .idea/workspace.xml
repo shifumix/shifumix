@@ -17,7 +17,7 @@
         <counts>
           <entry key="project.closed" value="46" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="22" />
+          <entry key="project.open.time.1" value="23" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="3" />
           <entry key="project.open.time.13" value="1" />
@@ -27,7 +27,7 @@
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="46" />
+          <entry key="project.opened" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -275,6 +275,11 @@
               <item name="shifumixWebSite" type="b2602c69:ProjectViewProjectNode" />
               <item name="shifumixWebSite" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="shifumixWebSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shifumixWebSite" type="462c0819:PsiDirectoryNode" />
+              <item name="beta" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -390,20 +395,7 @@
       <workItem from="1547882698322" duration="4704000" />
       <workItem from="1547962274344" duration="634000" />
       <workItem from="1547964533237" duration="1101000" />
-    </task>
-    <task id="LOCAL-00022" summary="version avec images">
-      <created>1547043811058</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1547043811058</updated>
-    </task>
-    <task id="LOCAL-00023" summary="version avec images">
-      <created>1547051979035</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1547051979035</updated>
+      <workItem from="1547967000731" duration="1291000" />
     </task>
     <task id="LOCAL-00024" summary="version avec images">
       <created>1547063098785</created>
@@ -734,16 +726,31 @@
       <option name="project" value="LOCAL" />
       <updated>1547885711641</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Pour passage sur autre ordi">
+      <created>1547967087499</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1547967087499</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Pour passage sur autre ordi">
+      <created>1547988181303</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1547988181303</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138400000" />
+    <option name="totallyTimeSpent" value="139691000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13272922" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1337953" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Gulp" order="3" side_tool="true" />
