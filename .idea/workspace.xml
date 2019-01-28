@@ -796,7 +796,6 @@
       <change afterPath="$PROJECT_DIR$/node_modules/decode-uri-component/readme.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/defaults/.npmignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beta/build/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/beta/build/main.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -809,7 +808,7 @@
     <session id="-835947693">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="51" />
+          <entry key="project.closed" value="52" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="25" />
           <entry key="project.open.time.11" value="3" />
@@ -1192,14 +1191,7 @@
       <workItem from="1548520608021" duration="30000" />
       <workItem from="1548529158177" duration="630000" />
       <workItem from="1548657976565" duration="85000" />
-      <workItem from="1548684475083" duration="263000" />
-    </task>
-    <task id="LOCAL-00027" summary="version avec qrcode scanner">
-      <created>1547132114713</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1547132114713</updated>
+      <workItem from="1548684475083" duration="908000" />
     </task>
     <task id="LOCAL-00028" summary="version avec qrcode scanner">
       <created>1547134590799</created>
@@ -1537,14 +1529,22 @@
       <option name="project" value="LOCAL" />
       <updated>1548529187472</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Pour passage sur autre ordi">
+      <created>1548684786022</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1548684786023</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142235000" />
+    <option name="totallyTimeSpent" value="142880000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13965885" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
