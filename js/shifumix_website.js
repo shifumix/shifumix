@@ -57,19 +57,22 @@ function activaTab(tab){
 $(document).ready(function() {
 
     var ua=navigator.userAgent.toLowerCase();
-    if(ua.indexOf("android")>-1)
-
-
-
-    if(location.href.indexOf("#")>-1){
-        var param=location.href.split("#")[1];
-        if(param!=null)param=param.split("?")[0];
-        var elt=document.getElementById(param);
-        if(elt!=null){
-            var section=elt.parentElement.parentElement.parentElement.id;
-            activaTab(section);
-            document.getElementById("_"+param).classList.toggle("show");
+    if(ua.indexOf("android")>-1){
+        if(location.href.indexOf("#")>-1){
+            var param=location.href.split("#")[1];
+            if(param!=null)param=param.split("?")[0];
+            var elt=document.getElementById(param);
+            if(elt!=null){
+                var section=elt.parentElement.parentElement.parentElement.id;
+                activaTab(section);
+                document.getElementById("_"+param).classList.toggle("show");
+            }
         }
     }
+
+    setTimeout(function(){
+        document.getElementById("iframe_tester").style.display="inline-block";
+        document.getElementById("hourglass").style.display="none";
+    },5000);
 });
 
