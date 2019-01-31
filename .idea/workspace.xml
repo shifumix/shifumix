@@ -796,12 +796,6 @@
       <change afterPath="$PROJECT_DIR$/node_modules/decode-uri-component/readme.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/defaults/.npmignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beta/build/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/beta/build/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/faq.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/brainstorm.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/brainstorm.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/calculator.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/calculator.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/yourthedj.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/yourthedj.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -814,7 +808,7 @@
     <session id="-835947693">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="56" />
+          <entry key="project.closed" value="57" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="27" />
           <entry key="project.open.time.11" value="3" />
@@ -1053,10 +1047,9 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-1920" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -1073,6 +1066,17 @@
             <path>
               <item name="shifumixWebSite" type="b2602c69:ProjectViewProjectNode" />
               <item name="shifumixWebSite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shifumixWebSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shifumixWebSite" type="462c0819:PsiDirectoryNode" />
+              <item name="beta" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shifumixWebSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shifumixWebSite" type="462c0819:PsiDirectoryNode" />
+              <item name="beta" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1199,14 +1203,7 @@
       <workItem from="1548779584096" duration="734000" />
       <workItem from="1548809708988" duration="189000" />
       <workItem from="1548810066513" duration="307000" />
-      <workItem from="1548859625974" duration="5246000" />
-    </task>
-    <task id="LOCAL-00033" summary="avec les faq version 0.1">
-      <created>1547318805359</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1547318805359</updated>
+      <workItem from="1548859625974" duration="5417000" />
     </task>
     <task id="LOCAL-00034" summary="avec les faq version 0.1">
       <created>1547461474756</created>
@@ -1544,24 +1541,30 @@
       <option name="project" value="LOCAL" />
       <updated>1548862280426</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="Pour passage sur autre ordi">
+      <created>1548866381395</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1548866381395</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151723000" />
+    <option name="totallyTimeSpent" value="151894000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6293706" visible="true" weight="0.14925373" />
-      <window_info id="Structure" order="1" sideWeight="0.37062937" side_tool="true" visible="true" weight="0.14925373" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.63" visible="true" weight="0.14925373" />
+      <window_info id="Structure" order="1" sideWeight="0.37" side_tool="true" visible="true" weight="0.14925373" />
       <window_info id="Designer" order="2" />
       <window_info id="Gulp" order="3" side_tool="true" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20555556" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20555556" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
