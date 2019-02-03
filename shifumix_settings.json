@@ -19,6 +19,49 @@
       "name":"shifumix",  
       "version":"v1",
       "password":"hh4271"
+    },
+    
+    "flyers":{
+      "default":[
+        "https://shifumixweb.appspot.com/assets/img/music1.jpg",
+        "https://shifumixweb.appspot.com/assets/img/music2.jpg",
+        "https://shifumixweb.appspot.com/assets/img/music3.jpg",
+        "https://shifumixweb.appspot.com/assets/img/music4.jpg"
+      ],
+      "music":[
+        "https://shifumixweb.appspot.com/assets/img/music1.jpg",
+        "https://shifumixweb.appspot.com/assets/img/music2.jpg",
+        "https://shifumixweb.appspot.com/assets/img/music3.jpg",
+        "https://shifumixweb.appspot.com/assets/img/music4.jpg",
+        "https://shifumixweb.appspot.com/assets/img/music5.jpg",
+        "https://shifumixweb.appspot.com/assets/img/music6.jpg",
+        "https://shifumixweb.appspot.com/assets/img/music7.jpg",
+        "https://shifumixweb.appspot.com/assets/img/music8.jpg"
+      ],
+      "photo":[
+        "https://i.pinimg.com/originals/1c/8b/ee/1c8bee1af8df4b9c6289b3b53e2f7e54.jpg",
+        "https://i.pinimg.com/originals/40/97/b4/4097b437343edd443d00c421dd541070.jpg",
+        "https://i.pinimg.com/originals/a0/38/f0/a038f0c783751698de91e9d795e8e5aa.jpg",
+        "https://i.pinimg.com/originals/12/34/92/1234927b76bf2677c1f5f07be1eb1601.jpg",
+        "https://i.pinimg.com/originals/96/1f/d5/961fd5e8e4dcd0cf77a33e9f2e18f7cd.jpg",
+        "https://i.pinimg.com/originals/08/f8/bc/08f8bc261d047aba25c0657912dc1c57.jpg",
+        "https://i.pinimg.com/originals/9f/bc/6c/9fbc6c55014952599ee2085356c28475.jpg",
+        "https://i.pinimg.com/originals/c6/13/0d/c6130da61d57621bfa8243fc34625078.jpg",
+        "https://i.pinimg.com/originals/9e/0d/b9/9e0db99322597cb8cb68f36b83e9d7fe.jpg",
+        "https://i.pinimg.com/originals/67/55/06/67550655302972fef812355a8e7f7b33.jpg",
+        "https://i.pinimg.com/originals/1a/dc/18/1adc1836748edc4a63117a188c2748ff.jpg",
+        "https://i.pinimg.com/originals/b3/cb/11/b3cb11962d48fb8fcfdc7fbf4d0737e8.jpg",
+        "https://i.pinimg.com/originals/da/06/f8/da06f8148e1c7463694f9c2be186cec7.jpg"
+      ],
+      "survey":[
+        "https://shifumixweb.appspot.com/assets/img/survey1.jpg",
+        "https://shifumixweb.appspot.com/assets/img/survey2.jpg",
+        "https://shifumixweb.appspot.com/assets/img/survey3.jpg",
+        "https://shifumixweb.appspot.com/assets/img/survey4.jpg"
+      ],
+      "pro":[
+        "https://shifumixweb.appspot.com/assets/img/meeting1.jpg"
+      ]
     }
   },
   
