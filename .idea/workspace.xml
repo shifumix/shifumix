@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="" />
+    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/build/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/beta/build/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/build/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/beta/build/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/build/vendor.js" beforeDir="false" afterPath="$PROJECT_DIR$/beta/build/vendor.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +20,7 @@
         <counts>
           <entry key="project.closed" value="69" />
           <entry key="project.open.time.0" value="4" />
-          <entry key="project.open.time.1" value="28" />
+          <entry key="project.open.time.1" value="29" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="4" />
           <entry key="project.open.time.12" value="4" />
@@ -27,7 +32,7 @@
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="71" />
+          <entry key="project.opened" value="72" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -35,7 +40,7 @@
           <entry key="conf" value="3" />
           <entry key="css" value="796" />
           <entry key="html" value="20338" />
-          <entry key="js" value="1550" />
+          <entry key="js" value="1551" />
           <entry key="json" value="646" />
           <entry key="php" value="28" />
           <entry key="scss" value="944" />
@@ -48,7 +53,7 @@
           <entry key="CSS" value="796" />
           <entry key="HTML" value="20338" />
           <entry key="JSON" value="646" />
-          <entry key="JavaScript" value="1550" />
+          <entry key="JavaScript" value="1551" />
           <entry key="PLAIN_TEXT" value="177" />
           <entry key="SCSS" value="944" />
           <entry key="XML" value="37" />
@@ -113,8 +118,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/shifumix_website.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+            <state relative-caret-position="70">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -236,7 +241,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -266,6 +270,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -403,20 +408,7 @@
       <workItem from="1549927181488" duration="1812000" />
       <workItem from="1549951918548" duration="292000" />
       <workItem from="1549965704548" duration="1775000" />
-    </task>
-    <task id="LOCAL-00048" summary="avec les faq version 0.1">
-      <created>1547531857193</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1547531857193</updated>
-    </task>
-    <task id="LOCAL-00049" summary="avec les faq version 0.1">
-      <created>1547532309989</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1547532309989</updated>
+      <workItem from="1549975191349" duration="2833000" />
     </task>
     <task id="LOCAL-00050" summary="avec les faq version 0.1">
       <created>1547535660623</created>
@@ -747,17 +739,30 @@
       <option name="project" value="LOCAL" />
       <updated>1549973383479</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="Pour passage sur autre ordi">
+      <created>1549975213365</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1549975213365</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Pour passage sur autre ordi">
+      <created>1549979085674</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1549979085674</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="173685000" />
+    <option name="totallyTimeSpent" value="176518000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.62666667" visible="true" weight="0.17004265" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.62666667" visible="true" weight="0.1716418" />
       <window_info id="Structure" order="1" sideWeight="0.37333333" side_tool="true" weight="0.15405117" />
       <window_info id="Designer" order="2" />
       <window_info id="Gulp" order="3" side_tool="true" />
@@ -982,6 +987,9 @@
     <entry file="file://$PROJECT_DIR$/beta/build/main.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/beta/assets/img/postit.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
@@ -994,13 +1002,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beta/assets/img/postit.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/shifumix_website.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        <state relative-caret-position="70">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
