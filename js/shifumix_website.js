@@ -42,6 +42,8 @@ function openScreen(template){
         if(template==8)url=domain+"/template.html?postItMessage=false&duration=60&autologin=2&title=Brainstorm&widgets=pelemele&public=false&noprompt=true&autorun=1&dest=MessagesPage&ihm=perso&postItMessage=true&activities=photo,message&flyer=https://zeboute.files.wordpress.com/2018/06/fin_post_it_design_thinking_intelligence_collaborative.jpg";
         if(template==9)url=domain+"/template.html?postItMessage=false&duration=480&autologin=2&title=My%20meeting&widgets=presentation&public=false&noprompt=true&autorun=1&dest=PresentationPage&ihm=perso&activities=presentation,message,survey&flyer=https://cdn.forbes.com.mx/2015/04/Internet-negocios-siluetas.jpg";
         if(template==12)url=domain+"/demo_template2.html";
+
+        url=url+"&now="+new Date().getTime();
     }
 
     window.open(url,target,"left=0,top=0,resizable=0,scrollbars=0,titlebar=0,status=0,width="+screen.availWidth+",height="+screen.availHeight);
