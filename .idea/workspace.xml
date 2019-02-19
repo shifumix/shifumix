@@ -15,9 +15,9 @@
     <session id="-835947693">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="80" />
-          <entry key="project.open.time.0" value="5" />
-          <entry key="project.open.time.1" value="32" />
+          <entry key="project.closed" value="82" />
+          <entry key="project.open.time.0" value="6" />
+          <entry key="project.open.time.1" value="33" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="5" />
           <entry key="project.open.time.12" value="4" />
@@ -30,7 +30,7 @@
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="83" />
+          <entry key="project.opened" value="85" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -62,7 +62,7 @@
           <entry key="PNG" value="1" />
           <entry key="conf" value="1" />
           <entry key="css" value="18" />
-          <entry key="html" value="14" />
+          <entry key="html" value="15" />
           <entry key="ico" value="1" />
           <entry key="jpg" value="1" />
           <entry key="js" value="15" />
@@ -79,7 +79,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="18" />
-          <entry key="HTML" value="14" />
+          <entry key="HTML" value="15" />
           <entry key="Image" value="8" />
           <entry key="JSON" value="15" />
           <entry key="JavaScript" value="15" />
@@ -99,7 +99,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
@@ -109,6 +109,15 @@
                 <element signature="n#style#0;n#img#0;n#a#0;n#address#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#ul#0;n#div#2;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/channel.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -248,9 +257,9 @@
       <path value="$PROJECT_DIR$/vendor/fontawesome-free/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="355" />
-    <option name="y" value="202" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -307,15 +316,15 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\hhoareau\IdeaProjects\shifumixWebSite\img\portfolio" />
-      <recent name="C:\Users\hhoareau\IdeaProjects\shifumixWebSite\img" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hhoareau\IdeaProjects\shifumixWebSite" />
       <recent name="C:\Users\hhoareau\IdeaProjects\shifumixWebSite\beta\build" />
       <recent name="C:\Users\hhoareau\IdeaProjects\shifumixWebSite\beta\assets\img" />
       <recent name="C:\Users\hhoareau\IdeaProjects\shifumixWebSite\beta" />
-      <recent name="C:\Users\hhoareau\IdeaProjects\shifumixWebSite" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hhoareau\IdeaProjects\shifumixWebSite\img\portfolio" />
+      <recent name="C:\Users\hhoareau\IdeaProjects\shifumixWebSite\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -433,13 +442,8 @@
       <workItem from="1550242535977" duration="1050000" />
       <workItem from="1550449236746" duration="408000" />
       <workItem from="1550479404589" duration="615000" />
-    </task>
-    <task id="LOCAL-00063" summary="avec les faq version 0.1">
-      <created>1547651861602</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1547651861604</updated>
+      <workItem from="1550528751686" duration="54000" />
+      <workItem from="1550592283470" duration="1747000" />
     </task>
     <task id="LOCAL-00064" summary="avec les faq version 0.1">
       <created>1547662585372</created>
@@ -777,17 +781,24 @@
       <option name="project" value="LOCAL" />
       <updated>1550449259069</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="Pour passage sur autre ordi">
+      <created>1550528785678</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1550528785679</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="196431000" />
+    <option name="totallyTimeSpent" value="198232000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.62666667" visible="true" weight="0.1913646" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.62666667" visible="true" weight="0.195629" />
       <window_info id="Structure" order="1" sideWeight="0.37333333" side_tool="true" weight="0.15405117" />
       <window_info id="Designer" order="2" />
       <window_info id="Gulp" order="3" side_tool="true" />
@@ -1038,6 +1049,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/jqBootstrapValidation.js">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
