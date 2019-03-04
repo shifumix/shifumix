@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beta/build/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/beta/build/main.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +15,7 @@
     <session id="-835947693">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="84" />
+          <entry key="project.closed" value="85" />
           <entry key="project.open.time.0" value="6" />
           <entry key="project.open.time.1" value="34" />
           <entry key="project.open.time.10" value="2" />
@@ -66,7 +65,7 @@
           <entry key="html" value="15" />
           <entry key="ico" value="1" />
           <entry key="jpg" value="1" />
-          <entry key="js" value="16" />
+          <entry key="js" value="17" />
           <entry key="json" value="15" />
           <entry key="php" value="4" />
           <entry key="png" value="5" />
@@ -83,7 +82,7 @@
           <entry key="HTML" value="15" />
           <entry key="Image" value="8" />
           <entry key="JSON" value="15" />
-          <entry key="JavaScript" value="16" />
+          <entry key="JavaScript" value="17" />
           <entry key="PLAIN_TEXT" value="9" />
           <entry key="RNG Compact" value="1" />
           <entry key="SCSS" value="16" />
@@ -126,7 +125,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/beta/service-worker.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-526" />
+            <state relative-caret-position="-543" />
           </provider>
         </entry>
       </file>
@@ -266,7 +265,7 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -285,16 +284,6 @@
             <path>
               <item name="shifumixWebSite" type="b2602c69:ProjectViewProjectNode" />
               <item name="shifumixWebSite" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shifumixWebSite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shifumixWebSite" type="462c0819:PsiDirectoryNode" />
-              <item name="beta" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shifumixWebSite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shifumixWebSite" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -329,10 +318,10 @@
       <recent name="C:\Users\hhoareau\IdeaProjects\shifumixWebSite\img" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hhoareau\IdeaProjects\shifumixWebSite\beta" />
       <recent name="C:\Users\hhoareau\IdeaProjects\shifumixWebSite" />
       <recent name="C:\Users\hhoareau\IdeaProjects\shifumixWebSite\beta\build" />
       <recent name="C:\Users\hhoareau\IdeaProjects\shifumixWebSite\beta\assets\img" />
-      <recent name="C:\Users\hhoareau\IdeaProjects\shifumixWebSite\beta" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -454,14 +443,7 @@
       <workItem from="1550592283470" duration="1747000" />
       <workItem from="1550605575033" duration="186000" />
       <workItem from="1550699345337" duration="142000" />
-      <workItem from="1550909792368" duration="2151000" />
-    </task>
-    <task id="LOCAL-00068" summary="avec les faq version 0.1">
-      <created>1547824554701</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1547824554702</updated>
+      <workItem from="1550909792368" duration="2207000" />
     </task>
     <task id="LOCAL-00069" summary="Pour passage sur autre ordi">
       <created>1547837592774</created>
@@ -799,15 +781,21 @@
       <option name="project" value="LOCAL" />
       <updated>1550917968175</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="Pour passage sur autre ordi">
+      <created>1550943804900</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1550943804901</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="200711000" />
+    <option name="totallyTimeSpent" value="200767000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.20202559" />
       <window_info id="Structure" order="1" sideWeight="0.37333333" side_tool="true" weight="0.15405117" />
@@ -1070,7 +1058,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/beta/service-worker.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-526" />
+        <state relative-caret-position="-543" />
       </provider>
     </entry>
   </component>
