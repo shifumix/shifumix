@@ -13,6 +13,9 @@
     var hwnd=window.opener;
     if(hwnd!=null){
         hwnd.postMessage({email:getParam().email,password:getParam().password},"*");
+    } else {
+        localStorage.setItem("email",getParam().email);
+        localStorage.setItem("password",getParam().password);
     }
     setTimeout(function(){
         try{
