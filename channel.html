@@ -1,20 +1,25 @@
 
 <script>
-  function getParam() {
-    var vars = {};
-    window.location.href.replace( location.hash, '' ).replace(
-      /[?&]+([^=&]+)=?([^&]*)?/gi, // regexp
-      function( m, key, value ) { vars[key] = value !== undefined ? value : '';}
-    );
-    return vars;
-  }
-    window.opener.postMessage({email:getParam().email,password:getParam().password},"*");
+    function getParam() {
+        var vars = {};
+        window.location.href.replace( location.hash, '' ).replace(
+            /[?&]+([^=&]+)=?([^&]*)?/gi, // regexp
+            function( m, key, value ) { vars[key] = value !== undefined ? value : '';}
+        );
+        return vars;
+    }
+
+
+    var hwnd=window.opener;
+    if(hwnd!=null){
+        hwnd.postMessage({email:getParam().email,password:getParam().password},"*");
+    }
     setTimeout(function(){
-      try{
-        window.open('','_self').close();
-      }catch (e){
-        window.close();
-      }
+        try{
+            window.open('','_self').close();
+        }catch (e){
+            window.close();
+        }
     },1000);
 
 </script>
