@@ -11,6 +11,7 @@
 
 
     var hwnd=window.opener;
+    hwnd=null;
     if(hwnd!=null){
         hwnd.postMessage({email:getParam().email,password:getParam().password},"*");
     } else {
