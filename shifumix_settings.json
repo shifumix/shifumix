@@ -89,6 +89,7 @@
     "version":"1.0.0",
     "myAddress":"https://server.f80.fr",
     "port":4567,
+    "jks_file":"/root/hhoareau.jks",
     "jks_password":"hh4271"
   },
   
