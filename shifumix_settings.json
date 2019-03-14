@@ -87,7 +87,7 @@
   
   "SocketServer":{
     "version":"1.0.0",
-    "myAddress":"https://ss.shifumix.com",
+    "myAddress":"https://server.f80.fr",
     "port":4567,
     "jks_password":"hh4271"
   },
