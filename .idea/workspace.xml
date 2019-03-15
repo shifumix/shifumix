@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +13,7 @@
     <session id="-835947693">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="96" />
+          <entry key="project.closed" value="97" />
           <entry key="project.open.time.0" value="8" />
           <entry key="project.open.time.1" value="36" />
           <entry key="project.open.time.10" value="3" />
@@ -432,14 +430,7 @@
       <workItem from="1552495759598" duration="247000" />
       <workItem from="1552550974546" duration="102000" />
       <workItem from="1552554378901" duration="619000" />
-      <workItem from="1552560429278" duration="3080000" />
-    </task>
-    <task id="LOCAL-00085" summary="Pour passage sur autre ordi">
-      <created>1549179351473</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1549179351473</updated>
+      <workItem from="1552560429278" duration="3706000" />
     </task>
     <task id="LOCAL-00086" summary="Pour passage sur autre ordi">
       <created>1549197455322</created>
@@ -777,14 +768,21 @@
       <option name="project" value="LOCAL" />
       <updated>1552571507500</updated>
     </task>
-    <option name="localTasksCounter" value="134" />
+    <task id="LOCAL-00134" summary="Pour passage sur autre ordi">
+      <created>1552578894254</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1552578894254</updated>
+    </task>
+    <option name="localTasksCounter" value="135" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="218064000" />
+    <option name="totallyTimeSpent" value="218690000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="70" y="0" width="1936" height="1056" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.13965885" />
       <window_info id="Structure" order="1" sideWeight="0.37333333" side_tool="true" weight="0.15405117" />
