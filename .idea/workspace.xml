@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="" />
+    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,15 +16,15 @@
     <session id="-835947693">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="97" />
+          <entry key="project.closed" value="98" />
           <entry key="project.open.time.0" value="8" />
-          <entry key="project.open.time.1" value="36" />
+          <entry key="project.open.time.1" value="37" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="6" />
           <entry key="project.open.time.12" value="4" />
           <entry key="project.open.time.13" value="3" />
           <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.2" value="21" />
+          <entry key="project.open.time.2" value="22" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.26" value="1" />
@@ -32,14 +35,14 @@
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="102" />
+          <entry key="project.opened" value="104" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="conf" value="3" />
           <entry key="css" value="796" />
-          <entry key="html" value="20478" />
+          <entry key="html" value="20493" />
           <entry key="js" value="1735" />
           <entry key="json" value="746" />
           <entry key="php" value="28" />
@@ -51,7 +54,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="796" />
-          <entry key="HTML" value="20478" />
+          <entry key="HTML" value="20493" />
           <entry key="JSON" value="746" />
           <entry key="JavaScript" value="1735" />
           <entry key="PLAIN_TEXT" value="177" />
@@ -104,8 +107,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+            <state relative-caret-position="200">
+              <caret line="182" column="39" selection-start-line="182" selection-start-column="39" selection-end-line="182" selection-end-column="39" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#address#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -154,10 +157,10 @@
       <find>data-interval</find>
       <find>data-in</find>
       <find>dest</find>
-      <find>tester</find>
       <find>iframe_tester</find>
       <find>iframe</find>
       <find>empleu</find>
+      <find>tester</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;div</replace>
@@ -206,9 +209,9 @@
         <option value="$PROJECT_DIR$/faq.html" />
         <option value="$PROJECT_DIR$/beta/assets/js/exif.js" />
         <option value="$PROJECT_DIR$/js/shifumix_website.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/channel.html" />
         <option value="$PROJECT_DIR$/shifumix_settings.json" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -246,7 +249,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -254,16 +256,12 @@
               <item name="shifumixWebSite" type="b2602c69:ProjectViewProjectNode" />
               <item name="shifumixWebSite" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="shifumixWebSite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shifumixWebSite" type="462c0819:PsiDirectoryNode" />
-              <item name="beta" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -431,13 +429,8 @@
       <workItem from="1552550974546" duration="102000" />
       <workItem from="1552554378901" duration="619000" />
       <workItem from="1552560429278" duration="3706000" />
-    </task>
-    <task id="LOCAL-00086" summary="Pour passage sur autre ordi">
-      <created>1549197455322</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1549197455322</updated>
+      <workItem from="1552672244984" duration="59000" />
+      <workItem from="1552868578079" duration="95000" />
     </task>
     <task id="LOCAL-00087" summary="Pour passage sur autre ordi">
       <created>1549197633407</created>
@@ -775,23 +768,31 @@
       <option name="project" value="LOCAL" />
       <updated>1552578894254</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="Pour passage sur autre ordi">
+      <created>1552672266309</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1552672266309</updated>
+    </task>
+    <option name="localTasksCounter" value="136" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="218690000" />
+    <option name="totallyTimeSpent" value="218844000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="70" y="0" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.13965885" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.14285715" />
       <window_info id="Structure" order="1" sideWeight="0.37333333" side_tool="true" weight="0.15405117" />
       <window_info id="Designer" order="2" />
       <window_info id="Gulp" order="3" side_tool="true" />
       <window_info id="Favorites" order="4" sideWeight="0.37482518" side_tool="true" weight="0.20202559" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.20555556" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.20555556" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -801,8 +802,8 @@
       <window_info anchor="bottom" id="File Transfer" order="9" visible="true" weight="0.2588889" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Application Servers" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49733475" visible="true" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5026652" side_tool="true" visible="true" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49626866" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50159913" side_tool="true" visible="true" weight="0.20555556" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1024,13 +1025,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/channel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1040,13 +1034,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+        <state relative-caret-position="200">
+          <caret line="182" column="39" selection-start-line="182" selection-start-column="39" selection-end-line="182" selection-end-column="39" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#address#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ul#0;n#div#2;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
