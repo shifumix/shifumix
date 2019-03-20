@@ -52,6 +52,10 @@ self.toolbox.precache(
     './assets/img/splash3.webp',
     './assets/img/splash4.webp',
     './assets/img/splash5.webp',
+    './assets/img/splash6.webp',
+    './assets/img/splash7.webp',
+    './assets/img/splash8.webp',
+    './assets/img/splash9.webp',
     'manifest.json'
   ]
 );

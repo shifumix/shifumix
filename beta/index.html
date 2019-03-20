@@ -2,9 +2,6 @@
 <html lang="en" dir="ltr">
 
 <head>
-  <script data-ionic="inject">
-    (function(w){var i=w.Ionic=w.Ionic||{};i.version='3.9.2';i.angular='^5.2.1';i.staticDir='build/';})(window);
-  </script>
   <meta charset="UTF-8">
   <title>Shifumix</title>
   <meta name="viewport" content="viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -141,7 +138,7 @@
 
     setTimeout(function(){
 
-      var i=Math.trunc(Math.random()*5)+1;
+      var i=Math.trunc(Math.random()*9)+1;
       document.getElementById("page").src="./assets/img/splash"+i+".webp";
       document.getElementById("page").style.visibility="visible";
 
@@ -173,13 +170,8 @@
 
   </script>
 
-
-
-
-
   <!-- The polyfills js is generated during the build process -->
   <script src="build/polyfills.js"></script>
-
 
   <!-- google maps script is loaded last as to not block rendering -->
   <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD9ulABAnLWARLXAIajXW5c-3Rj5Wqp-Ss"></script>
