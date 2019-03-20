@@ -47,8 +47,6 @@ self.toolbox.precache(
   [
     './build/main.css',
     './build/polyfills.js',
-    './build/main.js',
-    'index.html',
     './assets/img/splash1.webp',
     './assets/img/splash2.webp',
     './assets/img/splash3.webp',
