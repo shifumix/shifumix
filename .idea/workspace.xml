@@ -1,7 +1,206 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="" />
+    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/css/shifumix.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/fonts/ionicons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/fonts/ionicons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/fonts/ionicons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/fonts/ionicons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/fonts/ionicons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/fonts/ionicons.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/fonts/noto-sans-bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/fonts/noto-sans-bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/fonts/noto-sans-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/fonts/noto-sans-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/fonts/noto-sans.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/fonts/roboto-bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/fonts/roboto-bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/fonts/roboto-bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/fonts/roboto-light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/fonts/roboto-light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/fonts/roboto-light.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/fonts/roboto-medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/fonts/roboto-medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/fonts/roboto-medium.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/fonts/roboto-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/fonts/roboto-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/fonts/roboto-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/fonts/roboto.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/icon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/Capture1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/Capture2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/Capture3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/Capture4.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/Coeur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/addevent_fr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/addpicture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/anonymous.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/appicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/appicon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/archi_multiple.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/archi_perso.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/archi_spotify.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/archi_youtube - Copy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/archi_youtube.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/arrow_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/arrow_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/arrow_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/authentification.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/beta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/birthday.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/button_signin_email.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/cadre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/camera.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/casque.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/check.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/closed.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/coeurbrise.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/corner.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/danger.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/deazer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/delete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/demandecoeur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/disc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/dislike.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/dj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/drink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/emoji-dj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/facebookLoginButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/files.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/google.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/help.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/help_joinevent_fr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/help_photo_fr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/help_profil_fr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/home_en.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/home_fr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/home_vote_en.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/home_vote_fr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/hourglass.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/icon-dj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/icon144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/icon192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/icon32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/icon48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/icon512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/icon72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/icon96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/inivite_en.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/inivite_fr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/instant_photo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/invitation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/ionic-logo-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/join.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/joinevent_en.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/like.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/linkedin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/local.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/logo1024x500.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/logo180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/logo256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/logo440.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/logo440diskonly.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/logo_carre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/logo_screenTV - 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/logo_screenTV.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/logo_svg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/map.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/me.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/meeting.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/meeting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/message.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/mini-dj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/money.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/onair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/onair_large.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/papier.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/party.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/party.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/party_backup.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/party_large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/pause.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/personne.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/photo_en.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/photo_fen.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/photo_fr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/phototext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/pin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/player.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/playlist.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/podium.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/profil_en.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/profil_fr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/quit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/ready.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/rotate_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/rotate_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/scrolldown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/selevent_en.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/selevent_fr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/send.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/send.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/share.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/slack.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/speakers/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/speakers/bear.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/speakers/cheetah.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/speakers/duck.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/speakers/eagle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/speakers/elephant.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/speakers/giraffe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/speakers/iguana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/speakers/kitten.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/speakers/lion.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/speakers/mouse.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/speakers/puppy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/speakers/rabbit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/speakers/turtle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/star.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/start.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/target.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/tips.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/tips.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/tuto1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/tuto2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/tuto3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/tuto4..svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/tuto4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/tuto5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/validate.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/vinyl-large.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/vinyl.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/wait.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/widget.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/img/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/js/exif.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/js/exif.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/js/sdk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/js/sdk.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/templates/LastTweet.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/templates/musee.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/templates/musicandphotos.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/templates/photos.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/templates/tags2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/templates/template_photo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/templates/template_tweet.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/templates/test.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/templates/tweet2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/assets/templates/tweets.svg" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +266,7 @@
           <entry key="html" value="17" />
           <entry key="ico" value="1" />
           <entry key="jpg" value="1" />
-          <entry key="js" value="17" />
+          <entry key="js" value="18" />
           <entry key="json" value="20" />
           <entry key="php" value="4" />
           <entry key="png" value="5" />
@@ -84,7 +283,7 @@
           <entry key="HTML" value="17" />
           <entry key="Image" value="8" />
           <entry key="JSON" value="20" />
-          <entry key="JavaScript" value="17" />
+          <entry key="JavaScript" value="18" />
           <entry key="PLAIN_TEXT" value="9" />
           <entry key="RNG Compact" value="1" />
           <entry key="SCSS" value="16" />
@@ -115,11 +314,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
               <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/beta/assets/js/sdk.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#style#0;n#iframe#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -263,6 +475,24 @@
             <path>
               <item name="shifumixWebSite" type="b2602c69:ProjectViewProjectNode" />
               <item name="shifumixWebSite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shifumixWebSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shifumixWebSite" type="462c0819:PsiDirectoryNode" />
+              <item name="beta" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shifumixWebSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shifumixWebSite" type="462c0819:PsiDirectoryNode" />
+              <item name="beta" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shifumixWebSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shifumixWebSite" type="462c0819:PsiDirectoryNode" />
+              <item name="beta" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -441,14 +671,7 @@
       <workItem from="1552909343168" duration="1193000" />
       <workItem from="1552986706321" duration="897000" />
       <workItem from="1553067109549" duration="802000" />
-      <workItem from="1553074627265" duration="1235000" />
-    </task>
-    <task id="LOCAL-00091" summary="Pour passage sur autre ordi">
-      <created>1549905050743</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1549905050744</updated>
+      <workItem from="1553074627265" duration="1948000" />
     </task>
     <task id="LOCAL-00092" summary="Pour passage sur autre ordi">
       <created>1549925743739</created>
@@ -786,24 +1009,30 @@
       <option name="project" value="LOCAL" />
       <updated>1553074672814</updated>
     </task>
-    <option name="localTasksCounter" value="140" />
+    <task id="LOCAL-00140" summary="Pour passage sur autre ordi">
+      <created>1553081209645</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1553081209645</updated>
+    </task>
+    <option name="localTasksCounter" value="141" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="223134000" />
+    <option name="totallyTimeSpent" value="223847000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.15085287" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.15085287" />
       <window_info id="Structure" order="1" sideWeight="0.37333333" side_tool="true" weight="0.15405117" />
       <window_info id="Designer" order="2" />
       <window_info id="Gulp" order="3" side_tool="true" />
       <window_info id="Favorites" order="4" sideWeight="0.37482518" side_tool="true" weight="0.20202559" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" weight="0.20555556" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4978678" visible="true" weight="0.20555556" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -814,7 +1043,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Application Servers" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49626866" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50159913" side_tool="true" visible="true" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5021322" side_tool="true" visible="true" weight="0.20555556" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -942,9 +1171,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beta/assets/js/sdk.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/faq.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -1059,6 +1285,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beta/assets/js/sdk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
