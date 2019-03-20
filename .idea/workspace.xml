@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
+    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="Pour passage sur autre ordi">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beta/build/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/beta/build/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beta/build/vendor.js" beforeDir="false" afterPath="$PROJECT_DIR$/beta/build/vendor.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +15,7 @@
     <session id="-835947693">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="101" />
+          <entry key="project.closed" value="102" />
           <entry key="project.open.time.0" value="8" />
           <entry key="project.open.time.1" value="39" />
           <entry key="project.open.time.10" value="3" />
@@ -43,7 +41,7 @@
         <counts>
           <entry key="conf" value="3" />
           <entry key="css" value="796" />
-          <entry key="html" value="20493" />
+          <entry key="html" value="20501" />
           <entry key="js" value="1735" />
           <entry key="json" value="746" />
           <entry key="php" value="28" />
@@ -55,7 +53,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="796" />
-          <entry key="HTML" value="20493" />
+          <entry key="HTML" value="20501" />
           <entry key="JSON" value="746" />
           <entry key="JavaScript" value="1735" />
           <entry key="PLAIN_TEXT" value="177" />
@@ -108,8 +106,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="186" column="26" selection-start-line="186" selection-start-column="26" selection-end-line="186" selection-end-column="26" />
+            <state relative-caret-position="200">
+              <caret line="114" column="79" lean-forward="true" selection-start-line="114" selection-start-column="79" selection-end-line="114" selection-end-column="79" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#address#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -132,8 +130,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>html</find>
-      <find>page HML</find>
       <find>iWallSettings</find>
       <find>charts</find>
       <find>/img</find>
@@ -162,6 +158,8 @@
       <find>iframe</find>
       <find>empleu</find>
       <find>tester</find>
+      <find>iwall</find>
+      <find>shareme</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;div</replace>
@@ -445,14 +443,7 @@
       <workItem from="1552868578079" duration="257000" />
       <workItem from="1552869295491" duration="1000" />
       <workItem from="1552909343168" duration="1193000" />
-      <workItem from="1552986706321" duration="672000" />
-    </task>
-    <task id="LOCAL-00088" summary="Pour passage sur autre ordi">
-      <created>1549199524424</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1549199524424</updated>
+      <workItem from="1552986706321" duration="897000" />
     </task>
     <task id="LOCAL-00089" summary="Pour passage sur autre ordi">
       <created>1549218900997</created>
@@ -790,11 +781,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552868720587</updated>
     </task>
-    <option name="localTasksCounter" value="137" />
+    <task id="LOCAL-00137" summary="Pour passage sur autre ordi">
+      <created>1552987628604</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1552987628604</updated>
+    </task>
+    <option name="localTasksCounter" value="138" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="220872000" />
+    <option name="totallyTimeSpent" value="221097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1055,8 +1053,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="186" column="26" selection-start-line="186" selection-start-column="26" selection-end-line="186" selection-end-column="26" />
+        <state relative-caret-position="200">
+          <caret line="114" column="79" lean-forward="true" selection-start-line="114" selection-start-column="79" selection-end-line="114" selection-end-column="79" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#address#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
