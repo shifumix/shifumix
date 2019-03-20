@@ -25,8 +25,8 @@ function setprofil(i) {
 
 function openTemplates(){
     var add_url="";
-    if(type_profil=="pro")add_url="?ihm=pro";
-    window.open(domain+"/demo_template2.html"+add_url);
+    if(type_profil=="pro")add_url="&ihm=pro";
+    window.open(domain+"/demo_template2.html?delay=60"+add_url);
 }
 
 
