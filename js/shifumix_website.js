@@ -23,11 +23,11 @@ function setprofil(i) {
 
 
 
-function openTemplates(){
-    var add_url="";
-    if(type_profil=="pro")add_url="&ihm=pro";
-    window.open(domain+"/demo_template2.html?delay=30"+add_url);
-}
+// function openTemplates(){
+//     var add_url="";
+//     if(type_profil=="pro")add_url="&ihm=pro";
+//     window.open(domain+"/demo_template2.html?delay=30"+add_url);
+// }
 
 
 function openScreen(template){
@@ -73,7 +73,7 @@ $(document).ready(function() {
     }
 
     setTimeout(function(){
-        document.getElementById("iframe_tester").src="https://shifumixweb.appspot.com/tutoriel.html?screens=1&size=150&ihm=perso";
+        document.getElementById("iframe_tester").src="https://shifumixweb.appspot.com/tutoriel.html?delay=30&screens=1&size=150&ihm=perso";
         setTimeout(function(){
             document.getElementById("iframe_tester").style.display="inline-block";
             document.getElementById("hourglass").style.display="none";
