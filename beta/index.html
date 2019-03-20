@@ -11,11 +11,6 @@
   <meta name="format-detection" content="telephone=no">
   <meta name="msapplication-tap-highlight" content="no">
 
-  <meta property='og:title' content='SHIFUMIX'/>
-  <meta property='og:description' content='Expériences sociales éphémères'/>
-  <meta property='og:image' content='https://shifumix.com/img/logo1024x500.png'/>
-  <meta property='og:url' content='https://shifumix.com'/>
-
   <meta http-equiv="Cache-control" content="no-cache, no-store, must-revalidate">
   <meta http-equiv="Pragma" content="no-cache">
 
@@ -42,26 +37,47 @@
 
   <!--<link href="build/main.css" rel="stylesheet">-->
   <link rel="preload" href="assets/img/tuto1.svg" as="image">
-  <link rel="prefetch" href="assets/img/tuto2.svg" as="image">
-  <link rel="prefetch" href="assets/img/tuto3.svg" as="image">
-  <link rel="prefetch" href="assets/img/tuto4.svg" as="image">
-  <link rel="prefetch" href="assets/img/tuto5.svg" as="image">
+  <!--<link rel="prefetch" href="assets/img/tuto2.svg" as="image">-->
+  <!--<link rel="prefetch" href="assets/img/tuto3.svg" as="image">-->
+  <!--<link rel="prefetch" href="assets/img/tuto4.svg" as="image">-->
+  <!--<link rel="prefetch" href="assets/img/tuto5.svg" as="image">-->
 
 </head>
 
+<style>
+  .cover {
+    object-fit: cover;
+  }
+
+</style>
+
 <body>
 
-  <div id="splash_logo" style="visibility:hidden;margin-left:10%;width:80%;text-align: center;">
-    <br><br><br>
-    <img id="logo" src="assets/img/logo440.png">
-    <br><br><br><br><br>
-    <img src="./assets/img/wait.gif" style="width:100px;">
+<!-- Ionic's root component and where the app will load -->
+<ion-app>
+</ion-app>
+
+<!--<div id="splash_logo" style="visibility:hidden;margin-left:10%;width:80%;text-align: center;">-->
+  <!--<br><br><br>-->
+  <!--<img id="logo" src="assets/img/logo440.png">-->
+  <!--<br><br><br><br><br>-->
+  <!--<img src="./assets/img/wait.gif" style="width:100px;">-->
+<!--</div>-->
+
+<div id="tuto" style="width:100%;height:100%;">
+  <img class="cover"
+       style="height: 100%;width: 100%;visibility: hidden;"
+       id="page">
+
+  <img style="position: absolute;left:20px;top:20px;width: 40px;height: 40px;"
+       src="./assets/img/wait.gif">
+
+  <div style="color:white;font-size:x-large;position: absolute;left:0px;top:25%;width: 100%;text-align: center;">
+    SHIFUMIX
   </div>
 
-  <div id="tuto" style="position:absolute;left:3%;top:3%;width:94%;height:94%;z-index: 10;">
-    <img style="height:100%;max-width: 100%;" id="page" npage="1" src="./assets/img/tuto1.svg" onclick="nextPage()">
-    <img style="position: absolute;left:20px;top:20px;width: 20px;height: 20px;" src="./assets/img/wait.gif">
-  </div>
+</div>
+
 
 
   <script>
@@ -92,44 +108,48 @@
       head.appendChild(script);
     }
 
-    function closeSplashScreen(){
-      document.getElementById("tuto").innerHTML="";
-      document.getElementById("splash_logo").style.visibility="visible";
-      if(getParam().logo!=null && getParam().logo.length>0)
-          document.getElementById("logo").src=getParam().logo;
-    }
+    // function closeSplashScreen(){
+    //   document.getElementById("tuto").innerHTML="";
+    //   document.getElementById("splash_logo").style.visibility="visible";
+    //   if(getParam().logo!=null && getParam().logo.length>0)
+    //       document.getElementById("logo").src=getParam().logo;
+    // }
 
 
-    function nextPage(){
-      setTimeout(function(){
-        var nPage=Number(document.getElementById("page").getAttribute("npage"));
-        nPage++;
-        if(nPage==6){
-          document.getElementById("tuto").innerHTML="";
-          closeSplashScreen();
-        } else {
-          document.getElementById("page").src="./assets/img/tuto"+nPage+".svg";
-          document.getElementById("page").setAttribute("npage",nPage);
-        }
-      },50);
-    }
+    // function nextPage(){
+    //   setTimeout(function(){
+    //     var nPage=Number(document.getElementById("page").getAttribute("npage"));
+    //     nPage++;
+    //     if(nPage==6){
+    //       document.getElementById("tuto").innerHTML="";
+    //       closeSplashScreen();
+    //     } else {
+    //       document.getElementById("page").src="./assets/img/tuto"+nPage+".svg";
+    //       document.getElementById("page").setAttribute("npage",nPage);
+    //     }
+    //   },50);
+    // }
 
     //localStorage.hasOwnProperty("tuto")
     if(localStorage.hasOwnProperty("tuto")){
-      closeSplashScreen();
+      // closeSplashScreen();
     }
     else{
-      document.getElementById("splash_logo").style.visibility="hidden";
+      // document.getElementById("splash_logo").style.visibility="hidden";
       localStorage.setItem("tuto",true);
     }
 
     setTimeout(function(){
-      //if(location.href.indexOf("localhost")>0 || location.href.indexOf("alpha.shifumix.com")>0)version="?"+new Date().getTime();
+
+      var i=Math.trunc(Math.random()*5)+1;
+      document.getElementById("page").src="./assets/img/splash"+i+".webp";
+      document.getElementById("page").style.visibility="visible";
+
       loadLink("build/main.css","","stylesheet");
       loadScript("./assets/js/exif.js");
       loadScript("./build/vendor.js",function(){
         loadScript("./build/main.js",function(){
-          document.body.removeChild(document.getElementById("splash_logo"));
+          // document.body.removeChild(document.getElementById("splash_logo"));
 
           document.body.removeChild(document.getElementById("tuto"));
           localStorage.setItem("tuto",true);
@@ -154,10 +174,8 @@
   </script>
 
 
-  <!-- Ionic's root component and where the app will load -->
-  <ion-app></ion-app>
 
-  <!--<script src="cordova.js"></script>-->
+
 
   <!-- The polyfills js is generated during the build process -->
   <script src="build/polyfills.js"></script>

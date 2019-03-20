@@ -47,11 +47,13 @@ self.toolbox.precache(
   [
     './build/main.css',
     './build/polyfills.js',
+    './build/main.js',
     'index.html',
-    './assets/img/tuto1.svg',
-    './assets/img/tuto2.svg',
-    './assets/img/tuto3.svg',
-    './assets/img/tuto4.svg',
+    './assets/img/splash1.webp',
+    './assets/img/splash2.webp',
+    './assets/img/splash3.webp',
+    './assets/img/splash4.webp',
+    './assets/img/splash5.webp',
     'manifest.json'
   ]
 );
