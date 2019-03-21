@@ -237,6 +237,8 @@
         </div>
     </div>
     <br><br>
+
+    <!--Services réservés plutôt aux professionnels-->
     <div class="container" id="services_pro">
         <div class="row text-center">
             <div class="col-md-4"><span class="fa-stack fa-2x"> <em class="fas fa-circle fa-stack-2x text-primary"></em> <em class="fas fa-poll-h fa-stack-1x fa-inverse"></em> </span>
@@ -275,7 +277,6 @@
 
 <section id="tarifs" style="padding:0px" class="bg-dark">
     <div class="container-fluid text-light">
-
         <div class="row">
             <div class="col-sm text-center" style="padding:5%">
                 <span class="section-heading section-title">Tarifs</span><br>
@@ -291,6 +292,51 @@
         </div>
     </div>
 </section>
+
+
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle">Vous êtes plutôt ?</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="row text-center">
+                    <div class="col-md-4">
+                        <a onclick="setprofil(1)" >
+                            <span class="fa-stack fa-2x">
+                                <em class="fas fa-circle fa-stack-2x text-primary"></em>
+                                <em class="fas fa-female fa-stack-1x fa-inverse"></em>
+                            </span>
+                        </a><br><br>
+                        Un particulier
+                    </div>
+                    <div class="col-md-4 text-center">
+                        <a onclick="setprofil(2)" >
+                            <span class="fa-stack fa-2x">
+                                <em class="fas fa-circle fa-stack-2x text-primary"></em>
+                                <em class="fas fa-beer fa-stack-1x fa-inverse"></em>
+                            </span>
+                        </a><br><br>
+                        Un bar / restaurant
+                    </div>
+                    <div class="col-md-4">
+                        <a onclick="setprofil(2)" >
+                            <span class="fa-stack fa-2x">
+                                <em class="fas fa-circle fa-stack-2x text-primary"></em>
+                                <em class="fas fa-building fa-stack-1x fa-inverse"></em>
+                            </span>
+                        </a><br><br>
+                        Une entreprise
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 <!--
 <section class="bg-light" id="tutos">
@@ -318,6 +364,7 @@
 <section class="bg-light m-2" id="iWallScreen">
     <div class="container-fluid text-center" >
         <span class="section-title section-heading">Partager</span>
+        <br>
         <p class="p-text">Shifumix est compatible avec tous les téléphones (Apple ou Android) et tous les ordinateurs (Mac, PC, Linux). Pour afficher votre événement sur une télévision vous pouvez utilisez
         </p>
         <br>

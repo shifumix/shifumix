@@ -1,20 +1,23 @@
 var type_profil="";
 var domain=document.location.protocol+"//"+document.location.hostname+":8080";
 if(domain.indexOf("www.shifumix.com")>-1)domain="https://shifumixweb.appspot.com";
+var handle;
 
 function setprofil(i) {
+    $("#myModal").modal('hide');
+    clearTimeout(handle);
+
     type_profil="pro";
     if(i==1)type_profil="perso";
 
-    if (type_profil == 'perso') document.getElementById("services_pro").innerHTML="";
-    if (type_profil == 'pro') document.getElementById("services_perso").innerHTML = "";
+    if (type_profil == 'perso') document.getElementById("services_pro").style.display="none";
+    if (type_profil == 'pro') document.getElementById("services_perso").style.display = "none";
 
     for(var i=0;i<15;i++){
         var elt=document.getElementById("slide"+i);
         if(elt!=null && elt.attributes.tag!=null && elt.attributes.tag.value.indexOf(type_profil)==-1){
             elt.parentElement.removeChild(elt);
         }
-
     }
 
     document.getElementById("iframe_tester").src = domain+"/tutoriel.html?screens=1&size=150&ihm=" + type_profil;
@@ -71,6 +74,10 @@ $(document).ready(function() {
             }
         }
     }
+
+    handle=setTimeout(function(){
+        $("#myModal").modal()
+    },10000)
 
     setTimeout(function(){
         document.getElementById("iframe_tester").src="https://shifumixweb.appspot.com/tutoriel.html?delay=30&screens=1&size=150&ihm=perso";
