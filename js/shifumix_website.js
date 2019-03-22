@@ -20,7 +20,7 @@ function setprofil(i) {
         }
     }
 
-    document.getElementById("iframe_tester").src = domain+"/tutoriel.html?screens=1&size=150&ihm=" + type_profil;
+    document.getElementById("iframe_tester").src = domain+"/tutoriel.html?delay=30&screens=1&size=150&ihm=" + type_profil;
     document.getElementById("profil").classList.toggle("invisible");
 }
 
