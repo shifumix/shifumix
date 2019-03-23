@@ -15,13 +15,13 @@
     <session id="-835947693">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="108" />
+          <entry key="project.closed" value="109" />
           <entry key="project.open.time.0" value="8" />
           <entry key="project.open.time.1" value="43" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="6" />
           <entry key="project.open.time.12" value="4" />
-          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.13" value="4" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.2" value="23" />
           <entry key="project.open.time.21" value="1" />
@@ -34,7 +34,7 @@
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="113" />
+          <entry key="project.opened" value="114" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -42,7 +42,7 @@
           <entry key="conf" value="3" />
           <entry key="css" value="796" />
           <entry key="html" value="20831" />
-          <entry key="js" value="1903" />
+          <entry key="js" value="1912" />
           <entry key="json" value="750" />
           <entry key="php" value="28" />
           <entry key="scss" value="944" />
@@ -55,7 +55,7 @@
           <entry key="CSS" value="796" />
           <entry key="HTML" value="20831" />
           <entry key="JSON" value="750" />
-          <entry key="JavaScript" value="1903" />
+          <entry key="JavaScript" value="1912" />
           <entry key="PLAIN_TEXT" value="177" />
           <entry key="SCSS" value="944" />
           <entry key="XML" value="37" />
@@ -122,8 +122,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/shifumix_website.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            <state relative-caret-position="374">
+              <caret line="22" column="83" selection-start-line="22" selection-start-column="83" selection-end-line="22" selection-end-column="83" />
             </state>
           </provider>
         </entry>
@@ -160,7 +160,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>fa-bra</find>
       <find>forum</find>
       <find>btn-title</find>
       <find>start</find>
@@ -190,6 +189,7 @@
       <find>services_pro</find>
       <find>service</find>
       <find>revenu</find>
+      <find>tutoriel</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;div</replace>
@@ -279,8 +279,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -308,6 +306,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -487,13 +487,7 @@
       <workItem from="1553104779120" duration="3991000" />
       <workItem from="1553192595135" duration="3513000" />
       <workItem from="1553208520340" duration="125000" />
-    </task>
-    <task id="LOCAL-00103" summary="Pour passage sur autre ordi">
-      <created>1550167628542</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1550167628543</updated>
+      <workItem from="1553239379455" duration="81000" />
     </task>
     <task id="LOCAL-00104" summary="Pour passage sur autre ordi">
       <created>1550177828851</created>
@@ -831,16 +825,24 @@
       <option name="project" value="LOCAL" />
       <updated>1553208652822</updated>
     </task>
-    <option name="localTasksCounter" value="152" />
+    <task id="LOCAL-00152" summary="Pour passage sur autre ordi">
+      <created>1553239437296</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1553239437296</updated>
+    </task>
+    <option name="localTasksCounter" value="153" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="237554000" />
+    <option name="totallyTimeSpent" value="237635000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.15724947" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.15884861" />
       <window_info id="Structure" order="1" sideWeight="0.37333333" side_tool="true" weight="0.15405117" />
       <window_info id="Designer" order="2" />
       <window_info id="Gulp" order="3" side_tool="true" />
@@ -1106,8 +1108,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/shifumix_website.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        <state relative-caret-position="374">
+          <caret line="22" column="83" selection-start-line="22" selection-start-column="83" selection-end-line="22" selection-end-column="83" />
         </state>
       </provider>
     </entry>
