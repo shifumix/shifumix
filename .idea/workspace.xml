@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="Pour passage sur autre ordi">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,9 +15,9 @@
     <session id="-835947693">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="110" />
+          <entry key="project.closed" value="111" />
           <entry key="project.open.time.0" value="8" />
-          <entry key="project.open.time.1" value="44" />
+          <entry key="project.open.time.1" value="45" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="6" />
           <entry key="project.open.time.12" value="4" />
@@ -34,7 +34,7 @@
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="115" />
+          <entry key="project.opened" value="116" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -289,25 +289,14 @@
             <path>
               <item name="shifumixWebSite" type="b2602c69:ProjectViewProjectNode" />
               <item name="shifumixWebSite" type="462c0819:PsiDirectoryNode" />
-              <item name="beta" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shifumixWebSite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shifumixWebSite" type="462c0819:PsiDirectoryNode" />
-              <item name="beta" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shifumixWebSite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shifumixWebSite" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -489,13 +478,7 @@
       <workItem from="1553208520340" duration="125000" />
       <workItem from="1553239379455" duration="81000" />
       <workItem from="1553369027300" duration="171000" />
-    </task>
-    <task id="LOCAL-00105" summary="Pour passage sur autre ordi">
-      <created>1550206360986</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1550206360987</updated>
+      <workItem from="1553675762111" duration="644000" />
     </task>
     <task id="LOCAL-00106" summary="Pour passage sur autre ordi">
       <created>1550208679740</created>
@@ -833,17 +816,23 @@
       <option name="project" value="LOCAL" />
       <updated>1553369050250</updated>
     </task>
-    <option name="localTasksCounter" value="154" />
+    <task id="LOCAL-00154" summary="Pour passage sur autre ordi">
+      <created>1553675793269</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1553675793270</updated>
+    </task>
+    <option name="localTasksCounter" value="155" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="237806000" />
+    <option name="totallyTimeSpent" value="238450000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.16044776" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.16204691" />
       <window_info id="Structure" order="1" sideWeight="0.37333333" side_tool="true" weight="0.15405117" />
       <window_info id="Designer" order="2" />
       <window_info id="Gulp" order="3" side_tool="true" />
