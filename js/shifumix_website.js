@@ -20,7 +20,7 @@ function setprofil(i) {
         }
     }
 
-    document.getElementById("iframe_tester").src = domain+"/tutoriel.html?delay=30&screens=1&size=150&ihm=" + type_profil;
+    document.getElementById("iframe_tester").src = domain+"/tutoriel.html?withMessage=true&delay=30&screens=1&size=150&ihm=" + type_profil;
     document.getElementById("profil").classList.toggle("invisible");
 }
 
@@ -80,7 +80,7 @@ $(document).ready(function() {
     },10000)
 
     setTimeout(function(){
-        document.getElementById("iframe_tester").src="https://shifumixweb.appspot.com/tutoriel.html?delay=30&screens=1&size=150&ihm=perso";
+        document.getElementById("iframe_tester").src="https://shifumixweb.appspot.com/tutoriel.html?withMessage=true&delay=30&screens=1&size=150&ihm=perso";
         setTimeout(function(){
             document.getElementById("iframe_tester").style.display="inline-block";
             document.getElementById("hourglass").style.display="none";
