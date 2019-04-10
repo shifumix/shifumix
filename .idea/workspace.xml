@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beta/build/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/beta/build/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beta/build/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/beta/build/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beta/build/vendor.js" beforeDir="false" afterPath="$PROJECT_DIR$/beta/build/vendor.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shifumix_settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/shifumix_settings.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -49,7 +46,7 @@
           <entry key="css" value="796" />
           <entry key="html" value="20831" />
           <entry key="js" value="1929" />
-          <entry key="json" value="750" />
+          <entry key="json" value="769" />
           <entry key="php" value="28" />
           <entry key="scss" value="944" />
           <entry key="txt" value="146" />
@@ -60,7 +57,7 @@
         <counts>
           <entry key="CSS" value="796" />
           <entry key="HTML" value="20831" />
-          <entry key="JSON" value="750" />
+          <entry key="JSON" value="769" />
           <entry key="JavaScript" value="1929" />
           <entry key="PLAIN_TEXT" value="177" />
           <entry key="SCSS" value="944" />
@@ -128,8 +125,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="84" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="84" />
+            <state relative-caret-position="221">
+              <caret line="15" column="81" selection-start-line="15" selection-start-column="81" selection-end-line="15" selection-end-column="81" />
             </state>
           </provider>
         </entry>
@@ -489,21 +486,7 @@
       <workItem from="1554675706819" duration="472000" />
       <workItem from="1554705349844" duration="1287000" />
       <workItem from="1554822327863" duration="965000" />
-      <workItem from="1554881784598" duration="1183000" />
-    </task>
-    <task id="LOCAL-00112" summary="Pour passage sur autre ordi">
-      <created>1550528785678</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1550528785679</updated>
-    </task>
-    <task id="LOCAL-00113" summary="Pour passage sur autre ordi">
-      <created>1550605738373</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1550605738373</updated>
+      <workItem from="1554881784598" duration="2972000" />
     </task>
     <task id="LOCAL-00114" summary="Pour passage sur autre ordi">
       <created>1550699464132</created>
@@ -834,11 +817,25 @@
       <option name="project" value="LOCAL" />
       <updated>1554822636093</updated>
     </task>
-    <option name="localTasksCounter" value="161" />
+    <task id="LOCAL-00161" summary="Pour passage sur autre ordi">
+      <created>1554883202773</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1554883202775</updated>
+    </task>
+    <task id="LOCAL-00162" summary="Pour passage sur autre ordi">
+      <created>1554883418275</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1554883418275</updated>
+    </task>
+    <option name="localTasksCounter" value="163" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="244615000" />
+    <option name="totallyTimeSpent" value="246404000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1110,8 +1107,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="84" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="84" />
+        <state relative-caret-position="221">
+          <caret line="15" column="81" selection-start-line="15" selection-start-column="81" selection-end-line="15" selection-end-column="81" />
         </state>
       </provider>
     </entry>
