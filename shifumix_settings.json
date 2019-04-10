@@ -78,12 +78,12 @@
     "myAddress":"https://server.f80.fr",
     "protocol":"https",
     "events_dir":"/home/events",
-    "jks_password":"hh4271",
+    "jks_password":"uGqqeXJLqmI=",
 
     "mail_server":{
         "smtp.host":"smtp.gmail.com",
-        "user":"shifumixwww@gmail.com",
-        "password":"hh4271!!"
+        "user":"zpPzWi3lijdlWeEPexOSs0rfH5gn4nSG",
+        "password":"QI+fQOx181U7XUjzAsU09A=="
       }
   },
   
