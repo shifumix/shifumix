@@ -9,8 +9,9 @@
     "image_proxy":"https://images.weserv.nl/?url=/",
     "authent_services":"facebook,google,linkedin,email,anonymous",
 
+    "comment":"https://webnet77.net/cgi-bin/helpers/blowfish.pl",
     "keys":{
-      "google_api":"AIzaSyB_n-rCldEBObvMroy7UQ4-GLsnDlGyYvM",
+      "google_api":"7455d12b24e690421fe38573473182050ce10c11533bdf08eebf60f024ef693f570675681184d3d5",
       "pixabay":"5489947-2039fe3621c0de1cbb91d08c6",
       "customer_search":"AIzaSyCbO6Haf3LbegyF7rO32eb6tRLTEmGPOJ8"
     },
