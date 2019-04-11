@@ -75,7 +75,7 @@
   "MicroServer": {
     "version": "1.0.0",
     "port":5271,
-    "myAddress":"https://server.f80.fr",
+    "myAddress":"http://server.f80.fr",
     "protocol":"https",
     "events_dir":"/home/events",
     "jks_password":"uGqqeXJLqmI=",

@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shifumix_settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/shifumix_settings.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +15,7 @@
     <session id="-835947693">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="120" />
+          <entry key="project.closed" value="123" />
           <entry key="project.open.time.0" value="8" />
           <entry key="project.open.time.1" value="51" />
           <entry key="project.open.time.10" value="3" />
@@ -24,9 +23,10 @@
           <entry key="project.open.time.12" value="4" />
           <entry key="project.open.time.13" value="4" />
           <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="24" />
           <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.23" value="2" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.3" value="6" />
@@ -37,7 +37,7 @@
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="126" />
+          <entry key="project.opened" value="128" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -46,7 +46,7 @@
           <entry key="css" value="796" />
           <entry key="html" value="20831" />
           <entry key="js" value="1929" />
-          <entry key="json" value="791" />
+          <entry key="json" value="794" />
           <entry key="php" value="28" />
           <entry key="scss" value="944" />
           <entry key="txt" value="146" />
@@ -57,7 +57,7 @@
         <counts>
           <entry key="CSS" value="796" />
           <entry key="HTML" value="20831" />
-          <entry key="JSON" value="791" />
+          <entry key="JSON" value="794" />
           <entry key="JavaScript" value="1929" />
           <entry key="PLAIN_TEXT" value="177" />
           <entry key="SCSS" value="944" />
@@ -110,7 +110,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
+            <state relative-caret-position="1309">
               <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -125,8 +125,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="77" column="38" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="38" />
+            <state relative-caret-position="324">
+              <caret line="81" selection-start-line="81" selection-end-line="81" />
             </state>
           </provider>
         </entry>
@@ -269,7 +269,7 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="-1928" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -282,6 +282,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -293,7 +294,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -486,21 +486,9 @@
       <workItem from="1554675706819" duration="472000" />
       <workItem from="1554705349844" duration="1287000" />
       <workItem from="1554822327863" duration="965000" />
-      <workItem from="1554881784598" duration="3675000" />
-    </task>
-    <task id="LOCAL-00115" summary="Pour passage sur autre ordi">
-      <created>1550909927533</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1550909927534</updated>
-    </task>
-    <task id="LOCAL-00116" summary="Pour passage sur autre ordi">
-      <created>1550917968175</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1550917968175</updated>
+      <workItem from="1554881784598" duration="5307000" />
+      <workItem from="1554900354346" duration="644000" />
+      <workItem from="1554902241280" duration="1027000" />
     </task>
     <task id="LOCAL-00117" summary="Pour passage sur autre ordi">
       <created>1550943804900</created>
@@ -831,17 +819,31 @@
       <option name="project" value="LOCAL" />
       <updated>1554887515027</updated>
     </task>
-    <option name="localTasksCounter" value="164" />
+    <task id="LOCAL-00164" summary="Pour passage sur autre ordi">
+      <created>1554890214559</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1554890214559</updated>
+    </task>
+    <task id="LOCAL-00165" summary="Pour passage sur autre ordi">
+      <created>1554891509749</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1554891509749</updated>
+    </task>
+    <option name="localTasksCounter" value="166" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="247107000" />
+    <option name="totallyTimeSpent" value="250410000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.17803837" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.18123667" />
       <window_info id="Structure" order="1" sideWeight="0.37333333" side_tool="true" weight="0.15405117" />
       <window_info id="Designer" order="2" />
       <window_info id="Gulp" order="3" side_tool="true" />
@@ -1074,7 +1076,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="1309">
           <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1107,8 +1109,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="77" column="38" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="38" />
+        <state relative-caret-position="324">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
         </state>
       </provider>
     </entry>
