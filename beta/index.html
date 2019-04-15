@@ -2,6 +2,9 @@
 <html lang="en" dir="ltr">
 
 <head>
+  <script data-ionic="inject">
+    (function(w){var i=w.Ionic=w.Ionic||{};i.version='3.9.2';i.angular='^5.2.1';i.staticDir='build/';})(window);
+  </script>
   <meta charset="UTF-8">
   <title>Shifumix</title>
   <meta name="viewport" content="viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -33,7 +36,7 @@
   <link href="assets/css/shifumix.css" rel="stylesheet">
 
   <!--<link href="build/main.css" rel="stylesheet">-->
-  <!--<link rel="preload" href="assets/img/tuto1.svg" as="image">-->
+  <link rel="preload" href="assets/img/tuto1.svg" as="image">
   <!--<link rel="prefetch" href="assets/img/tuto2.svg" as="image">-->
   <!--<link rel="prefetch" href="assets/img/tuto3.svg" as="image">-->
   <!--<link rel="prefetch" href="assets/img/tuto4.svg" as="image">-->
@@ -69,8 +72,7 @@
   <img style="position: absolute;left:20px;top:20px;width: 40px;height: 40px;"
        src="./assets/img/wait.gif">
 
-  <div style="color:white;font-size:x-large;position: absolute;left:0px;top:25%;width: 100%;text-align: center;">
-    SHIFUMIX
+  <div style="font-family: Arial, Helvetica, serif;font-size:6vw;color:white;font-weight:lighter;position: absolute;left:0px;top:25%;width: 100%;text-align: center;">
   </div>
 
 </div>
@@ -174,8 +176,8 @@
   <script src="build/polyfills.js"></script>
 
   <!-- google maps script is loaded last as to not block rendering -->
-  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD9ulABAnLWARLXAIajXW5c-3Rj5Wqp-Ss"></script>
-
+  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCusLxwn9kwMcGglCVsfHY0OzTaOOhgMMI"></script>
+  <!--TODO: a corriger pour des raisons de protection de la clés-->
 
 </body>
 

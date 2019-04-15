@@ -440,14 +440,7 @@
       <workItem from="1555017307252" duration="6183000" />
       <workItem from="1555126115555" duration="36000" />
       <workItem from="1555301250138" duration="2483000" />
-      <workItem from="1555340475234" duration="1755000" />
-    </task>
-    <task id="LOCAL-00126" summary="Pour passage sur autre ordi">
-      <created>1552383945676</created>
-      <option name="number" value="00126" />
-      <option name="presentableId" value="LOCAL-00126" />
-      <option name="project" value="LOCAL" />
-      <updated>1552383945676</updated>
+      <workItem from="1555340475234" duration="1782000" />
     </task>
     <task id="LOCAL-00127" summary="Pour passage sur autre ordi">
       <created>1552387974734</created>
@@ -785,15 +778,21 @@
       <option name="project" value="LOCAL" />
       <updated>1555325265974</updated>
     </task>
-    <option name="localTasksCounter" value="175" />
+    <task id="LOCAL-00175" summary="Pour passage sur autre ordi">
+      <created>1555344202264</created>
+      <option name="number" value="00175" />
+      <option name="presentableId" value="LOCAL-00175" />
+      <option name="project" value="LOCAL" />
+      <updated>1555344202265</updated>
+    </task>
+    <option name="localTasksCounter" value="176" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="260867000" />
+    <option name="totallyTimeSpent" value="260894000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.18923241" />
       <window_info id="Structure" order="1" sideWeight="0.37333333" side_tool="true" weight="0.15405117" />
