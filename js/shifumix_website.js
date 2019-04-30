@@ -77,7 +77,7 @@ $(document).ready(function() {
 
     handle=setTimeout(function(){
         $("#myModal").modal()
-    },20000);
+    },40000);
 
     setTimeout(function(){
         document.getElementById("iframe_tester").src="https://shifumixweb.appspot.com/tutoriel.html?withMessage=true&delay=30&screens=1&size=150&ihm=perso";
