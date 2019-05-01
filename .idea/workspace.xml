@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/agency.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/agency.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +15,7 @@
     <session id="-835947693">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="133" />
+          <entry key="project.closed" value="134" />
           <entry key="project.open.time.0" value="10" />
           <entry key="project.open.time.1" value="55" />
           <entry key="project.open.time.10" value="3" />
@@ -147,8 +145,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="323" selection-start-line="323" selection-end-line="323" />
+            <state relative-caret-position="343">
+              <caret line="289" column="48" lean-forward="true" selection-start-line="289" selection-start-column="48" selection-end-line="289" selection-end-column="48" />
               <folding>
                 <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -541,14 +539,7 @@
       <workItem from="1556457956548" duration="1223000" />
       <workItem from="1556485806257" duration="92000" />
       <workItem from="1556581763405" duration="5041000" />
-      <workItem from="1556643791253" duration="4776000" />
-    </task>
-    <task id="LOCAL-00137" summary="Pour passage sur autre ordi">
-      <created>1552987628604</created>
-      <option name="number" value="00137" />
-      <option name="presentableId" value="LOCAL-00137" />
-      <option name="project" value="LOCAL" />
-      <updated>1552987628604</updated>
+      <workItem from="1556643791253" duration="4817000" />
     </task>
     <task id="LOCAL-00138" summary="Pour passage sur autre ordi">
       <created>1553067130947</created>
@@ -886,11 +877,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556660007076</updated>
     </task>
-    <option name="localTasksCounter" value="186" />
+    <task id="LOCAL-00186" summary="Remise en ligne de la video">
+      <created>1556661662187</created>
+      <option name="number" value="00186" />
+      <option name="presentableId" value="LOCAL-00186" />
+      <option name="project" value="LOCAL" />
+      <updated>1556661662187</updated>
+    </task>
+    <option name="localTasksCounter" value="187" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="282681000" />
+    <option name="totallyTimeSpent" value="282722000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
@@ -906,7 +904,7 @@
       <window_info id="UI Designer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49307036" visible="true" weight="0.24111111" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49307036" weight="0.24111111" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1165,8 +1163,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="323" selection-start-line="323" selection-end-line="323" />
+        <state relative-caret-position="343">
+          <caret line="289" column="48" lean-forward="true" selection-start-line="289" selection-start-column="48" selection-end-line="289" selection-end-column="48" />
           <folding>
             <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
