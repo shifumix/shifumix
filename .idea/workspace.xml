@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/beta/build/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/beta/build/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/videos/_tuto_cube.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/img/videos/_tuto_cube.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/videos/_tuto_playlist.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/img/videos/_tuto_playlist.mp4" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -149,8 +149,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="290" column="12" selection-start-line="290" selection-start-column="12" selection-end-line="290" selection-end-column="12" />
+            <state relative-caret-position="455">
+              <caret line="326" selection-start-line="293" selection-end-line="326" />
               <folding>
                 <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -562,14 +562,7 @@
       <workItem from="1556708275634" duration="2759000" />
       <workItem from="1556859601257" duration="1229000" />
       <workItem from="1556890925886" duration="3389000" />
-      <workItem from="1556898104492" duration="3012000" />
-    </task>
-    <task id="LOCAL-00148" summary="Pour passage sur autre ordi">
-      <created>1553099622196</created>
-      <option name="number" value="00148" />
-      <option name="presentableId" value="LOCAL-00148" />
-      <option name="project" value="LOCAL" />
-      <updated>1553099622197</updated>
+      <workItem from="1556898104492" duration="4235000" />
     </task>
     <task id="LOCAL-00149" summary="Pour passage sur autre ordi">
       <created>1553183457872</created>
@@ -907,11 +900,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556899775550</updated>
     </task>
-    <option name="localTasksCounter" value="197" />
+    <task id="LOCAL-00197" summary="Remise en ligne de la video">
+      <created>1556903292713</created>
+      <option name="number" value="00197" />
+      <option name="presentableId" value="LOCAL-00197" />
+      <option name="project" value="LOCAL" />
+      <updated>1556903292714</updated>
+    </task>
+    <option name="localTasksCounter" value="198" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="293111000" />
+    <option name="totallyTimeSpent" value="294334000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1165,8 +1165,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="290" column="12" selection-start-line="290" selection-start-column="12" selection-end-line="290" selection-end-column="12" />
+        <state relative-caret-position="455">
+          <caret line="326" selection-start-line="293" selection-end-line="326" />
           <folding>
             <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
