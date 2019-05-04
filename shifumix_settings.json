@@ -82,7 +82,7 @@
   "MicroServer": {
     "version": "1.0.0",
     "port":5271,
-    "myAddress":"https://socketserver.f80.fr",
+    "myAddress":"https://server.f80.fr",
     "protocol":"https",
     "events_dir":"/home/events",
     "jks_password":"uGqqeXJLqmI=",
@@ -96,7 +96,7 @@
   
   "SocketServer":{
     "version":"1.0.0",
-    "myAddress":"https://socketserver.f80.fr",
+    "myAddress":"https://server.f80.fr",
     "port":4567,
     "jks_file":"/root/hhoareau.jks",
     "jks_password":"hh4271"
