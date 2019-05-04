@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/videos/_tuto_playlist.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/img/videos/_tuto_playlist.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +16,8 @@
     <session id="-835947693">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="137" />
-          <entry key="project.open.time.0" value="10" />
+          <entry key="project.closed" value="138" />
+          <entry key="project.open.time.0" value="11" />
           <entry key="project.open.time.1" value="57" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="6" />
@@ -40,29 +40,29 @@
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="4" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="145" />
+          <entry key="project.opened" value="146" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="conf" value="3" />
           <entry key="css" value="796" />
-          <entry key="html" value="21383" />
+          <entry key="html" value="21511" />
           <entry key="js" value="1983" />
           <entry key="json" value="829" />
           <entry key="php" value="28" />
           <entry key="scss" value="944" />
-          <entry key="txt" value="173" />
+          <entry key="txt" value="211" />
           <entry key="xml" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="796" />
-          <entry key="HTML" value="21383" />
+          <entry key="HTML" value="21511" />
           <entry key="JSON" value="829" />
           <entry key="JavaScript" value="1983" />
-          <entry key="PLAIN_TEXT" value="204" />
+          <entry key="PLAIN_TEXT" value="242" />
           <entry key="SCSS" value="944" />
           <entry key="XML" value="37" />
         </counts>
@@ -149,8 +149,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="326" selection-start-line="293" selection-end-line="326" />
+            <state relative-caret-position="380">
+              <caret line="192" column="65" selection-start-line="192" selection-start-column="65" selection-end-line="192" selection-end-column="65" />
               <folding>
                 <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -204,7 +204,6 @@
       <find>iframe_tester</find>
       <find>iframe</find>
       <find>empleu</find>
-      <find>tester</find>
       <find>iwall</find>
       <find>shareme</find>
       <find>demo</find>
@@ -219,6 +218,7 @@
       <find>data-ride=&quot;carousel&quot;</find>
       <find>un raccourcis</find>
       <find>/img</find>
+      <find>tester</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;div</replace>
@@ -298,8 +298,8 @@
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1548" />
-    <option name="y" value="220" />
+    <option name="x" value="-2109" />
+    <option name="y" value="350" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -312,6 +312,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -345,8 +347,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -562,14 +562,8 @@
       <workItem from="1556708275634" duration="2759000" />
       <workItem from="1556859601257" duration="1229000" />
       <workItem from="1556890925886" duration="3389000" />
-      <workItem from="1556898104492" duration="4235000" />
-    </task>
-    <task id="LOCAL-00149" summary="Pour passage sur autre ordi">
-      <created>1553183457872</created>
-      <option name="number" value="00149" />
-      <option name="presentableId" value="LOCAL-00149" />
-      <option name="project" value="LOCAL" />
-      <updated>1553183457873</updated>
+      <workItem from="1556898104492" duration="4573000" />
+      <workItem from="1556957191439" duration="375000" />
     </task>
     <task id="LOCAL-00150" summary="Pour passage sur autre ordi">
       <created>1553195911406</created>
@@ -907,17 +901,24 @@
       <option name="project" value="LOCAL" />
       <updated>1556903292714</updated>
     </task>
-    <option name="localTasksCounter" value="198" />
+    <task id="LOCAL-00198" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1556911765008</created>
+      <option name="number" value="00198" />
+      <option name="presentableId" value="LOCAL-00198" />
+      <option name="project" value="LOCAL" />
+      <updated>1556911765009</updated>
+    </task>
+    <option name="localTasksCounter" value="199" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="294334000" />
+    <option name="totallyTimeSpent" value="295047000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.22334754" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.22547974" />
       <window_info id="Structure" order="1" sideWeight="0.37333333" side_tool="true" weight="0.15405117" />
       <window_info id="Designer" order="2" />
       <window_info id="Gulp" order="3" side_tool="true" />
@@ -927,7 +928,7 @@
       <window_info id="UI Designer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49307036" weight="0.24111111" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49253732" visible="true" weight="0.24111111" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -938,7 +939,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Application Servers" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49554655" weight="0.32986626" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5074627" side_tool="true" visible="true" weight="0.24111111" />
       <window_info anchor="bottom" id="Bitbucket Issues" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -974,7 +975,8 @@
     <MESSAGE value="avec les faq version 0.1" />
     <MESSAGE value="Pour passage sur autre ordi" />
     <MESSAGE value="Remise en ligne de la video" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remise en ligne de la video" />
+    <MESSAGE value="Mise en ligne de l'ensemble des vidéos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mise en ligne de l'ensemble des vidéos" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css">
@@ -1165,8 +1167,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="326" selection-start-line="293" selection-end-line="326" />
+        <state relative-caret-position="380">
+          <caret line="192" column="65" selection-start-line="192" selection-start-column="65" selection-end-line="192" selection-end-column="65" />
           <folding>
             <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
