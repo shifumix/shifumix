@@ -39,7 +39,7 @@ function openScreen(template){
         url="http://app.shifumix.com";
         target="_self";
     }else{
-        url=domain+"/demo_template2.html?sel="+template;
+        url=domain+"/demo_template2.html?delay=1000&sel="+template;
         // if(template==2)url=domain+"/template.html?postItMessage=false&duration=480&autologin=2&title=Eren%20Titan%20Form%20party&widgets=musicOnly&public=false&noprompt=true&autorun=1&dest=HomePage&ihm=perso&activities=music,message,photo&flyer=https://www.thebostoncalendar.com/system/events/photos/000/026/871/original/Party_Dream_Color_party.jpg?1443946618";
         // if(template==3)url=domain+"/template.html?postItMessage=false&duration=180&autologin=2&title=Afficher%20les%20messages%20partag%C3%A9s%20en%20mode%20g&widgets=message_cursor&public=false&noprompt=true&autorun=1&dest=MessagesPage&ihm=perso&activities=message&flyer=https://shifumixweb.appspot.com/assets/img/ezgif.com-resize.gif";
         // if(template==8)url=domain+"/template.html?postItMessage=false&duration=60&autologin=2&title=Brainstorm&widgets=pelemele&public=false&noprompt=true&autorun=1&dest=MessagesPage&ihm=perso&postItMessage=true&activities=photo,message&flyer=https://zeboute.files.wordpress.com/2018/06/fin_post_it_design_thinking_intelligence_collaborative.jpg";
