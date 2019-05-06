@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +13,7 @@
     <session id="-835947693">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="140" />
+          <entry key="project.closed" value="141" />
           <entry key="project.open.time.0" value="11" />
           <entry key="project.open.time.1" value="59" />
           <entry key="project.open.time.10" value="3" />
@@ -47,7 +45,7 @@
           <entry key="conf" value="3" />
           <entry key="css" value="796" />
           <entry key="html" value="21520" />
-          <entry key="js" value="1983" />
+          <entry key="js" value="1994" />
           <entry key="json" value="829" />
           <entry key="php" value="28" />
           <entry key="scss" value="944" />
@@ -60,7 +58,7 @@
           <entry key="CSS" value="796" />
           <entry key="HTML" value="21520" />
           <entry key="JSON" value="829" />
-          <entry key="JavaScript" value="1983" />
+          <entry key="JavaScript" value="1994" />
           <entry key="PLAIN_TEXT" value="242" />
           <entry key="SCSS" value="944" />
           <entry key="XML" value="37" />
@@ -157,20 +155,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/agency.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="657">
-              <caret line="42" column="29" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
+            <state relative-caret-position="249">
+              <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/shifumix_website.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1394">
-              <caret line="82" column="86" selection-start-line="82" selection-start-column="54" selection-end-line="82" selection-end-column="86" />
+            <state relative-caret-position="266">
+              <caret line="41" column="52" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -179,7 +177,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>setPro</find>
       <find>shifumix est</find>
       <find>who ar</find>
       <find>music;;</find>
@@ -209,6 +206,7 @@
       <find>/img</find>
       <find>tester</find>
       <find>tuto</find>
+      <find>open</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;div</replace>
@@ -258,9 +256,9 @@
         <option value="$PROJECT_DIR$/channel.html" />
         <option value="$PROJECT_DIR$/beta/index.html" />
         <option value="$PROJECT_DIR$/shifumix_settings.json" />
-        <option value="$PROJECT_DIR$/js/shifumix_website.js" />
         <option value="$PROJECT_DIR$/js/agency.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/shifumix_website.js" />
       </list>
     </option>
   </component>
@@ -665,14 +663,7 @@
       <workItem from="1556898104492" duration="4573000" />
       <workItem from="1556957191439" duration="994000" />
       <workItem from="1556958269513" duration="9000" />
-      <workItem from="1557148517861" duration="701000" />
-    </task>
-    <task id="LOCAL-00151" summary="Pour passage sur autre ordi">
-      <created>1553208652822</created>
-      <option name="number" value="00151" />
-      <option name="presentableId" value="LOCAL-00151" />
-      <option name="project" value="LOCAL" />
-      <updated>1553208652822</updated>
+      <workItem from="1557148517861" duration="1371000" />
     </task>
     <task id="LOCAL-00152" summary="Pour passage sur autre ordi">
       <created>1553239437296</created>
@@ -1010,11 +1001,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556957760847</updated>
     </task>
-    <option name="localTasksCounter" value="200" />
+    <task id="LOCAL-00200" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1557151459028</created>
+      <option name="number" value="00200" />
+      <option name="presentableId" value="LOCAL-00200" />
+      <option name="project" value="LOCAL" />
+      <updated>1557151459029</updated>
+    </task>
+    <option name="localTasksCounter" value="201" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="296376000" />
+    <option name="totallyTimeSpent" value="297046000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1267,13 +1265,6 @@
     <entry file="file://$PROJECT_DIR$/js/jqBootstrapValidation.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/shifumix_website.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1394">
-          <caret line="82" column="86" selection-start-line="82" selection-start-column="54" selection-end-line="82" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="657">
@@ -1293,8 +1284,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/agency.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="657">
-          <caret line="42" column="29" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
+        <state relative-caret-position="249">
+          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/shifumix_website.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="41" column="52" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
         </state>
       </provider>
     </entry>
