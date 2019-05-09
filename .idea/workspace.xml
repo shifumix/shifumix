@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beta/build/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/beta/build/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +15,7 @@
     <session id="-835947693">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="143" />
+          <entry key="project.closed" value="144" />
           <entry key="project.open.time.0" value="11" />
           <entry key="project.open.time.1" value="60" />
           <entry key="project.open.time.10" value="3" />
@@ -559,14 +558,7 @@
       <workItem from="1557148517861" duration="1371000" />
       <workItem from="1557159679050" duration="2364000" />
       <workItem from="1557330771241" duration="632000" />
-      <workItem from="1557390089048" duration="2141000" />
-    </task>
-    <task id="LOCAL-00154" summary="Pour passage sur autre ordi">
-      <created>1553675793269</created>
-      <option name="number" value="00154" />
-      <option name="presentableId" value="LOCAL-00154" />
-      <option name="project" value="LOCAL" />
-      <updated>1553675793270</updated>
+      <workItem from="1557390089048" duration="4516000" />
     </task>
     <task id="LOCAL-00155" summary="Pour passage sur autre ordi">
       <created>1553706838056</created>
@@ -904,11 +896,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557400705592</updated>
     </task>
-    <option name="localTasksCounter" value="203" />
+    <task id="LOCAL-00203" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1557411947201</created>
+      <option name="number" value="00203" />
+      <option name="presentableId" value="LOCAL-00203" />
+      <option name="project" value="LOCAL" />
+      <updated>1557411947201</updated>
+    </task>
+    <option name="localTasksCounter" value="204" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="302183000" />
+    <option name="totallyTimeSpent" value="304558000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
