@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="Mise en ligne de l'ensemble des vidéos">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/beta/build/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/beta/build/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beta/build/vendor.js" beforeDir="false" afterPath="$PROJECT_DIR$/beta/build/vendor.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -561,14 +559,7 @@
       <workItem from="1557148517861" duration="1371000" />
       <workItem from="1557159679050" duration="2364000" />
       <workItem from="1557330771241" duration="632000" />
-      <workItem from="1557390089048" duration="1488000" />
-    </task>
-    <task id="LOCAL-00153" summary="Pour passage sur autre ordi">
-      <created>1553369050249</created>
-      <option name="number" value="00153" />
-      <option name="presentableId" value="LOCAL-00153" />
-      <option name="project" value="LOCAL" />
-      <updated>1553369050250</updated>
+      <workItem from="1557390089048" duration="2141000" />
     </task>
     <task id="LOCAL-00154" summary="Pour passage sur autre ordi">
       <created>1553675793269</created>
@@ -906,14 +897,22 @@
       <option name="project" value="LOCAL" />
       <updated>1557159710322</updated>
     </task>
-    <option name="localTasksCounter" value="202" />
+    <task id="LOCAL-00202" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1557400705592</created>
+      <option name="number" value="00202" />
+      <option name="presentableId" value="LOCAL-00202" />
+      <option name="project" value="LOCAL" />
+      <updated>1557400705592</updated>
+    </task>
+    <option name="localTasksCounter" value="203" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="301530000" />
+    <option name="totallyTimeSpent" value="302183000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.1337953" />
       <window_info id="Structure" order="1" sideWeight="0.37333333" side_tool="true" weight="0.15405117" />
