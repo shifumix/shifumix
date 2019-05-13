@@ -49,7 +49,7 @@
           <entry key="css" value="796" />
           <entry key="html" value="21540" />
           <entry key="js" value="1996" />
-          <entry key="json" value="1038" />
+          <entry key="json" value="1297" />
           <entry key="php" value="28" />
           <entry key="scss" value="944" />
           <entry key="txt" value="211" />
@@ -60,7 +60,7 @@
         <counts>
           <entry key="CSS" value="796" />
           <entry key="HTML" value="21540" />
-          <entry key="JSON" value="1038" />
+          <entry key="JSON" value="1297" />
           <entry key="JavaScript" value="1996" />
           <entry key="PLAIN_TEXT" value="242" />
           <entry key="SCSS" value="944" />
@@ -161,11 +161,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="117" column="48" selection-start-line="117" selection-start-column="48" selection-end-line="117" selection-end-column="48" />
+            <state relative-caret-position="408">
+              <caret line="108" column="23" selection-start-line="108" selection-start-column="23" selection-end-line="108" selection-end-column="23" />
               <folding>
                 <element signature="n#!!block;n#MicroServer#0;n#!!top" />
                 <element signature="n#!!block;n#SocketServer#0;n#!!top" />
+                <element signature="e#4553#4806#0" />
+                <element signature="e#4812#5075#0" />
+                <element signature="e#5141#5356#0" />
+                <element signature="e#5558#5722#0" />
               </folding>
             </state>
           </provider>
@@ -565,21 +569,7 @@
       <workItem from="1557470989953" duration="1557000" />
       <workItem from="1557499280434" duration="1047000" />
       <workItem from="1557699840582" duration="623000" />
-      <workItem from="1557740083682" duration="1444000" />
-    </task>
-    <task id="LOCAL-00160" summary="Pour passage sur autre ordi">
-      <created>1554822636092</created>
-      <option name="number" value="00160" />
-      <option name="presentableId" value="LOCAL-00160" />
-      <option name="project" value="LOCAL" />
-      <updated>1554822636093</updated>
-    </task>
-    <task id="LOCAL-00161" summary="Pour passage sur autre ordi">
-      <created>1554883202773</created>
-      <option name="number" value="00161" />
-      <option name="presentableId" value="LOCAL-00161" />
-      <option name="project" value="LOCAL" />
-      <updated>1554883202775</updated>
+      <workItem from="1557740083682" duration="5559000" />
     </task>
     <task id="LOCAL-00162" summary="Pour passage sur autre ordi">
       <created>1554883418275</created>
@@ -910,14 +900,29 @@
       <option name="project" value="LOCAL" />
       <updated>1557699863849</updated>
     </task>
-    <option name="localTasksCounter" value="209" />
+    <task id="LOCAL-00209" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1557741659975</created>
+      <option name="number" value="00209" />
+      <option name="presentableId" value="LOCAL-00209" />
+      <option name="project" value="LOCAL" />
+      <updated>1557741659975</updated>
+    </task>
+    <task id="LOCAL-00210" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1557742482187</created>
+      <option name="number" value="00210" />
+      <option name="presentableId" value="LOCAL-00210" />
+      <option name="project" value="LOCAL" />
+      <updated>1557742482187</updated>
+    </task>
+    <option name="localTasksCounter" value="211" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="309592000" />
+    <option name="totallyTimeSpent" value="313707000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.1401919" />
       <window_info id="Structure" order="1" sideWeight="0.37333333" side_tool="true" weight="0.15405117" />
@@ -1192,11 +1197,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="117" column="48" selection-start-line="117" selection-start-column="48" selection-end-line="117" selection-end-column="48" />
+        <state relative-caret-position="408">
+          <caret line="108" column="23" selection-start-line="108" selection-start-column="23" selection-end-line="108" selection-end-column="23" />
           <folding>
             <element signature="n#!!block;n#MicroServer#0;n#!!top" />
             <element signature="n#!!block;n#SocketServer#0;n#!!top" />
+            <element signature="e#4553#4806#0" />
+            <element signature="e#4812#5075#0" />
+            <element signature="e#5141#5356#0" />
+            <element signature="e#5558#5722#0" />
           </folding>
         </state>
       </provider>

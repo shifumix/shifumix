@@ -106,25 +106,50 @@
   },
 
   "Tutoriel":{
-    "devices":{
-      "tv_frame_selected":0,
-      "tv_frames":[
-        {
-        "image":"./assets/img/device-tv.png",
-        "position":{"x0":23,"y0":25,"x1":575,"y1":310}
+    "default_config":0,
+    "configs":[
+      {
+        "background":"./assets/img/theater.jpg",
+        "tv":{
+          "position":{"x0":1571,"y0":159,"x1":2701,"y1":710},
+          "frame":
+            {
+              "image":"./assets/img/ecran_geant.webp",
+              "position":{"x0":295,"y0":269,"x1":1732,"y1":1115}
+            }
         },
-        {
-          "image":"./assets/img/ecran_geant.webp",
-          "position":{"x0":295,"y0":269,"x1":1732,"y1":1115}
+        "mobile":{
+          "position":{"x0":481,"y0":159,"x1":787,"y1":1261},
+          "frame":
+            {
+              "image":"./assets/img/device-mobile.webp",
+              "position":{"x0":30,"y0":76,"x1":628,"y1":1198}
+            }
         }
-      ],
-      "mobile_frame_selected":0,
-      "mobile_frames":[
-        {
-          "image":"./assets/img/device-mobile.webp",
-          "position":{"x0":30,"y0":76,"x1":628,"y1":1198}
+      },
+      {
+        "tv":{
+          "position":{"x0":1571,"y0":159,"x1":2701,"y1":710},
+          "frame": {
+            "image":"./assets/img/device-tv.png",
+            "position":{"x0":23,"y0":25,"x1":575,"y1":310}
+          }
+        },
+        "mobile":{
+          "position":{"x0":481,"y0":159,"x1":787,"y1":1261},
+          "frame":{
+              "image":"./assets/img/device-mobile.webp",
+              "position":{"x0":30,"y0":76,"x1":628,"y1":1198}
+          }
         }
-      ]
-    }
+      },
+      {
+        "frame": {
+          "image": "./assets/img/ecran_geant.webp",
+          "position": {"x0": 295, "y0": 269, "x1": 1732, "y1": 1115}
+          }
+        }
+    ]
   }
+
 }
