@@ -151,13 +151,13 @@
           {"position":{"x0":1309,"y0":111,"x1":1690,"y1":316}}
         ],
         "mobile":{
-          "position":{"x0":750,"y0":341,"x1":1100,"y1":825},
-          "max":{"width":600,"height":800},
-          "min":{"width":400,"height":600},
+          "position":{"x0":750,"y0":341,"x1":1100,"y1":800},
+          "max":{"width":600,"height":700},
+          "min":{"width":400,"height":400},
           "frame":
           {
-            "image":"./assets/img/device-mobile.webp",
-            "position":{"x0":30,"y0":76,"x1":628,"y1":1198}
+            "image":"./assets/img/ipad.png",
+            "position":{"x0":157,"y0":73,"x1":589,"y1":647}
           }
         },
         "message":{
