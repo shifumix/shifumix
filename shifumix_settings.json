@@ -118,9 +118,9 @@
         "font":{
           "color":"white"
         },
-        "tv":{
+        "tvs":[{
           "position":{"x0":895,"y0":78,"x1":2030,"y1":630}
-        },
+        }],
         "mobile":{
           "position":{"x0":100,"y0":100,"x1":600,"y1":800},
           "max":{"width":600,"height":900},
@@ -137,13 +137,42 @@
         }
       },
       {
-        "tv":{
+        "background":{
+          "image":"./assets/img/2screens.jpg",
+          "width":1812,
+          "height":1020,
+          "color":"black"
+        },
+        "font":{
+          "color":"white"
+        },
+        "tvs":[
+          {"position":{"x0":148,"y0":120,"x1":516,"y1":323}},
+          {"position":{"x0":1309,"y0":111,"x1":1674,"y1":316}}
+        ],
+        "mobile":{
+          "position":{"x0":100,"y0":100,"x1":600,"y1":800},
+          "max":{"width":600,"height":900},
+          "min":{"width":400,"height":600},
+          "frame":
+          {
+            "image":"./assets/img/device-mobile.webp",
+            "position":{"x0":30,"y0":76,"x1":628,"y1":1198}
+          }
+        },
+        "message":{
+          "color":"white",
+          "position":"bottom center"
+        }
+      },
+      {
+        "tvs":[{
           "position":{"x0":1571,"y0":159,"x1":2701,"y1":710},
           "frame": {
             "image":"./assets/img/device-tv.png",
             "position":{"x0":23,"y0":25,"x1":575,"y1":310}
           }
-        },
+        }],
         "mobile":{
           "position":{"x0":481,"y0":159,"x1":787,"y1":1261},
           "frame":{
