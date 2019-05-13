@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shifumix_settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/shifumix_settings.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,7 +48,7 @@
           <entry key="css" value="796" />
           <entry key="html" value="21540" />
           <entry key="js" value="1996" />
-          <entry key="json" value="1697" />
+          <entry key="json" value="1787" />
           <entry key="php" value="28" />
           <entry key="scss" value="944" />
           <entry key="txt" value="211" />
@@ -60,7 +59,7 @@
         <counts>
           <entry key="CSS" value="796" />
           <entry key="HTML" value="21540" />
-          <entry key="JSON" value="1697" />
+          <entry key="JSON" value="1787" />
           <entry key="JavaScript" value="1996" />
           <entry key="PLAIN_TEXT" value="242" />
           <entry key="SCSS" value="944" />
@@ -161,8 +160,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="159" column="40" selection-start-line="159" selection-start-column="40" selection-end-line="159" selection-end-column="40" />
+            <state relative-caret-position="225">
+              <caret line="151" column="46" lean-forward="true" selection-start-line="151" selection-start-column="46" selection-end-line="151" selection-end-column="46" />
               <folding>
                 <element signature="n#!!block;n#MicroServer#0;n#!!top" />
                 <element signature="n#!!block;n#SocketServer#0;n#!!top" />
@@ -303,8 +302,8 @@
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="166" />
-    <option name="y" value="201" />
+    <option name="x" value="74" />
+    <option name="y" value="56" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -567,28 +566,7 @@
       <workItem from="1557499280434" duration="1047000" />
       <workItem from="1557699840582" duration="623000" />
       <workItem from="1557740083682" duration="7161000" />
-      <workItem from="1557750760873" duration="7545000" />
-    </task>
-    <task id="LOCAL-00174" summary="Pour passage sur autre ordi">
-      <created>1555325265974</created>
-      <option name="number" value="00174" />
-      <option name="presentableId" value="LOCAL-00174" />
-      <option name="project" value="LOCAL" />
-      <updated>1555325265974</updated>
-    </task>
-    <task id="LOCAL-00175" summary="Pour passage sur autre ordi">
-      <created>1555344202264</created>
-      <option name="number" value="00175" />
-      <option name="presentableId" value="LOCAL-00175" />
-      <option name="project" value="LOCAL" />
-      <updated>1555344202265</updated>
-    </task>
-    <task id="LOCAL-00176" summary="Pour passage sur autre ordi">
-      <created>1555344317789</created>
-      <option name="number" value="00176" />
-      <option name="presentableId" value="LOCAL-00176" />
-      <option name="project" value="LOCAL" />
-      <updated>1555344317789</updated>
+      <workItem from="1557750760873" duration="8453000" />
     </task>
     <task id="LOCAL-00177" summary="Pour passage sur autre ordi">
       <created>1556266493086</created>
@@ -912,14 +890,35 @@
       <option name="project" value="LOCAL" />
       <updated>1557766198755</updated>
     </task>
-    <option name="localTasksCounter" value="223" />
+    <task id="LOCAL-00223" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1557766740990</created>
+      <option name="number" value="00223" />
+      <option name="presentableId" value="LOCAL-00223" />
+      <option name="project" value="LOCAL" />
+      <updated>1557766740990</updated>
+    </task>
+    <task id="LOCAL-00224" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1557767338094</created>
+      <option name="number" value="00224" />
+      <option name="presentableId" value="LOCAL-00224" />
+      <option name="project" value="LOCAL" />
+      <updated>1557767338094</updated>
+    </task>
+    <task id="LOCAL-00225" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1557767368493</created>
+      <option name="number" value="00225" />
+      <option name="presentableId" value="LOCAL-00225" />
+      <option name="project" value="LOCAL" />
+      <updated>1557767368493</updated>
+    </task>
+    <option name="localTasksCounter" value="226" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="322854000" />
+    <option name="totallyTimeSpent" value="323762000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="218" y="301" width="1936" height="1056" extended-state="0" />
+    <frame x="74" y="56" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.14179105" />
@@ -1195,8 +1194,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="159" column="40" selection-start-line="159" selection-start-column="40" selection-end-line="159" selection-end-column="40" />
+        <state relative-caret-position="225">
+          <caret line="151" column="46" lean-forward="true" selection-start-line="151" selection-start-column="46" selection-end-line="151" selection-end-column="46" />
           <folding>
             <element signature="n#!!block;n#MicroServer#0;n#!!top" />
             <element signature="n#!!block;n#SocketServer#0;n#!!top" />

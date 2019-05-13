@@ -157,7 +157,7 @@
           }
         ],
         "mobile":{
-          "position":{"x0":750,"y0":341,"x1":1100,"y1":800},
+          "position":{"x0":750,"y0":341,"x1":1100,"y1":"bottom"},
           "max":{"width":600,"height":700},
           "min":{"width":400,"height":400},
           "frame":
