@@ -115,7 +115,7 @@
         },
         {
           "image":"./assets/img/ecran_geant.webp",
-          "position":{"x0":23,"y0":25,"x1":575,"y1":310}
+          "position":{"x0":295,"y0":269,"x1":1732,"y1":1115}
         }
       ],
       "mobile_frame_selected":0,
