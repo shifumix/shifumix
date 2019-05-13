@@ -130,6 +130,10 @@
             "image":"./assets/img/device-mobile.webp",
             "position":{"x0":30,"y0":76,"x1":628,"y1":1198}
           }
+        },
+        "message":{
+          "color":"white",
+          "position":"bottom center"
         }
       },
       {
