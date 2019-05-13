@@ -151,8 +151,8 @@
           {"position":{"x0":1309,"y0":111,"x1":1674,"y1":316}}
         ],
         "mobile":{
-          "position":{"x0":100,"y0":100,"x1":600,"y1":800},
-          "max":{"width":600,"height":900},
+          "position":{"x0":645,"y0":341,"x1":1192,"y1":825},
+          "max":{"width":600,"height":800},
           "min":{"width":400,"height":600},
           "frame":
           {
