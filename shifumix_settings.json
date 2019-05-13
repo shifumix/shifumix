@@ -147,8 +147,14 @@
           "color":"white"
         },
         "tvs":[
-          {"position":{"x0":148,"y0":120,"x1":516,"y1":323}},
-          {"position":{"x0":1309,"y0":111,"x1":1690,"y1":316}}
+          {
+            "position":{"x0":148,"y0":120,"x1":516,"y1":323},
+            "url":"__domain__/widgets/freescreen.html?device=__device__"
+          },
+          {
+            "position":{"x0":1309,"y0":111,"x1":1690,"y1":316},
+            "url":"__domain__/widgets/freescreen.html?device=__device__"
+          }
         ],
         "mobile":{
           "position":{"x0":750,"y0":341,"x1":1100,"y1":800},
