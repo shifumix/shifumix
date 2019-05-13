@@ -109,22 +109,26 @@
     "default_config":0,
     "configs":[
       {
-        "background":"./assets/img/theater.jpg",
+        "background":{
+          "image":"./assets/img/theater.jpg",
+          "width":3198,
+          "height":1799,
+          "color":"black"
+        },
+        "font":{
+          "color":"white"
+        },
         "tv":{
           "position":{"x0":1571,"y0":159,"x1":2701,"y1":710},
-          "frame":
-            {
-              "image":"./assets/img/ecran_geant.webp",
-              "position":{"x0":295,"y0":269,"x1":1732,"y1":1115}
-            }
         },
         "mobile":{
           "position":{"x0":481,"y0":159,"x1":787,"y1":1261},
+          "max":{"width":500,"height":800},
           "frame":
-            {
-              "image":"./assets/img/device-mobile.webp",
-              "position":{"x0":30,"y0":76,"x1":628,"y1":1198}
-            }
+          {
+            "image":"./assets/img/device-mobile.webp",
+            "position":{"x0":30,"y0":76,"x1":628,"y1":1198}
+          }
         }
       },
       {
@@ -138,8 +142,8 @@
         "mobile":{
           "position":{"x0":481,"y0":159,"x1":787,"y1":1261},
           "frame":{
-              "image":"./assets/img/device-mobile.webp",
-              "position":{"x0":30,"y0":76,"x1":628,"y1":1198}
+            "image":"./assets/img/device-mobile.webp",
+            "position":{"x0":30,"y0":76,"x1":628,"y1":1198}
           }
         }
       },
@@ -147,8 +151,8 @@
         "frame": {
           "image": "./assets/img/ecran_geant.webp",
           "position": {"x0": 295, "y0": 269, "x1": 1732, "y1": 1115}
-          }
         }
+      }
     ]
   }
 
