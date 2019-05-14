@@ -272,7 +272,7 @@
       {
         "name":"simple",
         "background": {
-          "color": "grey",
+          "color": "#dbdedb",
           "width":1920,
           "height":1080
         },
