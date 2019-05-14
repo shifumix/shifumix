@@ -112,8 +112,8 @@
         "name":"conference",
         "background":{
           "image":"./assets/img/conference.webp",
-          "width":3000,
-          "height":2143,
+          "width":2997,
+          "height":1599,
           "color":"black",
           "zIndex":10
         },
@@ -122,10 +122,10 @@
         },
         "tvs":[{
           "zIndex":5,
-          "position":{"x0":746,"y0":647,"x1":2171,"y1":1461}
+          "position":{"x0":739,"y0":147,"x1":2171,"y1":1000}
         }],
         "mobile":{
-          "position":{"x0":2300,"y0":1300,"x1":2850,"y1":2000},
+          "position":{"x0":2300,"y0":400,"x1":2850,"y1":1100},
           "max":{"width":600,"height":900},
           "min":{"width":400,"height":600},
           "frame":
