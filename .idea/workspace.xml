@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/shifumix_settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/shifumix_settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,7 +48,7 @@
           <entry key="css" value="796" />
           <entry key="html" value="21540" />
           <entry key="js" value="1996" />
-          <entry key="json" value="2165" />
+          <entry key="json" value="2176" />
           <entry key="php" value="28" />
           <entry key="scss" value="944" />
           <entry key="txt" value="211" />
@@ -59,7 +59,7 @@
         <counts>
           <entry key="CSS" value="796" />
           <entry key="HTML" value="21540" />
-          <entry key="JSON" value="2165" />
+          <entry key="JSON" value="2176" />
           <entry key="JavaScript" value="1996" />
           <entry key="PLAIN_TEXT" value="242" />
           <entry key="SCSS" value="944" />
@@ -160,8 +160,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="127" column="55" selection-start-line="127" selection-start-column="55" selection-end-line="127" selection-end-column="55" />
+            <state relative-caret-position="379">
+              <caret line="128" column="39" selection-start-line="128" selection-start-column="39" selection-end-line="128" selection-end-column="39" />
               <folding>
                 <element signature="n#!!block;n#MicroServer#0;n#!!top" />
                 <element signature="n#!!block;n#SocketServer#0;n#!!top" />
@@ -570,28 +570,7 @@
       <workItem from="1557499280434" duration="1047000" />
       <workItem from="1557699840582" duration="623000" />
       <workItem from="1557740083682" duration="7161000" />
-      <workItem from="1557750760873" duration="14999000" />
-    </task>
-    <task id="LOCAL-00188" summary="Remise en ligne de la video">
-      <created>1556708391069</created>
-      <option name="number" value="00188" />
-      <option name="presentableId" value="LOCAL-00188" />
-      <option name="project" value="LOCAL" />
-      <updated>1556708391069</updated>
-    </task>
-    <task id="LOCAL-00189" summary="Remise en ligne de la video">
-      <created>1556859653264</created>
-      <option name="number" value="00189" />
-      <option name="presentableId" value="LOCAL-00189" />
-      <option name="project" value="LOCAL" />
-      <updated>1556859653265</updated>
-    </task>
-    <task id="LOCAL-00190" summary="Remise en ligne de la video">
-      <created>1556894590613</created>
-      <option name="number" value="00190" />
-      <option name="presentableId" value="LOCAL-00190" />
-      <option name="project" value="LOCAL" />
-      <updated>1556894590613</updated>
+      <workItem from="1557750760873" duration="15940000" />
     </task>
     <task id="LOCAL-00191" summary="Remise en ligne de la video">
       <created>1556895276429</created>
@@ -915,11 +894,32 @@
       <option name="project" value="LOCAL" />
       <updated>1557839536139</updated>
     </task>
-    <option name="localTasksCounter" value="237" />
+    <task id="LOCAL-00237" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1557839620591</created>
+      <option name="number" value="00237" />
+      <option name="presentableId" value="LOCAL-00237" />
+      <option name="project" value="LOCAL" />
+      <updated>1557839620591</updated>
+    </task>
+    <task id="LOCAL-00238" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1557839667668</created>
+      <option name="number" value="00238" />
+      <option name="presentableId" value="LOCAL-00238" />
+      <option name="project" value="LOCAL" />
+      <updated>1557839667668</updated>
+    </task>
+    <task id="LOCAL-00239" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1557839957880</created>
+      <option name="number" value="00239" />
+      <option name="presentableId" value="LOCAL-00239" />
+      <option name="project" value="LOCAL" />
+      <updated>1557839957880</updated>
+    </task>
+    <option name="localTasksCounter" value="240" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="330308000" />
+    <option name="totallyTimeSpent" value="331249000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1198,8 +1198,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="127" column="55" selection-start-line="127" selection-start-column="55" selection-end-line="127" selection-end-column="55" />
+        <state relative-caret-position="379">
+          <caret line="128" column="39" selection-start-line="128" selection-start-column="39" selection-end-line="128" selection-end-column="39" />
           <folding>
             <element signature="n#!!block;n#MicroServer#0;n#!!top" />
             <element signature="n#!!block;n#SocketServer#0;n#!!top" />
