@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="Mise en ligne de l'ensemble des vidéos">
+    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,9 +47,9 @@
         <counts>
           <entry key="conf" value="3" />
           <entry key="css" value="796" />
-          <entry key="html" value="21540" />
-          <entry key="js" value="2013" />
-          <entry key="json" value="2278" />
+          <entry key="html" value="21560" />
+          <entry key="js" value="2021" />
+          <entry key="json" value="2357" />
           <entry key="php" value="28" />
           <entry key="scss" value="944" />
           <entry key="txt" value="211" />
@@ -58,9 +59,9 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="796" />
-          <entry key="HTML" value="21540" />
-          <entry key="JSON" value="2278" />
-          <entry key="JavaScript" value="2013" />
+          <entry key="HTML" value="21560" />
+          <entry key="JSON" value="2357" />
+          <entry key="JavaScript" value="2021" />
           <entry key="PLAIN_TEXT" value="242" />
           <entry key="SCSS" value="944" />
           <entry key="XML" value="37" />
@@ -145,23 +146,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="202" column="33" selection-start-line="202" selection-start-column="20" selection-end-line="202" selection-end-column="33" />
+            <state relative-caret-position="202">
+              <caret line="190" column="41" selection-start-line="190" selection-start-column="41" selection-end-line="190" selection-end-column="41" />
               <folding>
+                <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="103" column="2" lean-forward="true" selection-start-line="103" selection-start-column="2" selection-end-line="103" selection-end-column="2" />
+            <state relative-caret-position="292">
+              <caret line="279" column="28" lean-forward="true" selection-start-line="279" selection-start-column="28" selection-end-line="279" selection-end-column="28" />
               <folding>
                 <element signature="n#!!block;n#MicroServer#0;n#!!top" />
                 <element signature="n#!!block;n#SocketServer#0;n#!!top" />
@@ -170,7 +173,6 @@
                 <element signature="e#5337#6150#0" />
                 <element signature="e#6158#6920#0" />
                 <element signature="e#7771#8791#0" />
-                <element signature="e#8844#9519#0" />
                 <element signature="e#9308#9493#0" />
               </folding>
             </state>
@@ -189,8 +191,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/shifumix_website.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+            <state relative-caret-position="374">
+              <caret line="22" column="82" selection-start-line="22" selection-start-column="82" selection-end-line="22" selection-end-column="82" />
             </state>
           </provider>
         </entry>
@@ -278,9 +280,9 @@
         <option value="$PROJECT_DIR$/channel.html" />
         <option value="$PROJECT_DIR$/beta/index.html" />
         <option value="$PROJECT_DIR$/js/agency.js" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/shifumix_website.js" />
         <option value="$PROJECT_DIR$/shifumix_settings.json" />
+        <option value="$PROJECT_DIR$/js/shifumix_website.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -573,28 +575,7 @@
       <workItem from="1557699840582" duration="623000" />
       <workItem from="1557740083682" duration="7161000" />
       <workItem from="1557750760873" duration="17367000" />
-      <workItem from="1557843492714" duration="2134000" />
-    </task>
-    <task id="LOCAL-00196" summary="Remise en ligne de la video">
-      <created>1556899775550</created>
-      <option name="number" value="00196" />
-      <option name="presentableId" value="LOCAL-00196" />
-      <option name="project" value="LOCAL" />
-      <updated>1556899775550</updated>
-    </task>
-    <task id="LOCAL-00197" summary="Remise en ligne de la video">
-      <created>1556903292713</created>
-      <option name="number" value="00197" />
-      <option name="presentableId" value="LOCAL-00197" />
-      <option name="project" value="LOCAL" />
-      <updated>1556903292714</updated>
-    </task>
-    <task id="LOCAL-00198" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1556911765008</created>
-      <option name="number" value="00198" />
-      <option name="presentableId" value="LOCAL-00198" />
-      <option name="project" value="LOCAL" />
-      <updated>1556911765009</updated>
+      <workItem from="1557843492714" duration="3821000" />
     </task>
     <task id="LOCAL-00199" summary="Mise en ligne de l'ensemble des vidéos">
       <created>1556957760846</created>
@@ -918,11 +899,32 @@
       <option name="project" value="LOCAL" />
       <updated>1557845085445</updated>
     </task>
-    <option name="localTasksCounter" value="245" />
+    <task id="LOCAL-00245" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1557845931068</created>
+      <option name="number" value="00245" />
+      <option name="presentableId" value="LOCAL-00245" />
+      <option name="project" value="LOCAL" />
+      <updated>1557845931068</updated>
+    </task>
+    <task id="LOCAL-00246" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1557845986758</created>
+      <option name="number" value="00246" />
+      <option name="presentableId" value="LOCAL-00246" />
+      <option name="project" value="LOCAL" />
+      <updated>1557845986758</updated>
+    </task>
+    <task id="LOCAL-00247" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1557846206074</created>
+      <option name="number" value="00247" />
+      <option name="presentableId" value="LOCAL-00247" />
+      <option name="project" value="LOCAL" />
+      <updated>1557846206074</updated>
+    </task>
+    <option name="localTasksCounter" value="248" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="334810000" />
+    <option name="totallyTimeSpent" value="336497000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1182,27 +1184,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="202" column="33" selection-start-line="202" selection-start-column="20" selection-end-line="202" selection-end-column="33" />
-          <folding>
-            <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/shifumix_website.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="103" column="2" lean-forward="true" selection-start-line="103" selection-start-column="2" selection-end-line="103" selection-end-column="2" />
+        <state relative-caret-position="292">
+          <caret line="279" column="28" lean-forward="true" selection-start-line="279" selection-start-column="28" selection-end-line="279" selection-end-column="28" />
           <folding>
             <element signature="n#!!block;n#MicroServer#0;n#!!top" />
             <element signature="n#!!block;n#SocketServer#0;n#!!top" />
@@ -1211,8 +1196,26 @@
             <element signature="e#5337#6150#0" />
             <element signature="e#6158#6920#0" />
             <element signature="e#7771#8791#0" />
-            <element signature="e#8844#9519#0" />
             <element signature="e#9308#9493#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/shifumix_website.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="82" selection-start-line="22" selection-start-column="82" selection-end-line="22" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="190" column="41" selection-start-line="190" selection-start-column="41" selection-end-line="190" selection-end-column="41" />
+          <folding>
+            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
