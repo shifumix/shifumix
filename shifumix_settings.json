@@ -109,6 +109,7 @@
     "default_config":0,
     "configs":[
       {
+        "name":"theater",
         "background":{
           "image":"./assets/img/theater.jpg",
           "width":2092,
@@ -137,6 +138,39 @@
         }
       },
       {
+        "name":"coffeshop",
+        "background":{
+          "image":"./assets/img/coffesport.webp",
+          "width":1200,
+          "height":800,
+          "color":"black",
+          "z-index":10
+        },
+        "font":{
+          "color":"white"
+        },
+        "tvs":[{
+          "z-index":5,
+          "position":{"x0":221,"y0":30,"x1":827,"y1":380}
+        }],
+        "mobile":{
+          "position":{"x0":850,"y0":200,"x1":1165,"y1":766},
+          "z-index":15,
+          "max":{"width":600,"height":900},
+          "min":{"width":400,"height":600},
+          "frame":
+          {
+            "image":"./assets/img/device-mobile.webp",
+            "position":{"x0":34,"y0":76,"x1":605,"y1":1194}
+          }
+        },
+        "message":{
+          "color":"white",
+          "position":"bottom center"
+        }
+      },
+      {
+        "name":"2screens",
         "background":{
           "image":"./assets/img/2screens.jpg",
           "width":1812,
@@ -172,6 +206,7 @@
         }
       },
       {
+        "name":"old",
         "tvs":[{
           "position":{"x0":1571,"y0":159,"x1":2701,"y1":710},
           "frame": {
@@ -188,6 +223,7 @@
         }
       },
       {
+        "name":"veryold",
         "frame": {
           "image": "./assets/img/ecran_geant.webp",
           "position": {"x0": 295, "y0": 269, "x1": 1732, "y1": 1115}
