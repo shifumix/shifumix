@@ -144,18 +144,18 @@
           "width":1200,
           "height":800,
           "color":"black",
-          "z-index":10
+          "zIndex":10
         },
         "font":{
           "color":"white"
         },
         "tvs":[{
-          "z-index":5,
+          "zIndex":5,
           "position":{"x0":221,"y0":30,"x1":827,"y1":380}
         }],
         "mobile":{
           "position":{"x0":850,"y0":200,"x1":1165,"y1":766},
-          "z-index":15,
+          "zIndex":15,
           "max":{"width":600,"height":900},
           "min":{"width":400,"height":600},
           "frame":
