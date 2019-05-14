@@ -277,8 +277,9 @@
           "height":1080
         },
         "tvs":[{
-          "position":{"x0":1000,"y0":20,"x1":1700,"y1":800},
+          "position":{"x0":800,"y0":20,"x1":1700,"y1":600},
           "frame": {
+            "blur":"0",
             "image":"./assets/img/device-tv.png",
             "position":{"x0":23,"y0":25,"x1":575,"y1":310}
           }
