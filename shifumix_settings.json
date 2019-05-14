@@ -163,7 +163,7 @@
           "frame":
           {
             "image":"./assets/img/ipad.png",
-            "position":{"x0":157,"y0":73,"x1":589,"y1":647}
+            "position":{"x0":157,"y0":73,"x1":500,"y1":647}
           }
         },
         "message":{
