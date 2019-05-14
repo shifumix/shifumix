@@ -271,8 +271,9 @@
       },
       {
         "name":"simple",
-        "background":{
-          "color":"grey",
+        "background": {
+          "color": "grey"
+        },
         "tvs":[{
           "position":{"x0":1571,"y0":159,"x1":2701,"y1":710},
           "frame": {
