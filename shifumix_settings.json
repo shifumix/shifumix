@@ -128,7 +128,7 @@
           "frame":
           {
             "image":"./assets/img/device-mobile.webp",
-            "position":{"x0":34,"y0":76,"x1":610,"y1":1194}
+            "position":{"x0":34,"y0":76,"x1":605,"y1":1194}
           }
         },
         "message":{
