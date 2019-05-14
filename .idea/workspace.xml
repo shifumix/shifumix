@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -149,8 +148,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="190" column="41" selection-start-line="190" selection-start-column="41" selection-end-line="190" selection-end-column="41" />
+            <state relative-caret-position="32">
+              <caret line="180" column="14" selection-start-line="180" selection-start-column="14" selection-end-line="180" selection-end-column="14" />
               <folding>
                 <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -164,7 +163,7 @@
         <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="292">
-              <caret line="279" column="28" lean-forward="true" selection-start-line="279" selection-start-column="28" selection-end-line="279" selection-end-column="28" />
+              <caret line="279" column="28" selection-start-line="279" selection-start-column="28" selection-end-line="279" selection-end-column="28" />
               <folding>
                 <element signature="n#!!block;n#MicroServer#0;n#!!top" />
                 <element signature="n#!!block;n#SocketServer#0;n#!!top" />
@@ -311,7 +310,6 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1928" />
-    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -575,14 +573,7 @@
       <workItem from="1557699840582" duration="623000" />
       <workItem from="1557740083682" duration="7161000" />
       <workItem from="1557750760873" duration="17367000" />
-      <workItem from="1557843492714" duration="3821000" />
-    </task>
-    <task id="LOCAL-00199" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1556957760846</created>
-      <option name="number" value="00199" />
-      <option name="presentableId" value="LOCAL-00199" />
-      <option name="project" value="LOCAL" />
-      <updated>1556957760847</updated>
+      <workItem from="1557843492714" duration="4572000" />
     </task>
     <task id="LOCAL-00200" summary="Mise en ligne de l'ensemble des vidéos">
       <created>1557151459028</created>
@@ -920,14 +911,21 @@
       <option name="project" value="LOCAL" />
       <updated>1557846206074</updated>
     </task>
-    <option name="localTasksCounter" value="248" />
+    <task id="LOCAL-00248" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1557847595395</created>
+      <option name="number" value="00248" />
+      <option name="presentableId" value="LOCAL-00248" />
+      <option name="project" value="LOCAL" />
+      <updated>1557847595395</updated>
+    </task>
+    <option name="localTasksCounter" value="249" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="336497000" />
+    <option name="totallyTimeSpent" value="337248000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.1433902" />
@@ -1187,7 +1185,7 @@
     <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
-          <caret line="279" column="28" lean-forward="true" selection-start-line="279" selection-start-column="28" selection-end-line="279" selection-end-column="28" />
+          <caret line="279" column="28" selection-start-line="279" selection-start-column="28" selection-end-line="279" selection-end-column="28" />
           <folding>
             <element signature="n#!!block;n#MicroServer#0;n#!!top" />
             <element signature="n#!!block;n#SocketServer#0;n#!!top" />
@@ -1210,8 +1208,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="190" column="41" selection-start-line="190" selection-start-column="41" selection-end-line="190" selection-end-column="41" />
+        <state relative-caret-position="32">
+          <caret line="180" column="14" selection-start-line="180" selection-start-column="14" selection-end-line="180" selection-end-column="14" />
           <folding>
             <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
