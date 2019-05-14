@@ -206,7 +206,7 @@
         "background":{
           "image":"./assets/img/coffesport.webp",
           "width":1200,
-          "height":800,
+          "height":624,
           "color":"black",
           "zIndex":10
         },
@@ -218,7 +218,7 @@
           "position":{"x0":225,"y0":30,"x1":835,"y1":383}
         }],
         "mobile":{
-          "position":{"x0":880,"y0":200,"x1":1165,"y1":700},
+          "position":{"x0":880,"y0":100,"x1":1165,"y1":600},
           "zIndex":15,
           "max":{"width":600,"height":900},
           "min":{"width":400,"height":600},
