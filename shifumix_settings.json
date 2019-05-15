@@ -298,6 +298,37 @@
           "image": "./assets/img/ecran_geant.webp",
           "position": {"x0": 295, "y0": 269, "x1": 1732, "y1": 1115}
         }
+      },
+      {
+        "name":"nightclub",
+        "background":{
+          "image":"./assets/img/nightclub.webp",
+          "width":5848,
+          "height":4048,
+          "color":"blue",
+          "zIndex":10
+        },
+        "font":{
+          "color":"white"
+        },
+        "tvs":[{
+          "zIndex":5,
+          "position":{"x0":2260,"y0":420,"x1":5060,"y1":2096}
+        }],
+        "mobile":{
+          "position":{"x0":280,"y0":770,"x1":1760,"y1":3200},
+          "max":{"width":600,"height":900},
+          "min":{"width":300,"height":400},
+          "frame":
+          {
+            "image":"./assets/img/device-mobile.webp",
+            "position":{"x0":34,"y0":76,"x1":605,"y1":1194}
+          }
+        },
+        "message":{
+          "color":"white",
+          "position":"bottom center"
+        }
       }
     ]
   }
