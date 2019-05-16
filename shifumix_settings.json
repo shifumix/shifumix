@@ -345,7 +345,7 @@
           "position":{"x0":0,"y0":0,"x1":1920,"y1":1080}
         }],
         "mobile":{
-          "position":{"x0":100,"y0":100,"x1":500,"y1":700},
+          "position":{"x0":50,"y0":50,"x1":450,"y1":600},
           "max":{"width":600,"height":900},
           "min":{"width":300,"height":400},
           "frame":
