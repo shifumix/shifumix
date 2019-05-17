@@ -143,7 +143,7 @@
         "name":"barwithtv",
         "background":{
           "image":"./assets/img/barwithtv.webp",
-          "width":1739,
+          "width":1440,
           "height":979,
           "color":"black",
           "zIndex":10
@@ -156,7 +156,7 @@
           "position":{"x0":1040,"y0":114,"x1":1620,"y1":429}
         }],
         "mobile":{
-          "position":{"x0":100,"y0":100,"x1":450,"y1":650},
+          "position":{"x0":70,"y0":70,"x1":600,"y1":830},
           "max":{"width":600,"height":900},
           "min":{"width":300,"height":400},
           "frame":

@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/shifumix_website.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/shifumix_website.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shifumix_settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/shifumix_settings.json" afterDir="false" />
-    </list>
+    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +13,7 @@
     <session id="-835947693">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="153" />
+          <entry key="project.closed" value="154" />
           <entry key="project.open.time.0" value="11" />
           <entry key="project.open.time.1" value="64" />
           <entry key="project.open.time.10" value="3" />
@@ -552,14 +547,7 @@
       <workItem from="1558005956356" duration="2020000" />
       <workItem from="1558070409738" duration="2805000" />
       <workItem from="1558083503966" duration="2073000" />
-      <workItem from="1558086170314" duration="595000" />
-    </task>
-    <task id="LOCAL-00216" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1557763487314</created>
-      <option name="number" value="00216" />
-      <option name="presentableId" value="LOCAL-00216" />
-      <option name="project" value="LOCAL" />
-      <updated>1557763487314</updated>
+      <workItem from="1558086170314" duration="1132000" />
     </task>
     <task id="LOCAL-00217" summary="Mise en ligne de l'ensemble des vidéos">
       <created>1557763647488</created>
@@ -897,11 +885,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558077519186</updated>
     </task>
-    <option name="localTasksCounter" value="265" />
+    <task id="LOCAL-00265" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1558087495406</created>
+      <option name="number" value="00265" />
+      <option name="presentableId" value="LOCAL-00265" />
+      <option name="project" value="LOCAL" />
+      <updated>1558087495407</updated>
+    </task>
+    <option name="localTasksCounter" value="266" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="354277000" />
+    <option name="totallyTimeSpent" value="354814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1165,6 +1160,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="109" column="14" selection-start-line="109" selection-start-column="14" selection-end-line="109" selection-end-column="14" />
+          <folding>
+            <element signature="n#!!block;n#MicroServer#0;n#!!top" />
+            <element signature="n#!!block;n#SocketServer#0;n#!!top" />
+            <element signature="e#4505#12111#0" />
+            <element signature="e#5336#6149#0" />
+            <element signature="e#6157#6965#0" />
+            <element signature="e#6973#7808#0" />
+            <element signature="e#7816#8836#0" />
+            <element signature="e#8844#9456#0" />
+            <element signature="e#9464#10337#0" />
+          </folding>
         </state>
       </provider>
     </entry>
