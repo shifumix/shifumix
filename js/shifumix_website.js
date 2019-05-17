@@ -20,17 +20,14 @@ function setprofil(i) {
         }
     }
 
-    document.getElementById("iframe_tester").src = domain+"/tutoriel.html?config=0&withMessage=true&delay=30&screens=1&size=150&ihm=" + type_profil;
+    var config="simple";
+    if(type_profil=='perso')config="nightclub";
+    if(type_profil=='pro')config="barwithtv";
+    if(type_profil==2)config="conference";
+
+    document.getElementById("iframe_tester").src = domain+"/tutoriel.html?config="+config+"&delay=30&size=150&ihm=" + type_profil;
     document.getElementById("profil").classList.toggle("invisible");
 }
-
-
-
-// function openTemplates(){
-//     var add_url="";
-//     if(type_profil=="pro")add_url="&ihm=pro";
-//     window.open(domain+"/demo_template2.html?delay=30"+add_url);
-// }
 
 
 function openScreen(template){
@@ -40,12 +37,6 @@ function openScreen(template){
         target="_self";
     }else{
         url=domain+"/demo_template2.html?sel=_"+template;
-        // if(template==2)url=domain+"/template.html?postItMessage=false&duration=480&autologin=2&title=Eren%20Titan%20Form%20party&widgets=musicOnly&public=false&noprompt=true&autorun=1&dest=HomePage&ihm=perso&activities=music,message,photo&flyer=https://www.thebostoncalendar.com/system/events/photos/000/026/871/original/Party_Dream_Color_party.jpg?1443946618";
-        // if(template==3)url=domain+"/template.html?postItMessage=false&duration=180&autologin=2&title=Afficher%20les%20messages%20partag%C3%A9s%20en%20mode%20g&widgets=message_cursor&public=false&noprompt=true&autorun=1&dest=MessagesPage&ihm=perso&activities=message&flyer=https://shifumixweb.appspot.com/assets/img/ezgif.com-resize.gif";
-        // if(template==8)url=domain+"/template.html?postItMessage=false&duration=60&autologin=2&title=Brainstorm&widgets=pelemele&public=false&noprompt=true&autorun=1&dest=MessagesPage&ihm=perso&postItMessage=true&activities=photo,message&flyer=https://zeboute.files.wordpress.com/2018/06/fin_post_it_design_thinking_intelligence_collaborative.jpg";
-        // if(template==9)url=domain+"/template.html?postItMessage=false&duration=480&autologin=2&title=My%20meeting&widgets=presentation&public=false&noprompt=true&autorun=1&dest=PresentationPage&ihm=perso&activities=presentation,message,survey&flyer=https://cdn.forbes.com.mx/2015/04/Internet-negocios-siluetas.jpg";
-        // if(template==12)url=domain+"/demo_template2.html";
-
         url=url+"&now="+new Date().getTime();
     }
 
@@ -80,12 +71,12 @@ $(document).ready(function() {
     },20000);
 
     setTimeout(function(){
-        document.getElementById("iframe_tester").src="https://shifumixweb.appspot.com/tutoriel.html?withMessage=true&delay=30&screens=1&size=150&ihm=perso";
+        document.getElementById("iframe_tester").src="https://shifumixweb.appspot.com/tutoriel.html?withMessage=true&delay=30&config=simple&size=150&ihm=perso";
         setTimeout(function(){
             document.getElementById("iframe_tester").style.display="inline-block";
             document.getElementById("hourglass").style.display="none";
-    },5000);
-    },1000);
+    },4000);
+    },100);
 
 });
 
