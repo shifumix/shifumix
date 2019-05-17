@@ -8,7 +8,7 @@ function setprofil(i) {
     clearTimeout(handle);
 
     type_profil="perso";
-    if(i==2)type_profil="pro";
+    if(i==3)type_profil="pro";
 
     if (type_profil == 'perso') document.getElementById("services_pro").style.display="none";
     if (type_profil == 'pro') document.getElementById("services_perso").style.display = "none";
@@ -21,9 +21,9 @@ function setprofil(i) {
     }
 
     var config="simple";
-    if(i==0)config="nightclub";
-    if(i==1)config="barwithtv";
-    if(i==2)config="conference";
+    if(i==1)config="nightclub";
+    if(i==2)config="barwithtv";
+    if(i==3)config="conference";
 
     document.getElementById("iframe_tester").src = domain+"/tutoriel.html?config="+config+"&delay=30&size=150&ihm=" + type_profil;
     document.getElementById("profil").classList.toggle("invisible");
