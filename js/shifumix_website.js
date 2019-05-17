@@ -3,12 +3,12 @@ var domain=document.location.protocol+"//"+document.location.hostname+":8080";
 if(domain.indexOf("www.shifumix.com")>-1)domain="https://shifumixweb.appspot.com";
 var handle;
 
-function setprofil(i) {
+function setprofil(idxProfil) {
     $("#myModal").modal('hide');
     clearTimeout(handle);
 
     type_profil="perso";
-    if(i==3)type_profil="pro";
+    if(idxProfil==3)type_profil="pro";
 
     if (type_profil == 'perso') document.getElementById("services_pro").style.display="none";
     if (type_profil == 'pro') document.getElementById("services_perso").style.display = "none";
@@ -21,9 +21,9 @@ function setprofil(i) {
     }
 
     var config="simple";
-    if(i==1)config="nightclub";
-    if(i==2)config="barwithtv";
-    if(i==3)config="conference";
+    if(idxProfil==1)config="nightclub";
+    if(idxProfil==2)config="barwithtv";
+    if(idxProfil==3)config="conference";
 
     document.getElementById("iframe_tester").src = domain+"/tutoriel.html?config="+config+"&delay=30&size=150&ihm=" + type_profil;
     document.getElementById("profil").classList.toggle("invisible");
