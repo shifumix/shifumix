@@ -306,7 +306,7 @@
               "position":{"x0":23,"y0":25,"x1":575,"y1":310}
             }
           },{
-            "position":{"x0":1270,"y0":50,"x1":1850,"y1":500},
+            "position":{"x0":1200,"y0":50,"x1":1850,"y1":500},
             "frame": {
               "image":"./assets/img/device-tv.png",
               "position":{"x0":23,"y0":25,"x1":575,"y1":310}
@@ -314,7 +314,7 @@
             }
         ],
         "mobile":{
-          "position":{"x0":750,"y0":50,"x1":1200,"y1":800},
+          "position":{"x0":750,"y0":50,"x1":1150,"y1":800},
           "frame":{
             "image":"./assets/img/device-mobile.webp",
             "position":{"x0":30,"y0":76,"x1":628,"y1":1198}
