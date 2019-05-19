@@ -109,6 +109,37 @@
     "default_config":0,
     "configs":[
       {
+        "name":"party",
+        "background":{
+          "image":"./assets/img/party01.webp",
+          "width":972,
+          "height":546,
+          "color":"black",
+          "zIndex":10
+        },
+        "font":{
+          "color":"white"
+        },
+        "tvs":[{
+          "zIndex":5,
+          "position":{"x0":537,"y0":170,"x1":913,"y1":377}
+        }],
+        "mobile":{
+          "position":{"x0":60,"y0":60,"x1":291,"y1":500},
+          "max":{"width":600,"height":900},
+          "min":{"width":300,"height":400},
+          "frame":
+          {
+            "image":"./assets/img/device-mobile.webp",
+            "position":{"x0":34,"y0":76,"x1":605,"y1":1194}
+          }
+        },
+        "message":{
+          "color":"white",
+          "position":"bottom center"
+        }
+      },
+      {
         "name":"conference",
         "background":{
           "image":"./assets/img/conference.webp",
