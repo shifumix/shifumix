@@ -140,6 +140,37 @@
         }
       },
       {
+        "name":"cinema",
+        "background":{
+          "image":"./assets/img/cinema01.webp",
+          "width":3519,
+          "height":2354,
+          "color":"black",
+          "zIndex":10
+        },
+        "font":{
+          "color":"white"
+        },
+        "tvs":[{
+          "zIndex":5,
+          "position":{"x0":752,"y0":245,"x1":2960,"y1":1940}
+        }],
+        "mobile":{
+          "position":{"x0":158,"y0":376,"x1":880,"y1":1650},
+          "max":{"width":600,"height":900},
+          "min":{"width":300,"height":400},
+          "frame":
+          {
+            "image":"./assets/img/device-mobile.webp",
+            "position":{"x0":34,"y0":76,"x1":605,"y1":1194}
+          }
+        },
+        "message":{
+          "color":"white",
+          "position":"bottom center"
+        }
+      },
+      {
         "name":"conference",
         "background":{
           "image":"./assets/img/conference.webp",
