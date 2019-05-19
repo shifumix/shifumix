@@ -143,8 +143,8 @@
         "name":"cinema",
         "background":{
           "image":"./assets/img/cinema01.webp",
-          "width":3519,
-          "height":2354,
+          "width":3102,
+          "height":2052,
           "color":"black",
           "zIndex":10
         },
@@ -153,10 +153,10 @@
         },
         "tvs":[{
           "zIndex":5,
-          "position":{"x0":752,"y0":245,"x1":2960,"y1":1940}
+          "position":{"x0":866,"y0":244,"x1":2979,"y1":1140}
         }],
         "mobile":{
-          "position":{"x0":158,"y0":376,"x1":880,"y1":1650},
+          "position":{"x0":150,"y0":150,"x1":786,"y1":1330},
           "max":{"width":600,"height":900},
           "min":{"width":300,"height":400},
           "frame":
