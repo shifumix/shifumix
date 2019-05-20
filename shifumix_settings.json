@@ -109,6 +109,37 @@
     "default_config":0,
     "configs":[
       {
+        "name":"conference",
+        "background":{
+          "image":"./assets/img/conference.webp",
+          "width":2484,
+          "height":1522,
+          "color":"black",
+          "zIndex":10
+        },
+        "font":{
+          "color":"white"
+        },
+        "tvs":[{
+          "zIndex":5,
+          "position":{"x0":735,"y0":146,"x1":2211,"y1":986}
+        }],
+        "mobile":{
+          "position":{"x0":70,"y0":200,"x1":500,"y1":1000},
+          "max":{"width":600,"height":900},
+          "min":{"width":300,"height":400},
+          "frame":
+          {
+            "image":"./assets/img/device-mobile.webp",
+            "position":{"x0":34,"y0":76,"x1":605,"y1":1194}
+          }
+        },
+        "message":{
+          "color":"white",
+          "position":"bottom center"
+        }
+      },
+      {
         "name":"party",
         "background":{
           "image":"./assets/img/party01.webp",
@@ -170,37 +201,7 @@
           "position":"bottom center"
         }
       },
-      {
-        "name":"conference",
-        "background":{
-          "image":"./assets/img/conference.webp",
-          "width":2484,
-          "height":1522,
-          "color":"black",
-          "zIndex":10
-        },
-        "font":{
-          "color":"white"
-        },
-        "tvs":[{
-          "zIndex":5,
-          "position":{"x0":735,"y0":146,"x1":2211,"y1":986}
-        }],
-        "mobile":{
-          "position":{"x0":70,"y0":200,"x1":500,"y1":1000},
-          "max":{"width":600,"height":900},
-          "min":{"width":300,"height":400},
-          "frame":
-          {
-            "image":"./assets/img/device-mobile.webp",
-            "position":{"x0":34,"y0":76,"x1":605,"y1":1194}
-          }
-        },
-        "message":{
-          "color":"white",
-          "position":"bottom center"
-        }
-      },
+
       {
         "name":"barwithtv",
         "background":{
