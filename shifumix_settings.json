@@ -110,6 +110,7 @@
     "configs":[
       {
         "name":"conference",
+        "description":"Vous assistez à une conférence",
         "background":{
           "image":"./assets/img/conference.webp",
           "width":2484,
@@ -141,6 +142,7 @@
       },
       {
         "name":"party",
+        "description":"Vous êtes dans une soirée",
         "background":{
           "image":"./assets/img/party01.webp",
           "width":972,
@@ -204,6 +206,7 @@
 
       {
         "name":"barwithtv",
+        "description":"Vous êtes a assis tranquillement au comptoir devant l'écran du bar",
         "background":{
           "image":"./assets/img/barwithtv.webp",
           "width":1440,
@@ -235,6 +238,7 @@
       },
       {
         "name":"theater",
+        "description":"Vous assistez à une conférence",
         "background":{
           "image":"./assets/img/theater.webp",
           "width":2092,
