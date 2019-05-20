@@ -3,6 +3,18 @@ var domain=document.location.protocol+"//"+document.location.hostname+":8080";
 if(domain.indexOf("www.shifumix.com")>-1)domain="https://shifumixweb.appspot.com";
 var handle;
 
+$('#tab').on('shown.bs.tab', function(e) {
+    // start videos in new tab
+    $(e.target).find('video').each(function() {
+        this.play();
+    });
+
+    // stop videos in old tab
+    $(e.relatedTarget).find('video').each(function() {
+        this.stop();
+    });
+});
+
 function setprofil(idxProfil) {
     $("#myModal").modal('hide');
     clearTimeout(handle);

@@ -46,8 +46,18 @@ bg-primary {
   text-transform: uppercase;
   font-size: 1.6vw; }
 
+.image-photo {
+  box-shadow: 3px 3px 6px #aaa;
+  margin: 5px;
+  border: 1px #bfbec4 solid; }
+
 .nav-link-perso {
   margin-left: 6px;
   margin-right: 6px; }
+
+.tab-pane-video {
+  padding:10px;
+  padding-bottom:5px;
+}
 
 /*# sourceMappingURL=perso.css.map */
