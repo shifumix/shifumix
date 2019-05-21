@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beta/build/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/beta/build/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beta/build/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/beta/build/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shifumix_settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/shifumix_settings.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,7 +48,7 @@
           <entry key="css" value="813" />
           <entry key="html" value="22538" />
           <entry key="js" value="2174" />
-          <entry key="json" value="3523" />
+          <entry key="json" value="3525" />
           <entry key="php" value="28" />
           <entry key="scss" value="1054" />
           <entry key="txt" value="211" />
@@ -62,7 +59,7 @@
         <counts>
           <entry key="CSS" value="813" />
           <entry key="HTML" value="22538" />
-          <entry key="JSON" value="3523" />
+          <entry key="JSON" value="3525" />
           <entry key="JavaScript" value="2174" />
           <entry key="PLAIN_TEXT" value="242" />
           <entry key="SCSS" value="1054" />
@@ -191,8 +188,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="341" column="99" lean-forward="true" selection-start-line="341" selection-start-column="99" selection-end-line="341" selection-end-column="99" />
+            <state relative-caret-position="272">
+              <caret line="112" column="43" selection-start-line="112" selection-start-column="43" selection-end-line="112" selection-end-column="43" />
               <folding>
                 <element signature="n#!!block;n#Server#0;n#!!top" />
                 <element signature="n#!!block;n#MicroServer#0;n#!!top" />
@@ -207,7 +204,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>demo</find>
       <find>demo_te</find>
       <find>modal</find>
       <find>services_pro</find>
@@ -237,6 +233,7 @@
       <find>perso.css</find>
       <find>Démon</find>
       <find>démon</find>
+      <find>simple</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;div</replace>
@@ -315,7 +312,7 @@
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1957" />
     <option name="y" value="41" />
     <option name="width" value="1936" />
@@ -589,21 +586,7 @@
       <workItem from="1558308837329" duration="656000" />
       <workItem from="1558343154230" duration="3801000" />
       <workItem from="1558371208227" duration="2564000" />
-      <workItem from="1558453751624" duration="836000" />
-    </task>
-    <task id="LOCAL-00234" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1557839211500</created>
-      <option name="number" value="00234" />
-      <option name="presentableId" value="LOCAL-00234" />
-      <option name="project" value="LOCAL" />
-      <updated>1557839211500</updated>
-    </task>
-    <task id="LOCAL-00235" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1557839418926</created>
-      <option name="number" value="00235" />
-      <option name="presentableId" value="LOCAL-00235" />
-      <option name="project" value="LOCAL" />
-      <updated>1557839418926</updated>
+      <workItem from="1558453751624" duration="2707000" />
     </task>
     <task id="LOCAL-00236" summary="Mise en ligne de l'ensemble des vidéos">
       <created>1557839536138</created>
@@ -934,14 +917,28 @@
       <option name="project" value="LOCAL" />
       <updated>1558373195334</updated>
     </task>
-    <option name="localTasksCounter" value="283" />
+    <task id="LOCAL-00283" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1558455877435</created>
+      <option name="number" value="00283" />
+      <option name="presentableId" value="LOCAL-00283" />
+      <option name="project" value="LOCAL" />
+      <updated>1558455877437</updated>
+    </task>
+    <task id="LOCAL-00284" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1558462149544</created>
+      <option name="number" value="00284" />
+      <option name="presentableId" value="LOCAL-00284" />
+      <option name="project" value="LOCAL" />
+      <updated>1558462149544</updated>
+    </task>
+    <option name="localTasksCounter" value="285" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="376833000" />
+    <option name="totallyTimeSpent" value="378704000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1957" y="41" width="1936" height="1056" extended-state="0" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.1641791" />
@@ -1250,8 +1247,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="341" column="99" lean-forward="true" selection-start-line="341" selection-start-column="99" selection-end-line="341" selection-end-column="99" />
+        <state relative-caret-position="272">
+          <caret line="112" column="43" selection-start-line="112" selection-start-column="43" selection-end-line="112" selection-end-column="43" />
           <folding>
             <element signature="n#!!block;n#Server#0;n#!!top" />
             <element signature="n#!!block;n#MicroServer#0;n#!!top" />
