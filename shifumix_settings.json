@@ -110,7 +110,7 @@
     "configs":[
       {
         "name":"conference",
-        "description":"une conférence doté d'un écran géant connecté sur internet",
+        "description":"une conférence dotée d'un écran géant connecté sur internet",
         "background":{
           "image":"./assets/img/conference.webp",
           "width":2484,
@@ -142,7 +142,7 @@
       },
       {
         "name":"party",
-        "description":"une soirée doté d'un écran connecté visible de tous",
+        "description":"une soirée dotée d'un écran connecté visible de tous",
         "background":{
           "image":"./assets/img/party01.webp",
           "width":972,
