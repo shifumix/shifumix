@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="Mise en ligne de l'ensemble des vidéos">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +15,7 @@
     <session id="-835947693">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="162" />
+          <entry key="project.closed" value="163" />
           <entry key="project.open.time.0" value="11" />
           <entry key="project.open.time.1" value="67" />
           <entry key="project.open.time.10" value="3" />
@@ -149,8 +148,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="466" column="12" lean-forward="true" selection-start-line="466" selection-start-column="12" selection-end-line="466" selection-end-column="12" />
+            <state relative-caret-position="368">
+              <caret line="474" column="118" lean-forward="true" selection-start-line="474" selection-start-column="118" selection-end-line="474" selection-end-column="118" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -595,14 +594,7 @@
       <workItem from="1558371208227" duration="2564000" />
       <workItem from="1558453751624" duration="5863000" />
       <workItem from="1558515850030" duration="699000" />
-      <workItem from="1558518650681" duration="768000" />
-    </task>
-    <task id="LOCAL-00239" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1557839957880</created>
-      <option name="number" value="00239" />
-      <option name="presentableId" value="LOCAL-00239" />
-      <option name="project" value="LOCAL" />
-      <updated>1557839957880</updated>
+      <workItem from="1558518650681" duration="2667000" />
     </task>
     <task id="LOCAL-00240" summary="Mise en ligne de l'ensemble des vidéos">
       <created>1557840836264</created>
@@ -940,11 +932,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558515859151</updated>
     </task>
-    <option name="localTasksCounter" value="288" />
+    <task id="LOCAL-00288" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1558521520023</created>
+      <option name="number" value="00288" />
+      <option name="presentableId" value="LOCAL-00288" />
+      <option name="project" value="LOCAL" />
+      <updated>1558521520024</updated>
+    </task>
+    <option name="localTasksCounter" value="289" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="383327000" />
+    <option name="totallyTimeSpent" value="385226000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1224,8 +1223,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="466" column="12" lean-forward="true" selection-start-line="466" selection-start-column="12" selection-end-line="466" selection-end-column="12" />
+        <state relative-caret-position="368">
+          <caret line="474" column="118" lean-forward="true" selection-start-line="474" selection-start-column="118" selection-end-line="474" selection-end-column="118" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
