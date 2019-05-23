@@ -457,14 +457,14 @@
                     <div class="tab-pane" id="tab3" role="tabpanel" aria-labelledby="tab3">
                         <div class="accordion" id="accordion-tab-3">
                             <div class="card">
-                                <div class="card-header" id="playlist">
+                                <div class="card-header" id="modify_playlist">
                                     <h5>
                                         <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#_playlist" aria-expanded="false" aria-controls="_playlist">
                                             Comment modifier la playlist ?
                                         </button>
                                     </h5>
                                 </div>
-                                <div class="collapse" id="_playlist" aria-labelledby="playlist" data-parent="#accordion-tab-3">
+                                <div class="collapse" id="_modify_playlist" aria-labelledby="playlist" data-parent="#accordion-tab-3">
                                     <div class="card-body">
                                         <p>
                                             La modification de l'ordre de passage des titres de la playlist se fait simplement en votant pour ou contre un titre.
@@ -694,27 +694,6 @@
                     <div class="tab-pane" id="tab5" role="tabpanel" aria-labelledby="tab5">
                         <div class="accordion" id="accordion-tab-5">
                             <div class="card">
-                                <div class="card-header" id="gameParticipate">
-                                    <h5>
-                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#_gameParticipate" aria-expanded="false" aria-controls="_gameParticipate">
-                                            Comment participer aux sondages / paris / loterie ?
-                                        </button>
-                                    </h5>
-                                </div>
-                                <div class="collapse show" id="_gameParticipate" aria-labelledby="gameParticipate" data-parent="#accordion-tab-5">
-                                    <div class="card-body">
-                                        <p>   Si l’événement le permet, vous pouvez participer et parfois même proposer des paris, des sondages express ou des mini-loterie aux autres participants de l’événement.
-
-                                            Sur l’écran de « jeux », tous les sondages actifs sont affichés.
-
-                                            Pour les sondages, il est possible de voter tant qu’il vous reste des bulletins (le vote multiple est possible).
-                                            Pour les paris, si vous disposez d’iCoin il est possible de miser sur les options de votre choix,
-                                            Pour les loteries, vous pouvez acheter des billets de participation.
-                                            Lorsqu’un pari est terminé, il est possible d’évaluer l’organisateur du pari depuis cet écran.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="card">
                                 <div class="card-header" id="gameList">
                                     <h5>
                                         <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#_gameList" aria-expanded="false" aria-controls="_gameList">
@@ -726,15 +705,15 @@
                                     <div class="card-body">
                                         <p>
                                             Shifumix propose plusieurs type sondages :
-                                            <ul>
-                                        <li>sondage classique : permettant de soumettre une proposition / question à un vote des participants.</li>
-                                        <li>sondage d'image : permettant un vote sur des photos. Idéal pour organiser des battles par exemple entre 2 personnes, avec la photo des personnes.</li>
-                                        <li>question ouverte : permettant aux participants de répondre ouvertement (par une phrase) à une question.</li>
+                                        <ul>
+                                            <li>sondage classique : permettant de soumettre une proposition / question à un vote des participants.</li>
+                                            <li>sondage d'image : permettant un vote sur des photos. Idéal pour organiser des battles par exemple entre 2 personnes, avec la photo des personnes.</li>
+                                            <li>question ouverte : permettant aux participants de répondre ouvertement (par une phrase) à une question.</li>
 
-                                    </ul>
+                                        </ul>
 
 
-                                            Shifumix propose également des jeux en temps réél :
+                                        Shifumix propose également des jeux en temps réél :
                                         <ul>
                                             <li>des paris, ou les participants sont invités à miser des iCoins (voir FAQ associée) sur une ou plusieurs proposition. A l'issue du temps imparti, l'organisateur du pari
                                                 indique la réponse correcte et les mises sont réparties entre les gagnants,</li>
@@ -746,31 +725,38 @@
                                 </div>
                             </div>
                             <div class="card">
-                                <div class="card-header" id="accordion-tab-5-heading">
+                                <div class="card-header" id="gameParticipate">
                                     <h5>
-                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-5-content-3" aria-expanded="false" aria-controls="accordion-tab-5-content-3">You mean while I'm sleeping in it?</button>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#_gameParticipate" aria-expanded="false" aria-controls="_gameParticipate">
+                                            Comment participer aux sondages / paris / loterie ?
+                                        </button>
                                     </h5>
                                 </div>
-                                <div class="collapse" id="accordion-tab-5-content-3" aria-labelledby="accordion-tab-5-heading-3" data-parent="#accordion-tab-5">
+                                <div class="collapse show" id="_gameParticipate" aria-labelledby="gameParticipate" data-parent="#accordion-tab-5">
                                     <div class="card-body">
-                                        <p>We can't compete with Mom! Her company is big and evil! Ours is small and neutral! Look, everyone wants to be like Germany, but do we really have the pure strength of 'will'? I just told you! You've killed me!</p>
-                                        <p><strong>Example: </strong>But, like most politicians, he promised more than he could deliver.</p>
+                                        <p>
+                                            Si l’événement le permet, vous pouvez participer et parfois même proposer des paris,
+                                            des sondages express ou des mini-loterie aux autres participants de l’événement.
+                                            <br>
+                                            Sur l’écran de « jeux », tous les sondages actifs sont affichés.
+                                            <br>
+                                            <ul>
+                                        <li>
+                                            Pour les sondages, il est possible de voter tant qu’il vous reste des bulletins (le vote multiple est possible).
+                                        </li>
+                                        <li>
+                                            Pour les paris, si vous disposez d’iCoin il est possible de miser sur les options de votre choix.
+                                            On peut miser plusieurs fois sur le même choix.
+                                        </li>
+                                        <li>
+                                            Pour les loteries, vous pouvez acheter des billets de participation.
+                                        </li>
+                                    </ul>
+                                            Lorsqu’un pari est terminé, il est possible d’évaluer l’organisateur du pari depuis cet écran.</p>
                                     </div>
                                 </div>
                             </div>
-                            <div class="card">
-                                <div class="card-header" id="accordion-tab-5-heading-4">
-                                    <h5>
-                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-5-content-4" aria-expanded="false" aria-controls="accordion-tab-5-content-4">And until then, I can never die?</button>
-                                    </h5>
-                                </div>
-                                <div class="collapse" id="accordion-tab-5-content-4" aria-labelledby="accordion-tab-5-heading-4" data-parent="#accordion-tab-5">
-                                    <div class="card-body">
-                                        <p>I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas. Well, let's just dump it in the sewer and say we delivered it.</p>
-                                        <p><strong>Example: </strong>Have you ever tried just turning off the TV, sitting down with your children, and hitting them? Hey, tell me something. You've got all this money. How come you always dress like you're doing your laundry?</p>
-                                    </div>
-                                </div>
-                            </div>
+
                         </div>
                     </div>
                     <div class="tab-pane" id="tab6" role="tabpanel" aria-labelledby="tab6">
@@ -877,10 +863,36 @@
                                         <p>
                                             Shifumix peut être connecté à différents services pour augmenter ses fonctionnalités :
                                             <ul>
-                                        <li>Facebook, Goolgle, Linkedin : permettent de simplifier l'authentification et de récupérer les contacts pour gérer les invitations</li>
-                                        <li>Google Drive, Dropbox sont utilisés comme sources musicales</li>
-                                        <li>Spotify, Deezer sont utilisé comme catalogue, sources musicales et gestionnaire de playlist</li>
+                                        <li>Facebook, Goolgle, Linkedin : permettent de simplifier l'authentification de l'utilisateur et de récupérer quelques informations basiques de profil</li>
+                                        <li>Google Drive peut être utilisés comme sources musicales
+                                            (dans ce cas Shifumix peut diffuser les fichiers MP3 ou OGG stocké)
+                                            et comme zone de stockage pour les photos pour l'organisateur d'un événement
+                                        </li>
+                                        <li>Spotify, Deezer sont utilisés pour l'organisateur comme catalogue musicales et pour les participants commme gestionnaire de playlist</li>
                                     </ul>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="rencontres">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#_rencontres"
+                                                aria-expanded="false" aria-controls="_rencontres">
+                                            En quoi Shifumix peut favoriser les rencontres ?
+                                        </button>
+                                    </h5>
+                                </div>
+                                <div class="collapse" id="_rencontres" aria-labelledby="rencontres" data-parent="#accordion-tab-divers">
+                                    <div class="card-body">
+                                        <p>
+                                         L'objectif de Shifumix est de renforcer l'interactivité des participants avec l'événement. Cela doit être aussi
+                                            un outil de renforcer de l'interactivité ENTRE les participants.<br>
+                                            Ainsi par l'utilisation des likes et en particulier de like réciproque (A 'like" les publications de B 'like' les
+                                            publications de A, il est possible d'attribuer un score de compatibilité entre A et B.
+                                            Ce score peut être établi sur les photos, la musique ou les messages (ou l'ensemble des trois).
+                                            <br>
+                                            Sur la liste des participants il est également possible de voir "qui like qui".
                                         </p>
                                     </div>
                                 </div>
