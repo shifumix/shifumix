@@ -138,24 +138,25 @@
     <session id="-309861599">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="1836" />
+          <entry key="html" value="2474" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="1836" />
+          <entry key="HTML" value="2474" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -185,7 +186,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="55">
+            <state relative-caret-position="2958">
               <caret line="174" column="12" selection-start-line="174" selection-start-column="12" selection-end-line="174" selection-end-column="12" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -198,8 +199,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/faq.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="618" column="40" selection-start-line="618" selection-start-column="40" selection-end-line="618" selection-end-column="40" />
+            <state relative-caret-position="243">
+              <caret line="347" column="99" selection-start-line="347" selection-start-column="99" selection-end-line="347" selection-end-column="99" />
             </state>
           </provider>
         </entry>
@@ -241,9 +242,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>/img</find>
-      <find>open</find>
-      <find>tuto</find>
       <find>iframe_tester</find>
       <find>device_fram</find>
       <find>device</find>
@@ -271,6 +269,9 @@
       <find>&quot;jeux&quot;</find>
       <find>Comment partic</find>
       <find>Pour les lote</find>
+      <find>n'est néc</find>
+      <find>personal</find>
+      <find>person</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;div</replace>
@@ -625,14 +626,8 @@
       <workItem from="1558600561255" duration="602000" />
       <workItem from="1558614383803" duration="346000" />
       <workItem from="1558617764060" duration="1578000" />
-      <workItem from="1558629236908" duration="2778000" />
-    </task>
-    <task id="LOCAL-00244" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1557845085445</created>
-      <option name="number" value="00244" />
-      <option name="presentableId" value="LOCAL-00244" />
-      <option name="project" value="LOCAL" />
-      <updated>1557845085445</updated>
+      <workItem from="1558629236908" duration="2807000" />
+      <workItem from="1558645028455" duration="1508000" />
     </task>
     <task id="LOCAL-00245" summary="Mise en ligne de l'ensemble des vidéos">
       <created>1557845931068</created>
@@ -970,11 +965,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558631716610</updated>
     </task>
-    <option name="localTasksCounter" value="293" />
+    <task id="LOCAL-00293" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1558632237168</created>
+      <option name="number" value="00293" />
+      <option name="presentableId" value="LOCAL-00293" />
+      <option name="project" value="LOCAL" />
+      <updated>1558632237168</updated>
+    </task>
+    <option name="localTasksCounter" value="294" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="392540000" />
+    <option name="totallyTimeSpent" value="394077000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -990,7 +992,7 @@
       <window_info id="UI Designer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48562783" weight="0.39443535" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48487142" visible="true" weight="0.39443535" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4978678" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1001,7 +1003,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Application Servers" order="11" sideWeight="0.49733475" weight="0.4377778" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49554655" weight="0.32986626" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="13" sideWeight="0.51437217" side_tool="true" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5151286" side_tool="true" visible="true" weight="0.39443535" />
       <window_info anchor="bottom" id="Bitbucket Issues" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1237,7 +1239,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
+        <state relative-caret-position="2958">
           <caret line="174" column="12" selection-start-line="174" selection-start-column="12" selection-end-line="174" selection-end-column="12" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1275,8 +1277,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/faq.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="618" column="40" selection-start-line="618" selection-start-column="40" selection-end-line="618" selection-end-column="40" />
+        <state relative-caret-position="243">
+          <caret line="347" column="99" selection-start-line="347" selection-start-column="99" selection-end-line="347" selection-end-column="99" />
         </state>
       </provider>
     </entry>

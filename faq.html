@@ -32,8 +32,7 @@
 
 <body id="page-top">
 
-<section aria-label="Question Accordions">
-
+<section aria-label="Question Accordions" class="m-1 p-0">
     <div class="w-100 text-center">
         <h2>Questions fréquentes</h2>
     </div>
@@ -210,7 +209,8 @@
                                         </ul>
 
 
-                                        Les iWall sont des pages WEB affichant les différentes activitées d’un événement. Ils sont référencé dans l’iWall Store. Celui-ci est accessible dans l’application Shifumix.<br>
+                                        Les iWall sont des pages WEB affichant les différentes activitées d’un événement.
+                                        Ils sont référencé dans l’iWall Store. Celui-ci est accessible dans l’application Shifumix.<br>
 
                                         Ils peuvent être affiché sur les écrans rattaché à l’organisateur de l’événement.</p>
                                     </div>
@@ -234,7 +234,9 @@
                                 <div class="collapse" id="accordion-tab-1-content-1" aria-labelledby="accordion-tab-1-heading-1" data-parent="#accordion-tab-1">
                                     <div class="card-body">
                                         <p>Il est possible de lancer Shifumix de plusieurs façon. Le plus simple est d'ouvrir <a href="http://shifumix.com">shifumix.com</a> depuis son ordinateur ou son smarphone</p>
-                                        <p>Shifumix n'est pas une application mais un site web adapté au mobile, ainsi aucune installation n'est nécéssaire.</p>
+                                        <p>Shifumix n'est pas une application mais un site web adapté au mobile, ainsi aucune installation n'est nécéssaire
+                                            et la compatibilité avec tous les types de terminaux est assurée (dés lors qu'il dispose d'un navigateur WEB assez récent)
+                                            .</p>
                                     </div>
                                 </div>
                             </div>
@@ -319,38 +321,65 @@
                                 </div>
                                 <div class="collapse" id="_iwallsettings" aria-labelledby="iwallsettings" data-parent="#accordion-tab-1">
                                     <div class="card-body">
-                                        <p>Au-delà d’une liste de widget disponibles imédiatement, Shifumix permet la création de ses propres widget. Par exemple, pour mieux respecter la charte de son entreprise ou pour rassembler sur un même écran différents éléments de l’événement.
+                                        <p>
+                                            Au-delà des iWall disponibles imédiatement, Shifumix permet la création de ses propres iWall.
+                                            Par exemple, pour mieux respecter la charte de son entreprise ou pour rassembler sur un même écran
+                                            différents éléments de l’événement.
 
-                                            Principe
-                                            Un iWall est une page HTML utilisant des modules particuliers. Ces modules sont disponibles à travers de simples balise. Chaque module dispose de ses propres paramètres, modifiable au travers de la balise HTML correpondant.
+                                            <br>
 
-                                            Les différents modules disponibles sont les suivants :
-
-
-
-                                            Module	Fonctionnement	Attributs
-                                            shifu-playlist	Affiche la playlist de l’événement	size : nombre de titres affichés
-                                            shifu-video	Affiche la video en tête de la playlist
-                                            shifu-slideshow	Enchaine l’affichage des photos sur la base d’un fondu	delay: indique le temps en secondes entre chaque transition
-                                            shifu-chart	Affiche le classement des participants
-                                            bet	Affiche l’enjeu d’un pari / sondage
-                                            betoptions	Affiche les options d’un pari
-                                            shifu-timer	Affiche le temps restant avant la fin d’un pari / sondage
-                                            shifu-svgwall	affiche le contenu d’un fichier SVG personnalisable	src : contient l’adresse web du template SVG
-                                            tags : filtre le contenant sur une liste de tag
-                                            services : indique la source de données à utiliser pour personnaliser le fichier SVG
-                                            Exemple d’iWall
+                                        <h5>Principe</h5>
+                                            La personnalisation des iWall réclame des compétences de Web développeur proportionnelles à la complexité
+                                            de la personnalisation voulue.
+                                            Un iWall est une page HTML utilisant certaines API de Shifumix ou certains des modules particuliers.
+                                            Ces modules sont disponibles à travers de simples balise.
 
 
-                                            Procédure
-                                            Pour fabriquer votre propre iWall vous pouvez :
-
-                                            partir du modèle de base, disponible directement dans l’iWall Store
+                                        <h5>Procédure</h5>
+                                            Pour fabriquer votre propre iWall vous pouvez
+                                            partir du modèle de base, disponible directement dans l’iWall Store ou bien
                                             partir d’un iWall existant puis modifier son code
                                             Une fois terminer, votre iWall est automatiquement enregistrer et disponible dans l’iWall store mais uniquement visible par vous.
 
-                                            Publier son iWall
-                                            Vous pouvez rendre votre iWall disponible pour tous les utilisateurs de Shifumix après validation de ce dernier.
+                                        <h5>Publier son iWall</h5>
+                                            Vous pouvez rendre votre iWall disponible pour tout les utilisateurs de Shifumix après validation de ce dernier.
+                                            par l'administrateur de la solution Shifumix.
+
+                                            Un fois publier, l'iWall fait parti des iWall publique.
+
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="modules">
+                                    <h5>
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#_modules" aria-expanded="false"
+                                                aria-controls="_modules">
+                                            Quels sont les modules disponibles pour personnaliser les iWall
+                                        </button>
+                                    </h5>
+                                </div>
+                                <div class="collapse" id="_modules" aria-labelledby="modules" data-parent="#accordion-tab-1">
+                                    <div class="card-body">
+                                        <p>
+                                            Chaque module dispose de ses propres paramètres, modifiable au travers de la balise HTML correpondant.
+
+                                            les différents modules disponibles sont les suivants :
+
+
+                                        Module	Fonctionnement	Attributs
+                                        shifu-playlist	Affiche la playlist de l’événement	size : nombre de titres affichés
+                                        shifu-video	Affiche la video en tête de la playlist
+                                        shifu-slideshow	Enchaine l’affichage des photos sur la base d’un fondu	delay: indique le temps en secondes entre chaque transition
+                                        shifu-chart	Affiche le classement des participants
+                                        bet	Affiche l’enjeu d’un pari / sondage
+                                        betoptions	Affiche les options d’un pari
+                                        shifu-timer	Affiche le temps restant avant la fin d’un pari / sondage
+                                        shifu-svgwall	affiche le contenu d’un fichier SVG personnalisable	src : contient l’adresse web du template SVG
+                                        tags : filtre le contenant sur une liste de tag
+                                        services : indique la source de données à utiliser pour personnaliser le fichier SVG
+                                        Exemple d’iWall
 
                                         </p>
                                     </div>
