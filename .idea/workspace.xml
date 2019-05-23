@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="Mise en ligne de l'ensemble des vidéos">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -134,6 +135,29 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-309861599">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="shifumixWebSite">
@@ -148,21 +172,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="474" column="118" lean-forward="true" selection-start-line="474" selection-start-column="118" selection-end-line="474" selection-end-column="118" />
+            <state relative-caret-position="208">
+              <caret line="183" column="90" selection-start-line="183" selection-start-column="90" selection-end-line="183" selection-end-column="90" />
               <folding>
-                <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scss/perso.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
-              <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -179,23 +193,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss/_nav.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1190">
+            <state relative-caret-position="285">
               <caret line="70" column="8" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6188">
-              <caret line="460" column="19" selection-start-line="460" selection-start-column="19" selection-end-line="460" selection-end-column="19" />
-              <folding>
-                <element signature="n#!!block;n#Server#0;n#!!top" />
-                <element signature="n#!!block;n#MicroServer#0;n#!!top" />
-                <element signature="n#!!block;n#SocketServer#0;n#!!top" />
-                <element signature="n#!!block;n#Client#0;n#!!top" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -313,10 +312,10 @@
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1957" />
-    <option name="y" value="41" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
   </component>
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
@@ -333,25 +332,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="shifumixWebSite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shifumixWebSite" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shifumixWebSite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shifumixWebSite" type="462c0819:PsiDirectoryNode" />
-              <item name="beta" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shifumixWebSite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shifumixWebSite" type="462c0819:PsiDirectoryNode" />
-              <item name="beta" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="shifumix" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shifumix" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -595,6 +582,11 @@
       <workItem from="1558453751624" duration="5863000" />
       <workItem from="1558515850030" duration="699000" />
       <workItem from="1558518650681" duration="2667000" />
+      <workItem from="1558560705854" duration="617000" />
+      <workItem from="1558562200688" duration="1393000" />
+      <workItem from="1558600561255" duration="602000" />
+      <workItem from="1558614383803" duration="346000" />
+      <workItem from="1558617764060" duration="265000" />
     </task>
     <task id="LOCAL-00240" summary="Mise en ligne de l'ensemble des vidéos">
       <created>1557840836264</created>
@@ -943,13 +935,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="385226000" />
+    <option name="totallyTimeSpent" value="388449000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.1673774" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.1785174" />
       <window_info id="Structure" order="1" sideWeight="0.37333333" side_tool="true" weight="0.15405117" />
       <window_info id="Designer" order="2" />
       <window_info id="Gulp" order="3" side_tool="true" />
@@ -959,18 +951,18 @@
       <window_info id="UI Designer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48720682" weight="0.39555556" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48562783" visible="true" weight="0.39443535" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4978678" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="File Transfer" order="9" visible="true" weight="0.2588889" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Application Servers" order="11" sideWeight="0.49733475" weight="0.4377778" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49554655" weight="0.32986626" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5127932" side_tool="true" visible="true" weight="0.39555556" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.51437217" side_tool="true" visible="true" weight="0.39443535" />
       <window_info anchor="bottom" id="Bitbucket Issues" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -986,6 +978,7 @@
       <window_info anchor="right" id="R Graphics" order="11" />
       <window_info anchor="right" id="Theme Preview" order="12" />
       <window_info anchor="right" id="TV Remote" order="13" side_tool="true" />
+      <window_info anchor="right" id="SciView" order="14" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1094,13 +1087,7 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/beta/assets/img/postit.png" />
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/_carousel.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/_carousel.scss" />
     <entry file="file://$PROJECT_DIR$/js/contact_me.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1158,20 +1145,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/_nav.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="73" column="1" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="635" column="43" selection-start-line="635" selection-start-column="43" selection-end-line="635" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/_nav.scss" />
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/_variables.scss" />
     <entry file="file://$PROJECT_DIR$/scss/perso.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -1221,20 +1196,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="474" column="118" lean-forward="true" selection-start-line="474" selection-start-column="118" selection-end-line="474" selection-end-column="118" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/perso.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
+        <state relative-caret-position="280">
           <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
         </state>
       </provider>
@@ -1246,22 +1210,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_nav.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1190">
-          <caret line="70" column="8" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6188">
+        <state relative-caret-position="285">
           <caret line="460" column="19" selection-start-line="460" selection-start-column="19" selection-end-line="460" selection-end-column="19" />
           <folding>
             <element signature="n#!!block;n#Server#0;n#!!top" />
             <element signature="n#!!block;n#MicroServer#0;n#!!top" />
             <element signature="n#!!block;n#SocketServer#0;n#!!top" />
             <element signature="n#!!block;n#Client#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_nav.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="70" column="8" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="183" column="90" selection-start-line="183" selection-start-column="90" selection-end-line="183" selection-end-column="90" />
+          <folding>
+            <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
