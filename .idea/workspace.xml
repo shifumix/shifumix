@@ -195,8 +195,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="88" column="115" selection-start-line="88" selection-start-column="115" selection-end-line="88" selection-end-column="115" />
+            <state relative-caret-position="54">
+              <caret line="84" column="50" lean-forward="true" selection-start-line="84" selection-start-column="50" selection-end-line="84" selection-end-column="50" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -392,7 +392,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558720008923" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558720080417" />
     <property name="last_opened_file_path" value="C:/Temp/Ruby24-x64/bin/scss.bat" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -632,14 +632,7 @@
       <workItem from="1558629236908" duration="2807000" />
       <workItem from="1558645028455" duration="1547000" />
       <workItem from="1558687790372" duration="5114000" />
-      <workItem from="1558711888007" duration="7839000" />
-    </task>
-    <task id="LOCAL-00253" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1557873803224</created>
-      <option name="number" value="00253" />
-      <option name="presentableId" value="LOCAL-00253" />
-      <option name="project" value="LOCAL" />
-      <updated>1557873803225</updated>
+      <workItem from="1558711888007" duration="8124000" />
     </task>
     <task id="LOCAL-00254" summary="Mise en ligne de l'ensemble des vidéos">
       <created>1557905947688</created>
@@ -977,11 +970,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558719369524</updated>
     </task>
-    <option name="localTasksCounter" value="302" />
+    <task id="LOCAL-00302" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1558720063902</created>
+      <option name="number" value="00302" />
+      <option name="presentableId" value="LOCAL-00302" />
+      <option name="project" value="LOCAL" />
+      <updated>1558720063902</updated>
+    </task>
+    <option name="localTasksCounter" value="303" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="407069000" />
+    <option name="totallyTimeSpent" value="407354000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1272,8 +1272,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="88" column="115" selection-start-line="88" selection-start-column="115" selection-end-line="88" selection-end-column="115" />
+        <state relative-caret-position="54">
+          <caret line="84" column="50" lean-forward="true" selection-start-line="84" selection-start-column="50" selection-end-line="84" selection-end-column="50" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
