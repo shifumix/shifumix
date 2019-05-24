@@ -16,26 +16,37 @@ $('#tab').on('shown.bs.tab', function(e) {
 });
 
 function setprofil(idxProfil) {
+    if(idxProfil==null)return null;
     $("#myModal").modal('hide');
     clearTimeout(handle);
 
-    type_profil="perso";
-    if(idxProfil==3)type_profil="pro";
+    type_profil=idxProfil;
+    if(type_profil=="bar")type_profil="public";
+    if(type_profil!="pro" && type_profil!="public")type_profil="perso";
 
-    if (type_profil == 'perso') document.getElementById("services_pro").style.display="none";
-    if (type_profil == 'pro') document.getElementById("services_perso").style.display = "none";
+    var service_elts=document.getElementsByName("services");
+    service_elts.forEach(function(service_elt){
+        if(service_elt.dataset.tag.indexOf(type_profil)==-1)service_elt.style.display="none";
+    });
 
+    var videos_tuto=document.getElementsByName("videos_tuto");
+    videos_tuto.forEach(function(elt){
+        if(elt.dataset.tag.indexOf(type_profil)==-1)elt.parentNode.removeChild(elt);
+    });
+
+    //Fait disparaitre les slides
     for(var i=0;i<15;i++){
         var elt=document.getElementById("slide"+i);
-        if(elt!=null && elt.attributes.tag!=null && elt.attributes.tag.value.indexOf(type_profil)==-1){
+        if(elt!=null && elt.dataset.tag!=null && elt.dataset.tag.indexOf(type_profil)==-1){
             elt.parentElement.removeChild(elt);
         }
     }
 
     var config="simple";
-    if(idxProfil==1)config="nightclub";
-    if(idxProfil==2)config="barwithtv";
-    if(idxProfil==3)config="conference";
+    debugger
+    if(type_profil=="perso")config="nightclub";
+    if(type_profil=="public")config="barwithtv";
+    if(type_profil=="pro")config="conference";
 
     document.getElementById("iframe_tester").src = domain+"/tutoriel.html?config="+config+"&delay=30&size=150&ihm=" + type_profil;
     document.getElementById("profil").classList.toggle("invisible");
@@ -61,6 +72,13 @@ function activaTab(tab){
     elt.tab('show');
 }
 
+function getParam() {
+    var vars = {};
+    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+        vars[key] = value;
+    });
+    return vars;
+}
 
 $(document).ready(function() {
 
@@ -78,9 +96,13 @@ $(document).ready(function() {
         }
     }
 
-    handle=setTimeout(function(){
-        $("#myModal").modal()
-    },20000);
+    if(getParam().profil==null){
+        handle=setTimeout(function(){
+            $("#myModal").modal()
+        },10000);
+    } else
+        setprofil(getParam().profil);
+
 
     setTimeout(function(){
         document.getElementById("iframe_tester").src="https://shifumixweb.appspot.com/tutoriel.html?withMessage=true&delay=30&config=simple&size=150&ihm=perso";

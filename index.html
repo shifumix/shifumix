@@ -101,15 +101,15 @@
             <div class="carousel-item active" id="slide1">
                 <img class="image-slide" src="/img/portfolio/iwall.webp">
                 <div class="carousel-caption carousel-center">
-                    <div class="carousel-title">Affichez un mur de photos partagées en 1 click</div>
+                    <div class="carousel-title">Tout le monde devient le photographe de la soirée</div>
                     <a class="btn btn-start btn-primary " href="javascript:openScreen('photoshow')">Start</a>
                 </div>
             </div>
 
-            <div class="carousel-item" id="slide2" tag="perso">
+            <div class="carousel-item" id="slide2" data-tag="perso,public">
                 <img class="image-slide" src="./img/portfolio/yourthedj.jpg">
                 <div class="carousel-caption carousel-center">
-                    <div class="carousel-title">Construire la playlist ensemble<br>votez sur vos titres préférés</div>
+                    <div class="carousel-title">Tout le monde est DJ ! vos invités mettent la musique</div>
                     <a class="btn btn-start btn-primary " href="javascript:openScreen('playlist_elegant')">Start</a>
                 </div>
             </div>
@@ -118,7 +118,7 @@
             <div class="carousel-item" id="slide3">
                 <img class="image-slide" src="./img/portfolio/sharemessage.webp">
                 <div class="carousel-caption carousel-center">
-                    <div class="carousel-title">Partagez vos messages en grand format</div>
+                    <div class="carousel-title">Discutez avec tous les participants de l'événement</div>
                     <a class="btn btn-start  btn-primary " href="javascript:openScreen('message_cursor')">Start</a>
                 </div>
             </div>
@@ -132,15 +132,15 @@
             <!--<h2 class="section-subheading">Organiser des paris, une tombola en quelques click</h2>-->
             <!--</div>-->
 
-            <div class="carousel-item" id="slide6" tag="perso">
+            <div class="carousel-item" id="slide6" data-tag="public">
                 <img class="image-slide" src="/img/portfolio/menuonphone.jpg">
                 <div class="carousel-caption carousel-center">
-                    <div class="carousel-title">Passez vos commandes depuis votre smartphone</div>
+                    <div class="carousel-title">Vos clients peuvent commander à distance</div>
                     <a class="btn btn-start  btn-primary " href="javascript:openScreen('CommandDistance')">Start</a>
                 </div>
             </div>
 
-            <div class="carousel-item" id="slide8" tag="pro">
+            <div class="carousel-item" id="slide8" data-tag="pro">
                 <img class="image-slide" src="./img/portfolio/brainstorm.jpg">
                 <div class="carousel-caption carousel-center">
                     <div class="carousel-title">Transformer votre écran en paperboard</div>
@@ -148,15 +148,15 @@
                 </div>
             </div>
 
-            <div class="carousel-item" id="slide9" tag="pro">
+            <div class="carousel-item" id="slide9" data-tag="pro">
                 <img class="image-slide" src="./img/portfolio/presentation.jpg">
                 <div class="carousel-caption carousel-center">
-                    <div class="carousel-title">Partager les présentations</div>
+                    <div class="carousel-title">Organisez les présentations en temps réel</div>
                     <a class="btn btn-start  btn-primary " href="javascript:openScreen('presentation')">Start</a>
                 </div>
             </div>
 
-            <div class="carousel-item" id="slide12" tag="perso">
+            <div class="carousel-item" id="slide12" data-tag="perso,pro,public">
                 <img class="image-slide" src="./img/portfolio/gratuit.jpg">
                 <div class="carousel-caption carousel-center" >
                     <div class="carousel-title">Shifumix est gratuit, sans publicité et respect l'anonymat</div>
@@ -191,7 +191,8 @@
 
 
 <section class="bg-light" id="services">
-    <div class="container text-center" id="services_perso">
+    <!--Services réservés plutôt aux bars et particuliers-->
+    <div name="services" class="container text-center" data-tag="perso,public">
         <span class="section-heading section-title">Services</span>
         <p>Shifumix offre de nombreux service pour renforcer l'interractivité de vos événements</p>
         <br><br>
@@ -236,9 +237,8 @@
         </div>
     </div>
     <br><br>
-
     <!--Services réservés plutôt aux professionnels-->
-    <div class="container" id="services_pro">
+    <div name="services" class="container" data-tag="pro">
         <div class="row text-center">
             <div class="col-md-4"><span class="fa-stack fa-2x"> <em class="fas fa-circle fa-stack-2x text-primary"></em> <em class="fas fa-poll-h fa-stack-1x fa-inverse"></em> </span>
                 <h4 class="service-heading">Sondages</h4>
@@ -288,12 +288,12 @@
 
         <div id="exTab2" class="container">
             <ul class="nav nav-pills justify-content-center">
-                <li class="active"><a  class="nav-link active" href="#video_pelemele" data-toggle="tab">Un pele-mele de photo</a></li>
-                <li class="active"><a  class="nav-link" href="#video_playlist" data-toggle="tab">Faire la playlist</a></li>
-                <li><a class="nav-link" href="#video_photo" data-toggle="tab">Partager de photo</a></li>
-                <li><a class="nav-link" href="#video_survey" data-toggle="tab">Sondages express</a></li>
-                <li><a class="nav-link" href="#video_battle" data-toggle="tab">Duel instantanné</a></li>
-                <li><a class="nav-link" href="#video_message" data-toggle="tab">Messages partagé</a></li>
+                <li name="videos_tuto" data-tag="perso,public,pro" class="active"><a class="nav-link active" href="#video_pelemele" data-toggle="tab">Un pele-mele de photo</a></li>
+                <li name="videos_tuto" data-tag="perso,public" ><a class="nav-link" href="#video_playlist" data-toggle="tab">Faire la playlist</a></li>
+                <li name="videos_tuto" data-tag="perso,public" ><a class="nav-link" href="#video_photo" data-toggle="tab">Partager de photo</a></li>
+                <li name="videos_tuto" data-tag="pro,public" ><a class="nav-link" href="#video_survey" data-toggle="tab">Sondages express</a></li>
+                <li name="videos_tuto" data-tag="perso,public" ><a class="nav-link" href="#video_battle" data-toggle="tab">Duel instantanné</a></li>
+                <li name="videos_tuto" data-tag="perso,public,pro" ><a class="nav-link" href="#video_message" data-toggle="tab">Messages partagé</a></li>
             </ul>
             <br>
 
