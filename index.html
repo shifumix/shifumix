@@ -54,15 +54,15 @@
                 <li class="nav-item text-light">
 
                     <div class="nav-link text-light" id="profil">
-                        <a onclick="setprofil(1)">
+                        <a onclick="setprofil('perso')">
                             <i class="fas fa-female" title="Vous êtes un particulier"></i>&nbsp;&nbsp;
                         </a>
 
-                        <a onclick="setprofil(2)" >
+                        <a onclick="setprofil('public')" >
                             <i class="fas fa-beer" title="Vous êtes un bar"></i> &nbsp;
                         </a>
 
-                        <a onclick="setprofil(3)" >
+                        <a onclick="setprofil('pro')" >
                             <i class="fas fa-building" title="Vous êtes une entreprise"></i>
                         </a>
 
@@ -101,7 +101,7 @@
             <div class="carousel-item active" id="slide1">
                 <img class="image-slide" src="/img/portfolio/iwall.webp">
                 <div class="carousel-caption carousel-center">
-                    <div class="carousel-title">Tout le monde devient le photographe de la soirée</div>
+                    <div class="carousel-title">Avec Shifumix, vos invités sont les photographes de la soirée</div>
                     <a class="btn btn-start btn-primary " href="javascript:openScreen('photoshow')">Start</a>
                 </div>
             </div>
@@ -109,7 +109,7 @@
             <div class="carousel-item" id="slide2" data-tag="perso,public">
                 <img class="image-slide" src="./img/portfolio/yourthedj.jpg">
                 <div class="carousel-caption carousel-center">
-                    <div class="carousel-title">Tout le monde est DJ ! vos invités mettent la musique</div>
+                    <div class="carousel-title">Tous vos participants sont les DJs</div>
                     <a class="btn btn-start btn-primary " href="javascript:openScreen('playlist_elegant')">Start</a>
                 </div>
             </div>
@@ -118,7 +118,7 @@
             <div class="carousel-item" id="slide3">
                 <img class="image-slide" src="./img/portfolio/sharemessage.webp">
                 <div class="carousel-caption carousel-center">
-                    <div class="carousel-title">Discutez avec tous les participants de l'événement</div>
+                    <div class="carousel-title">Avec Shifumix, vos invités partagent des messages</div>
                     <a class="btn btn-start  btn-primary " href="javascript:openScreen('message_cursor')">Start</a>
                 </div>
             </div>
@@ -135,7 +135,7 @@
             <div class="carousel-item" id="slide6" data-tag="public">
                 <img class="image-slide" src="/img/portfolio/menuonphone.jpg">
                 <div class="carousel-caption carousel-center">
-                    <div class="carousel-title">Vos clients peuvent commander à distance</div>
+                    <div class="carousel-title">Vos clients commandent vos articles depuis leur téléphone</div>
                     <a class="btn btn-start  btn-primary " href="javascript:openScreen('CommandDistance')">Start</a>
                 </div>
             </div>
@@ -143,7 +143,7 @@
             <div class="carousel-item" id="slide8" data-tag="pro">
                 <img class="image-slide" src="./img/portfolio/brainstorm.jpg">
                 <div class="carousel-caption carousel-center">
-                    <div class="carousel-title">Transformer votre écran en paperboard</div>
+                    <div class="carousel-title">Shifumix transforme n'importe quel écran en paperboard</div>
                     <a class="btn btn-start  btn-primary " href="javascript:openScreen('pelemeleTexture')">Start</a>
                 </div>
             </div>
@@ -159,7 +159,7 @@
             <div class="carousel-item" id="slide12" data-tag="perso,pro,public">
                 <img class="image-slide" src="./img/portfolio/gratuit.jpg">
                 <div class="carousel-caption carousel-center" >
-                    <div class="carousel-title">Shifumix est gratuit, sans publicité et respect l'anonymat</div>
+                    <div class="carousel-title">Shifumix repesct l'anonymat, est gratuit et sans publicité</div>
                     <a class="btn btn-start  btn-primary " href="javascript:openScreen(12)">Start</a>
                 </div>
             </div>
@@ -204,9 +204,9 @@
                     <a href=""><em class="fas fa-music fa-stack-1x fa-inverse"></em></a>
                 </span>
                 <h4 class="service-heading">Musique</h4>
-                <p class="text-muted">
+                <p class="text-muted text-service">
                     Vos participants votent sur les titres de la playlist et y ajoutent leurs morceaux préférés. <br>
-                    Shifumix pilote Deezer, Spotify, YouTube pour passer les titres
+                    Shifumix pilote Deezer, Spotify, YouTube pour passer la musique
                 </p>
             </div>
             <div class="col-md-4">
@@ -217,9 +217,9 @@
                     </span>
                 </a>
                 <h4 class="service-heading">Photos &amp; Messages</h4>
-                <p class="text-muted">Tout le monde partage des photos ou des messages, vote sur les meilleurs photos.
+                <p class="text-muted text-service">Tout le monde partage des photos ou des messages. Les photos sont affichées sur les écrans partagés.
                     <br>
-                    Les photos sont mises en scene sur les écrans partagés
+                    Les votes sur les photos permettent d'établir le classement du meilleur photographe.
                 </p>
             </div>
             <div class="col-md-4">
@@ -230,7 +230,7 @@
             </span>
 
                 <h4 class="service-heading">Jeux &amp; sondage</h4>
-                <p class="text-muted">Organisez des paris, des sondages, des battles, des loteries en quelques clics.
+                <p class="text-muted text-service">Organisez des paris, des sondages, des battles, des loteries en quelques clics.
                     <br>
                     Shifumix gère une monnaie virtuelle pour les mises, affiche le classement en individuel ou par équipe</p>
             </div>
@@ -242,7 +242,10 @@
         <div class="row text-center">
             <div class="col-md-4"><span class="fa-stack fa-2x"> <em class="fas fa-circle fa-stack-2x text-primary"></em> <em class="fas fa-poll-h fa-stack-1x fa-inverse"></em> </span>
                 <h4 class="service-heading">Sondages</h4>
-                <p class="text-muted">Sondez vos participant, organisez un brainstorming, afficher les résultats comme sur un paper board</p>
+                <p class="text-muted text-service">
+                    Sondez vos participant, organisez un brainstorming,
+                    afficher les résultats comme sur un paper board
+                </p>
             </div>
             <div class="col-md-4">
                 <a href="https://goo.gl/uwGWuU">
@@ -250,10 +253,13 @@
               <i class="fas fa-circle fa-stack-2x text-primary"></i>
               <i class="fas fa-video fa-stack-1x fa-inverse"></i>
             </span>
-
                 </a>
                 <h4 class="service-heading">Présentations</h4>
-                <p class="text-muted">(Ré)Organisez vos réunions en temps réel, optimisez-en le contenu/le timing, partagez automatiquement les présentations.</p>
+                <p class="text-muted text-service">
+                    (Ré)Organisez vos réunions en temps réel,
+                    optimisez-en le contenu/le timing,
+                    partagez automatiquement les présentations.
+                </p>
             </div>
             <div class="col-md-4">
                 <a href="https://goo.gl/7Lv9ow">
@@ -264,7 +270,11 @@
                 </a>
 
                 <h4 class="service-heading">Messages</h4>
-                <p class="text-muted">Partagez des messages, animez-les sur écran géant. votez pour vos messages préférés</p>
+                <p class="text-muted text-service">
+                    Partagez des messages avec tous les participants,
+                    animez-les sur les écrans partagés.
+                    votez pour vos messages préférés
+                </p>
             </div>
         </div>
         <br><br>
@@ -287,44 +297,61 @@
         <br><br>
 
         <div id="exTab2" class="container">
-            <ul class="nav nav-pills justify-content-center">
-                <li name="videos_tuto" data-tag="perso,public,pro" class="active"><a class="nav-link active" href="#video_pelemele" data-toggle="tab">Un pele-mele de photo</a></li>
-                <li name="videos_tuto" data-tag="perso,public" ><a class="nav-link" href="#video_playlist" data-toggle="tab">Faire la playlist</a></li>
-                <li name="videos_tuto" data-tag="perso,public" ><a class="nav-link" href="#video_photo" data-toggle="tab">Partager de photo</a></li>
-                <li name="videos_tuto" data-tag="pro,public" ><a class="nav-link" href="#video_survey" data-toggle="tab">Sondages express</a></li>
-                <li name="videos_tuto" data-tag="perso,public" ><a class="nav-link" href="#video_battle" data-toggle="tab">Duel instantanné</a></li>
-                <li name="videos_tuto" data-tag="perso,public,pro" ><a class="nav-link" href="#video_message" data-toggle="tab">Messages partagé</a></li>
+            <ul class="nav nav-pills justify-content-center" onclick="playTuto(event)">
+                <li name="videos_tuto" data-tag="perso,public,pro" class="active">
+                    <a class="nav-link active" href="#video_pelemele" data-toggle="tab">Un pele-mele de photo</a>
+                </li>
+
+                <li name="videos_tuto" data-tag="perso,public">
+                    <a class="nav-link" href="#video_playlist" data-toggle="tab">Faire la playlist</a>
+                </li>
+
+                <li name="videos_tuto" data-tag="perso,public">
+                    <a class="nav-link" href="#video_photo" data-toggle="tab">Partager de photo</a>
+                </li>
+
+                <li name="videos_tuto" data-tag="pro,public">
+                    <a class="nav-link" href="#video_survey" data-toggle="tab">Sondages express</a>
+                </li>
+
+                <li name="videos_tuto" data-tag="perso,public">
+                    <a class="nav-link" href="#video_battle" data-toggle="tab">Duel instantanné</a>
+                </li>
+
+                <li name="videos_tuto" data-tag="perso,public,pro">
+                    <a class="nav-link" href="#video_message" data-toggle="tab">Messages partagé</a>
+                </li>
             </ul>
             <br>
 
             <div class="tab-content image-photo">
                 <div class="tab-pane active tab-pane-video" id="video_pelemele">
-                    <video class="video-fluid" controls loop muted autoplay width="100%">
+                    <video name="videos_content" class="video-fluid" controls loop muted autoplay width="100%">
                         <source src="https://shifumixweb.appspot.com/assets/videos/tuto_pelemele_white.mp4">
                     </video>
                 </div>
                 <div class="tab-pane tab-pane-video" id="video_photo">
-                    <video class="video-fluid" controls loop  width="100%">
+                    <video name="videos_content" class="video-fluid" controls loop  width="100%">
                         <source src="https://shifumixweb.appspot.com/assets/videos/tuto_photo_white.mp4">
                     </video>
                 </div>
                 <div class="tab-pane tab-pane-video" id="video_playlist">
-                    <video class="video-fluid" controls loop  width="100%">
+                    <video name="videos_content" class="video-fluid" controls loop  width="100%">
                         <source src="https://shifumixweb.appspot.com/assets/videos/tuto_total_musicphotomessagewhite.mp4">
                     </video>
                 </div>
                 <div class="tab-pane tab-pane-video" id="video_survey">
-                    <video class="video-fluid" controls loop  width="100%">
+                    <video name="videos_content" class="video-fluid" controls loop  width="100%">
                         <source src="https://shifumixweb.appspot.com/assets/videos/tuto_sondage_white.mp4">
                     </video>
                 </div>
                 <div class="tab-pane tab-pane-video" id="video_battle">
-                    <video class="video-fluid" controls loop  width="100%">
+                    <video name="videos_content" class="video-fluid" controls loop  width="100%">
                         <source src="https://shifumixweb.appspot.com/assets/videos/tuto_battle_white.mp4">
                     </video>
                 </div>
                 <div class="tab-pane tab-pane-video" id="video_cursor">
-                    <video class="video-fluid" controls loop  width="100%">
+                    <video name="videos_content" class="video-fluid" controls loop width="100%">
                         <source src="https://shifumixweb.appspot.com/assets/videos/tuto_message_white.mp4">
                     </video>
                 </div>
@@ -394,7 +421,7 @@
     <div class="modal-dialog modal-dialog-centered" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLongTitle">Vous êtes plutôt ?</h5>
+                <h5 class="modal-title" id="exampleModalLongTitle">Personnaliser le site : Vous êtes plutôt ?</h5>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
@@ -402,7 +429,7 @@
             <div class="modal-body">
                 <div class="row text-center">
                     <div class="col-md-4">
-                        <a onclick="setprofil(1)" >
+                        <a onclick="setprofil('perso')" >
                             <span class="fa-stack fa-2x">
                                 <em class="fas fa-circle fa-stack-2x text-primary"></em>
                                 <em class="fas fa-female fa-stack-1x fa-inverse"></em>
@@ -411,7 +438,7 @@
                         Un particulier
                     </div>
                     <div class="col-md-4 text-center">
-                        <a onclick="setprofil(2)" >
+                        <a onclick="setprofil('public')" >
                             <span class="fa-stack fa-2x">
                                 <em class="fas fa-circle fa-stack-2x text-primary"></em>
                                 <em class="fas fa-beer fa-stack-1x fa-inverse"></em>
@@ -420,7 +447,7 @@
                         Un bar / restaurant
                     </div>
                     <div class="col-md-4">
-                        <a onclick="setprofil(2)" >
+                        <a onclick="setprofil('pro')" >
                             <span class="fa-stack fa-2x">
                                 <em class="fas fa-circle fa-stack-2x text-primary"></em>
                                 <em class="fas fa-building fa-stack-1x fa-inverse"></em>

@@ -43,7 +43,6 @@ function setprofil(idxProfil) {
     }
 
     var config="simple";
-    debugger
     if(type_profil=="perso")config="nightclub";
     if(type_profil=="public")config="barwithtv";
     if(type_profil=="pro")config="conference";
@@ -80,8 +79,19 @@ function getParam() {
     return vars;
 }
 
-$(document).ready(function() {
+function playTuto(evt){
+    document.getElementsByName("videos_content").forEach(function(elt){
+        elt.pause();
+    });
+    if(evt.target!=null){
+        var id=evt.target.href.split("#")[1];
+        var elt_video=document.getElementById(id);
+        elt_video.childNodes[1].play();
+    }
 
+}
+
+$(document).ready(function() {
     var ua=navigator.userAgent.toLowerCase();
     if(ua.indexOf("android")>-1){
         if(location.href.indexOf("#")>-1){
