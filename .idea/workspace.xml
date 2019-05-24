@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -152,15 +154,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="4085" />
-          <entry key="js" value="1124" />
+          <entry key="html" value="4696" />
+          <entry key="js" value="1130" />
           <entry key="scss" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="4085" />
-          <entry key="JavaScript" value="1124" />
+          <entry key="HTML" value="4696" />
+          <entry key="JavaScript" value="1130" />
           <entry key="SCSS" value="52" />
         </counts>
       </usages-collector>
@@ -192,15 +194,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="328" column="23" lean-forward="true" selection-start-line="328" selection-start-column="23" selection-end-line="328" selection-end-column="23" />
+            <state relative-caret-position="122">
+              <caret line="88" column="115" selection-start-line="88" selection-start-column="115" selection-end-line="88" selection-end-column="115" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -218,17 +220,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/faq.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="316" column="42" selection-start-line="316" selection-start-column="42" selection-end-line="316" selection-end-column="42" />
+            <state relative-caret-position="146">
+              <caret line="1027" column="38" selection-start-line="1027" selection-start-column="38" selection-end-line="1027" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/shifumix_website.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="88" column="31" selection-start-line="88" selection-start-column="31" selection-end-line="88" selection-end-column="31" />
+            <state relative-caret-position="180">
+              <caret line="87" column="4" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -237,14 +239,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>nav-pill</find>
-      <find>pills</find>
-      <find>$nav-pills-link-active-color</find>
-      <find>perso.css</find>
-      <find>Démon</find>
-      <find>démon</find>
-      <find>party</find>
-      <find>vous pouv</find>
       <find>vous pou</find>
       <find>tutoriel</find>
       <find>simple</find>
@@ -267,6 +261,14 @@
       <find>setpro</find>
       <find>debugg</find>
       <find>deb</find>
+      <find>DEMOS</find>
+      <find>question</find>
+      <find>tester</find>
+      <find>p-2</find>
+      <find>400px</find>
+      <find>respect</find>
+      <find>tarif</find>
+      <find>faq</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;div</replace>
@@ -313,10 +315,10 @@
         <option value="$PROJECT_DIR$/scss/agency.scss" />
         <option value="$PROJECT_DIR$/scss/perso.css" />
         <option value="$PROJECT_DIR$/shifumix_settings.json" />
-        <option value="$PROJECT_DIR$/faq.html" />
         <option value="$PROJECT_DIR$/scss/perso.scss" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/shifumix_website.js" />
+        <option value="$PROJECT_DIR$/faq.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -392,7 +394,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558716532944" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558719320116" />
     <property name="last_opened_file_path" value="C:/Temp/Ruby24-x64/bin/scss.bat" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -632,21 +634,7 @@
       <workItem from="1558629236908" duration="2807000" />
       <workItem from="1558645028455" duration="1547000" />
       <workItem from="1558687790372" duration="5114000" />
-      <workItem from="1558711888007" duration="4409000" />
-    </task>
-    <task id="LOCAL-00250" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1557852655830</created>
-      <option name="number" value="00250" />
-      <option name="presentableId" value="LOCAL-00250" />
-      <option name="project" value="LOCAL" />
-      <updated>1557852655830</updated>
-    </task>
-    <task id="LOCAL-00251" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1557871846087</created>
-      <option name="number" value="00251" />
-      <option name="presentableId" value="LOCAL-00251" />
-      <option name="project" value="LOCAL" />
-      <updated>1557871846093</updated>
+      <workItem from="1558711888007" duration="7163000" />
     </task>
     <task id="LOCAL-00252" summary="Mise en ligne de l'ensemble des vidéos">
       <created>1557872261561</created>
@@ -977,17 +965,31 @@
       <option name="project" value="LOCAL" />
       <updated>1558716409844</updated>
     </task>
-    <option name="localTasksCounter" value="299" />
+    <task id="LOCAL-00299" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1558716484654</created>
+      <option name="number" value="00299" />
+      <option name="presentableId" value="LOCAL-00299" />
+      <option name="project" value="LOCAL" />
+      <updated>1558716484654</updated>
+    </task>
+    <task id="LOCAL-00300" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1558716606299</created>
+      <option name="number" value="00300" />
+      <option name="presentableId" value="LOCAL-00300" />
+      <option name="project" value="LOCAL" />
+      <updated>1558716606299</updated>
+    </task>
+    <option name="localTasksCounter" value="301" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="403639000" />
+    <option name="totallyTimeSpent" value="406393000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.18305598" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.18305598" />
       <window_info id="Structure" order="1" sideWeight="0.37333333" side_tool="true" weight="0.15405117" />
       <window_info id="Designer" order="2" />
       <window_info id="Gulp" order="3" side_tool="true" />
@@ -998,7 +1000,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48411497" weight="0.1767594" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4969743" visible="true" weight="0.39934534" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4969743" visible="true" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1256,29 +1258,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/shifumix_website.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="87" column="4" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/faq.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="316" column="42" selection-start-line="316" selection-start-column="42" selection-end-line="316" selection-end-column="42" />
+        <state relative-caret-position="146">
+          <caret line="1027" column="38" selection-start-line="1027" selection-start-column="38" selection-end-line="1027" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="328" column="23" lean-forward="true" selection-start-line="328" selection-start-column="23" selection-end-line="328" selection-end-column="23" />
+        <state relative-caret-position="122">
+          <caret line="88" column="115" selection-start-line="88" selection-start-column="115" selection-end-line="88" selection-end-column="115" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/shifumix_website.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="88" column="31" selection-start-line="88" selection-start-column="31" selection-end-line="88" selection-end-column="31" />
         </state>
       </provider>
     </entry>

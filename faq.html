@@ -33,10 +33,9 @@
 <body id="page-top">
 
 <section aria-label="Question Accordions" class="m-1 p-0">
-    <div class="w-100 text-center">
+    <div id="zone_title" class="w-100 text-center">
         <h2>Questions fréquentes</h2>
     </div>
-
 
     <div class="container">
 
@@ -1022,6 +1021,15 @@
 <!-- Custom scripts for this template -->
 <script src="js/agency.min.js"></script>
 <script src="js/shifumix_website.js"></script>
+
+<script>
+    if(getParam().title=="false"){
+        document.getElementById("zone_title").style.display="none";
+        document.getElementById("about").style.display="none";
+        document.body.style.padding="0px";
+        document.body.style.margin="0px";
+    }
+</script>
 
 </body>
 </html>
