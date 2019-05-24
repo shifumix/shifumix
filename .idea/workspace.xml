@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/faq.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/shifumix_website.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/shifumix_website.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/perso.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/perso.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -397,7 +392,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558716286420" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558716401284" />
     <property name="last_opened_file_path" value="C:/Temp/Ruby24-x64/bin/scss.bat" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -637,21 +632,7 @@
       <workItem from="1558629236908" duration="2807000" />
       <workItem from="1558645028455" duration="1547000" />
       <workItem from="1558687790372" duration="5114000" />
-      <workItem from="1558711888007" duration="4155000" />
-    </task>
-    <task id="LOCAL-00248" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1557847595395</created>
-      <option name="number" value="00248" />
-      <option name="presentableId" value="LOCAL-00248" />
-      <option name="project" value="LOCAL" />
-      <updated>1557847595395</updated>
-    </task>
-    <task id="LOCAL-00249" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1557852423830</created>
-      <option name="number" value="00249" />
-      <option name="presentableId" value="LOCAL-00249" />
-      <option name="project" value="LOCAL" />
-      <updated>1557852423831</updated>
+      <workItem from="1558711888007" duration="4409000" />
     </task>
     <task id="LOCAL-00250" summary="Mise en ligne de l'ensemble des vidéos">
       <created>1557852655830</created>
@@ -982,11 +963,25 @@
       <option name="project" value="LOCAL" />
       <updated>1558692453157</updated>
     </task>
-    <option name="localTasksCounter" value="297" />
+    <task id="LOCAL-00297" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1558716296987</created>
+      <option name="number" value="00297" />
+      <option name="presentableId" value="LOCAL-00297" />
+      <option name="project" value="LOCAL" />
+      <updated>1558716296989</updated>
+    </task>
+    <task id="LOCAL-00298" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1558716409844</created>
+      <option name="number" value="00298" />
+      <option name="presentableId" value="LOCAL-00298" />
+      <option name="project" value="LOCAL" />
+      <updated>1558716409844</updated>
+    </task>
+    <option name="localTasksCounter" value="299" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="403385000" />
+    <option name="totallyTimeSpent" value="403639000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
