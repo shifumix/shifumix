@@ -44,7 +44,7 @@ function setprofil(idxProfil) {
 
     var config="simple";
     if(type_profil=="perso")config="nightclub";
-    if(type_profil=="public")config="barwithtv";
+    if(type_profil=="public")config="simple";
     if(type_profil=="pro")config="conference";
 
     document.getElementById("iframe_tester").src = domain+"/tutoriel.html?config="+config+"&delay=30&size=150&ihm=" + type_profil;
@@ -109,7 +109,7 @@ $(document).ready(function() {
     if(getParam().profil==null){
         handle=setTimeout(function(){
             $("#myModal").modal()
-        },10000);
+        },100000);
     } else
         setprofil(getParam().profil);
 

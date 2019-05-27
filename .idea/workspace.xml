@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/faq.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shifumix_settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/shifumix_settings.json" afterDir="false" />
-    </list>
+    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +13,7 @@
     <session id="-835947693">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="165" />
+          <entry key="project.closed" value="166" />
           <entry key="project.open.time.0" value="11" />
           <entry key="project.open.time.1" value="67" />
           <entry key="project.open.time.10" value="3" />
@@ -50,7 +44,7 @@
         <counts>
           <entry key="conf" value="3" />
           <entry key="css" value="813" />
-          <entry key="html" value="23511" />
+          <entry key="html" value="23522" />
           <entry key="js" value="2174" />
           <entry key="json" value="3681" />
           <entry key="php" value="28" />
@@ -62,7 +56,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="813" />
-          <entry key="HTML" value="23511" />
+          <entry key="HTML" value="23522" />
           <entry key="JSON" value="3681" />
           <entry key="JavaScript" value="2174" />
           <entry key="PLAIN_TEXT" value="242" />
@@ -227,8 +221,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/faq.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="571">
-              <caret line="961" column="61" selection-start-line="961" selection-start-column="61" selection-end-line="961" selection-end-column="61" />
+            <state relative-caret-position="537">
+              <caret line="959" column="65" lean-forward="true" selection-start-line="959" selection-start-column="65" selection-end-line="959" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -664,14 +658,7 @@
       <workItem from="1558711888007" duration="8124000" />
       <workItem from="1558943056326" duration="3826000" />
       <workItem from="1558969316073" duration="808000" />
-      <workItem from="1558983522854" duration="1590000" />
-    </task>
-    <task id="LOCAL-00255" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1557906543600</created>
-      <option name="number" value="00255" />
-      <option name="presentableId" value="LOCAL-00255" />
-      <option name="project" value="LOCAL" />
-      <updated>1557906543600</updated>
+      <workItem from="1558983522854" duration="1805000" />
     </task>
     <task id="LOCAL-00256" summary="Mise en ligne de l'ensemble des vidéos">
       <created>1557906594355</created>
@@ -1009,11 +996,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558738439752</updated>
     </task>
-    <option name="localTasksCounter" value="304" />
+    <task id="LOCAL-00304" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1558990955611</created>
+      <option name="number" value="00304" />
+      <option name="presentableId" value="LOCAL-00304" />
+      <option name="project" value="LOCAL" />
+      <updated>1558990955612</updated>
+    </task>
+    <option name="localTasksCounter" value="305" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="414896000" />
+    <option name="totallyTimeSpent" value="415111000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1271,6 +1265,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="497" column="3" lean-forward="true" selection-start-line="497" selection-start-column="3" selection-end-line="497" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!block;n#Server#0;n#!!top" />
+            <element signature="n#!!block;n#MicroServer#0;n#!!top" />
+            <element signature="n#!!block;n#SocketServer#0;n#!!top" />
+            <element signature="n#!!block;n#Client#0;n#!!top" />
+            <element signature="n#!!block;n#Tutoriel#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1321,8 +1322,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/faq.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="571">
-          <caret line="961" column="61" selection-start-line="961" selection-start-column="61" selection-end-line="961" selection-end-column="61" />
+        <state relative-caret-position="537">
+          <caret line="959" column="65" lean-forward="true" selection-start-line="959" selection-start-column="65" selection-end-line="959" selection-end-column="65" />
         </state>
       </provider>
     </entry>
