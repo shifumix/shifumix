@@ -28,5 +28,6 @@
     <file url="file://$PROJECT_DIR$/../shifumix/www/widgets/widgetScreen.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../shifumix/www/widgets/widgetSurvey.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../shifumix/www/widgets/widgetSurveyElegant.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../shifumix/www/widgets/widgetWordCloud.html" charset="UTF-8" />
   </component>
 </project>

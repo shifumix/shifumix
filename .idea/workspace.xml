@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="" />
+    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/build/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/beta/build/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/build/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/beta/build/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/build/vendor.js" beforeDir="false" afterPath="$PROJECT_DIR$/beta/build/vendor.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +19,7 @@
     <session id="-835947693">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="166" />
+          <entry key="project.closed" value="167" />
           <entry key="project.open.time.0" value="11" />
           <entry key="project.open.time.1" value="67" />
           <entry key="project.open.time.10" value="3" />
@@ -23,7 +29,7 @@
           <entry key="project.open.time.14" value="3" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.17" value="2" />
-          <entry key="project.open.time.2" value="29" />
+          <entry key="project.open.time.2" value="30" />
           <entry key="project.open.time.21" value="2" />
           <entry key="project.open.time.23" value="2" />
           <entry key="project.open.time.25" value="1" />
@@ -32,12 +38,12 @@
           <entry key="project.open.time.4" value="8" />
           <entry key="project.open.time.46" value="1" />
           <entry key="project.open.time.48" value="1" />
-          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="4" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="176" />
+          <entry key="project.opened" value="178" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -45,7 +51,7 @@
           <entry key="conf" value="3" />
           <entry key="css" value="813" />
           <entry key="html" value="23522" />
-          <entry key="js" value="2174" />
+          <entry key="js" value="2181" />
           <entry key="json" value="3681" />
           <entry key="php" value="28" />
           <entry key="scss" value="1054" />
@@ -58,7 +64,7 @@
           <entry key="CSS" value="813" />
           <entry key="HTML" value="23522" />
           <entry key="JSON" value="3681" />
-          <entry key="JavaScript" value="2174" />
+          <entry key="JavaScript" value="2181" />
           <entry key="PLAIN_TEXT" value="242" />
           <entry key="SCSS" value="1054" />
           <entry key="XML" value="37" />
@@ -73,8 +79,8 @@
           <entry key="html" value="24" />
           <entry key="ico" value="1" />
           <entry key="jpg" value="1" />
-          <entry key="js" value="29" />
-          <entry key="json" value="32" />
+          <entry key="js" value="30" />
+          <entry key="json" value="33" />
           <entry key="php" value="4" />
           <entry key="png" value="5" />
           <entry key="rnc" value="2" />
@@ -89,8 +95,8 @@
           <entry key="CSS" value="24" />
           <entry key="HTML" value="24" />
           <entry key="Image" value="8" />
-          <entry key="JSON" value="32" />
-          <entry key="JavaScript" value="29" />
+          <entry key="JSON" value="33" />
+          <entry key="JavaScript" value="30" />
           <entry key="PLAIN_TEXT" value="10" />
           <entry key="RNG Compact" value="2" />
           <entry key="SCSS" value="32" />
@@ -193,7 +199,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
+            <state relative-caret-position="9792">
               <caret line="576" selection-start-line="576" selection-end-line="576" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -218,11 +224,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/faq.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="537">
-              <caret line="959" column="65" lean-forward="true" selection-start-line="959" selection-start-column="65" selection-end-line="959" selection-end-column="65" />
+            <state relative-caret-position="16065">
+              <caret line="945" column="49" selection-start-line="945" selection-start-column="49" selection-end-line="945" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/shifumix_website.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="46" column="43" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="91" column="24" selection-start-line="91" selection-start-column="24" selection-end-line="91" selection-end-column="24" />
+              <folding>
+                <element signature="n#!!block;n#Server#0;n#!!top" />
+                <element signature="n#!!block;n#SocketServer#0;n#!!top" />
+                <element signature="n#!!block;n#Client#0;n#!!top" />
+                <element signature="n#!!block;n#Tutoriel#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -334,10 +364,10 @@
         <option value="$PROJECT_DIR$/scss/agency.scss" />
         <option value="$PROJECT_DIR$/scss/perso.css" />
         <option value="$PROJECT_DIR$/scss/perso.scss" />
-        <option value="$PROJECT_DIR$/js/shifumix_website.js" />
         <option value="$PROJECT_DIR$/shifumix_settings.json" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/faq.html" />
+        <option value="$PROJECT_DIR$/js/shifumix_website.js" />
       </list>
     </option>
   </component>
@@ -379,6 +409,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -397,12 +428,16 @@
               <item name="beta" type="462c0819:PsiDirectoryNode" />
               <item name="build" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="shifumixWebSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shifumixWebSite" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -659,13 +694,8 @@
       <workItem from="1558943056326" duration="3826000" />
       <workItem from="1558969316073" duration="808000" />
       <workItem from="1558983522854" duration="1805000" />
-    </task>
-    <task id="LOCAL-00256" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1557906594355</created>
-      <option name="number" value="00256" />
-      <option name="presentableId" value="LOCAL-00256" />
-      <option name="project" value="LOCAL" />
-      <updated>1557906594355</updated>
+      <workItem from="1558991027458" duration="141000" />
+      <workItem from="1559021375858" duration="2492000" />
     </task>
     <task id="LOCAL-00257" summary="Mise en ligne de l'ensemble des vidéos">
       <created>1557911856714</created>
@@ -1003,17 +1033,23 @@
       <option name="project" value="LOCAL" />
       <updated>1558990955612</updated>
     </task>
-    <option name="localTasksCounter" value="305" />
+    <task id="LOCAL-00305" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1558991084971</created>
+      <option name="number" value="00305" />
+      <option name="presentableId" value="LOCAL-00305" />
+      <option name="project" value="LOCAL" />
+      <updated>1558991084971</updated>
+    </task>
+    <option name="localTasksCounter" value="306" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="415111000" />
+    <option name="totallyTimeSpent" value="417744000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.17537314" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.17857143" />
       <window_info id="Structure" order="1" sideWeight="0.37333333" side_tool="true" weight="0.15405117" />
       <window_info id="Designer" order="2" />
       <window_info id="Gulp" order="3" side_tool="true" />
@@ -1247,13 +1283,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/shifumix_website.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="87" column="4" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/phrase.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1155">
@@ -1261,23 +1290,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="497" column="3" lean-forward="true" selection-start-line="497" selection-start-column="3" selection-end-line="497" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!block;n#Server#0;n#!!top" />
-            <element signature="n#!!block;n#MicroServer#0;n#!!top" />
-            <element signature="n#!!block;n#SocketServer#0;n#!!top" />
-            <element signature="n#!!block;n#Client#0;n#!!top" />
-            <element signature="n#!!block;n#Tutoriel#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
+        <state relative-caret-position="9792">
           <caret line="576" selection-start-line="576" selection-end-line="576" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1296,6 +1311,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="986">
           <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faq.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16065">
+          <caret line="945" column="49" selection-start-line="945" selection-start-column="49" selection-end-line="945" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -1320,10 +1342,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/faq.html">
+    <entry file="file://$PROJECT_DIR$/js/shifumix_website.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="959" column="65" lean-forward="true" selection-start-line="959" selection-start-column="65" selection-end-line="959" selection-end-column="65" />
+        <state relative-caret-position="248">
+          <caret line="46" column="43" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="91" column="24" selection-start-line="91" selection-start-column="24" selection-end-line="91" selection-end-column="24" />
+          <folding>
+            <element signature="n#!!block;n#Server#0;n#!!top" />
+            <element signature="n#!!block;n#SocketServer#0;n#!!top" />
+            <element signature="n#!!block;n#Client#0;n#!!top" />
+            <element signature="n#!!block;n#Tutoriel#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
