@@ -4,7 +4,6 @@
     <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beta/build/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/beta/build/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/beta/build/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/beta/build/main.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -690,21 +689,7 @@
       <workItem from="1558991027458" duration="141000" />
       <workItem from="1559021375858" duration="2514000" />
       <workItem from="1559087525267" duration="616000" />
-      <workItem from="1559117951683" duration="3317000" />
-    </task>
-    <task id="LOCAL-00259" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1558002509164</created>
-      <option name="number" value="00259" />
-      <option name="presentableId" value="LOCAL-00259" />
-      <option name="project" value="LOCAL" />
-      <updated>1558002509165</updated>
-    </task>
-    <task id="LOCAL-00260" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1558015394928</created>
-      <option name="number" value="00260" />
-      <option name="presentableId" value="LOCAL-00260" />
-      <option name="project" value="LOCAL" />
-      <updated>1558015394929</updated>
+      <workItem from="1559117951683" duration="4531000" />
     </task>
     <task id="LOCAL-00261" summary="Mise en ligne de l'ensemble des vidéos">
       <created>1558076060288</created>
@@ -1035,11 +1020,25 @@
       <option name="project" value="LOCAL" />
       <updated>1559140685183</updated>
     </task>
-    <option name="localTasksCounter" value="308" />
+    <task id="LOCAL-00308" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1559211987151</created>
+      <option name="number" value="00308" />
+      <option name="presentableId" value="LOCAL-00308" />
+      <option name="project" value="LOCAL" />
+      <updated>1559211987151</updated>
+    </task>
+    <task id="LOCAL-00309" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1559215399051</created>
+      <option name="number" value="00309" />
+      <option name="presentableId" value="LOCAL-00309" />
+      <option name="project" value="LOCAL" />
+      <updated>1559215399051</updated>
+    </task>
+    <option name="localTasksCounter" value="310" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="421699000" />
+    <option name="totallyTimeSpent" value="422913000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="7" />
