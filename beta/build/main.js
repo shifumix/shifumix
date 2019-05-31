@@ -2058,11 +2058,10 @@ var SeleventPage = /** @class */ (function () {
             var p2 = vm.map.getBounds().getNorthEast();
             var p1 = vm.map.getBounds().getSouthWest();
             var d = Math.abs(p2.lat() - p1.lat()) + Math.abs(p2.lng() - p1.lng());
-            if (d < 0.1) {
+            if (d < 0.0000001) {
                 Maintools_1.$$("La zone de carte est trop petite (" + d + ") pour faire une recherche");
                 return;
             }
-            debugger;
             //On considere que l'utilisateur se déplace avec la carte
             this.userData.user.lat = vm.map.getCenter().lat();
             this.userData.user.lng = vm.map.getCenter().lng();
