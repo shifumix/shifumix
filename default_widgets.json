@@ -1,0 +1,17 @@
+{
+  "widgets":[
+    {
+      "title":"Le dernier message en StreetArt",
+      "picture":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Emoji_u270d.svg/48px-Emoji_u270d.svg.png",
+      "name":"lasttweet",
+      "description":"le dernier message partagé en affichage type StreetArt",
+      "teaser":null,
+      "code":"widgetLastTweet.html",
+      "activities":"message",
+      "public":true,
+      "owner":"root",
+      "preview":null,
+      "score":15
+    }
+  ]
+}
