@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/default_widgets.json" afterDir="false" />
+    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="Mise en ligne de l'ensemble des vidéos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/build/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/beta/build/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/build/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/beta/build/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/build/vendor.js" beforeDir="false" afterPath="$PROJECT_DIR$/beta/build/vendor.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -242,8 +244,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="82" column="20" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
+            <state relative-caret-position="442">
+              <caret line="496" column="13" selection-start-line="496" selection-start-column="13" selection-end-line="496" selection-end-column="13" />
               <folding>
                 <element signature="n#!!block;n#Server#0;n#!!top" />
                 <element signature="n#!!block;n#SocketServer#0;n#!!top" />
@@ -392,8 +394,8 @@
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="58" />
-    <option name="y" value="104" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -678,21 +680,7 @@
       <workItem from="1558991027458" duration="141000" />
       <workItem from="1559021375858" duration="2514000" />
       <workItem from="1559087525267" duration="616000" />
-      <workItem from="1559117951683" duration="5865000" />
-    </task>
-    <task id="LOCAL-00262" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1558076382408</created>
-      <option name="number" value="00262" />
-      <option name="presentableId" value="LOCAL-00262" />
-      <option name="project" value="LOCAL" />
-      <updated>1558076382408</updated>
-    </task>
-    <task id="LOCAL-00263" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1558076493281</created>
-      <option name="number" value="00263" />
-      <option name="presentableId" value="LOCAL-00263" />
-      <option name="project" value="LOCAL" />
-      <updated>1558076493281</updated>
+      <workItem from="1559117951683" duration="7720000" />
     </task>
     <task id="LOCAL-00264" summary="Mise en ligne de l'ensemble des vidéos">
       <created>1558077519186</created>
@@ -1023,11 +1011,25 @@
       <option name="project" value="LOCAL" />
       <updated>1559242398215</updated>
     </task>
-    <option name="localTasksCounter" value="311" />
+    <task id="LOCAL-00311" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1559280644907</created>
+      <option name="number" value="00311" />
+      <option name="presentableId" value="LOCAL-00311" />
+      <option name="project" value="LOCAL" />
+      <updated>1559280644907</updated>
+    </task>
+    <task id="LOCAL-00312" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1559282080531</created>
+      <option name="number" value="00312" />
+      <option name="presentableId" value="LOCAL-00312" />
+      <option name="project" value="LOCAL" />
+      <updated>1559282080531</updated>
+    </task>
+    <option name="localTasksCounter" value="313" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="424247000" />
+    <option name="totallyTimeSpent" value="426102000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1338,8 +1340,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="82" column="20" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
+        <state relative-caret-position="442">
+          <caret line="496" column="13" selection-start-line="496" selection-start-column="13" selection-end-line="496" selection-end-column="13" />
           <folding>
             <element signature="n#!!block;n#Server#0;n#!!top" />
             <element signature="n#!!block;n#SocketServer#0;n#!!top" />
