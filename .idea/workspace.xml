@@ -15,9 +15,9 @@
     <session id="-835947693">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="170" />
+          <entry key="project.closed" value="172" />
           <entry key="project.open.time.0" value="11" />
-          <entry key="project.open.time.1" value="67" />
+          <entry key="project.open.time.1" value="68" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="7" />
           <entry key="project.open.time.12" value="5" />
@@ -27,6 +27,7 @@
           <entry key="project.open.time.17" value="3" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="30" />
+          <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.21" value="2" />
           <entry key="project.open.time.23" value="2" />
           <entry key="project.open.time.25" value="1" />
@@ -40,7 +41,7 @@
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="4" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="181" />
+          <entry key="project.opened" value="183" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -678,14 +679,9 @@
       <workItem from="1559021375858" duration="2514000" />
       <workItem from="1559087525267" duration="616000" />
       <workItem from="1559117951683" duration="10155000" />
-      <workItem from="1559375103372" duration="2062000" />
-    </task>
-    <task id="LOCAL-00267" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1558105312029</created>
-      <option name="number" value="00267" />
-      <option name="presentableId" value="LOCAL-00267" />
-      <option name="project" value="LOCAL" />
-      <updated>1558105312029</updated>
+      <workItem from="1559375103372" duration="2670000" />
+      <workItem from="1559464089561" duration="929000" />
+      <workItem from="1559481578857" duration="40000" />
     </task>
     <task id="LOCAL-00268" summary="Mise en ligne de l'ensemble des vidéos">
       <created>1558105732228</created>
@@ -1023,17 +1019,24 @@
       <option name="project" value="LOCAL" />
       <updated>1559325733994</updated>
     </task>
-    <option name="localTasksCounter" value="316" />
+    <task id="LOCAL-00316" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1559386035921</created>
+      <option name="number" value="00316" />
+      <option name="presentableId" value="LOCAL-00316" />
+      <option name="project" value="LOCAL" />
+      <updated>1559386035922</updated>
+    </task>
+    <option name="localTasksCounter" value="317" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="430599000" />
+    <option name="totallyTimeSpent" value="432176000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.18336888" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.18763326" />
       <window_info id="Structure" order="1" sideWeight="0.37333333" side_tool="true" weight="0.15405117" />
       <window_info id="Designer" order="2" />
       <window_info id="Gulp" order="3" side_tool="true" />
@@ -1054,7 +1057,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Application Servers" order="11" sideWeight="0.49733475" weight="0.4377778" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49554655" weight="0.32986626" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5165245" side_tool="true" visible="true" weight="0.17666666" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="13" sideWeight="0.5165245" side_tool="true" visible="true" weight="0.17666666" />
       <window_info anchor="bottom" id="Bitbucket Issues" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1075,6 +1078,136 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/story/story.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifubet/shifubet.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/svgedit/svgedit.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/presentations/presentations.module.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/musiccharts/musiccharts.module.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/customercommand/customercommand.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pipes/order-by/order-by.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifuevent/shifuevent.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/term-of-use/term-of-use.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/directives/directives.module.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifucheckbox/shifucheckbox.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/preparecommand/preparecommand.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifuflyer/shifuflyer.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifugallery/shifugallery.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/about-popover/about-popover.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/providers/configuration/configuration.service.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifudate/shifudate.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifuflyer/shifuflyer.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/svgedit/svgedit.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifubuttongroup/shifubuttongroup.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifuimageprofil/shifuimageprofil.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifuprofil/shifuprofil.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/app/main.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/app/main.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/addpresentation/addpresentation.module.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/providers/configuration/configuration.service.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pipes/filter/filter.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/photos/photos.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/modalbet/modalbet.module.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/components.module.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/addloterie/addloterie.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifucard/shifucard.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/addloterie/addloterie.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/customercommand/customercommand.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/teams/teams.module.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifuimagefile/shifuimagefile.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/directives/focusme/focusme.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifubutton/shifubutton.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifucard/shifucard.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/modalbet/modalbet.module.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/home/home.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/preparecommand/preparecommand.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/welcome/welcome.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifutimer/shifutimer.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifufile/shifufile.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/wholikeme/wholikeme.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/remote/remote.module.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifunumpad/shifunumpad.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pipes/filter/filter.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/addpresentation/addpresentation.module.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/bets/bets.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/home/home.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/app/app.module.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/oldevents/oldevents.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifugroup/shifugroup.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifutitle/shifutitle.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/remote/remote.module.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifuwait/shifuwait.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/charts/charts.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/components.module.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifuad/shifuad.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifufile/shifufile.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifunumpad/shifunumpad.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifucamera/shifucamera.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pipes/safe/safe.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/search/search.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifutitle/shifutitle.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/messages/messages.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/oldevents/oldevents.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/bets/bets.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pipes/safe/safe.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifuinput/shifuinput.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifuevent/shifuevent.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pipes/pipes.module.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifugroup/shifugroup.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifubuttongroup/shifubuttongroup.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifubet/shifubet.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/board/board.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/teams/teams.module.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifuimageprofil/shifuimageprofil.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifulabel/shifulabel.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/story/story.module.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifurange/shifurange.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/modalbet/modalbet.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/story/story.module.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifulabel/shifulabel.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/search/search.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifurange/shifurange.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifutimer/shifutimer.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifuprofil/shifuprofil.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifuimagefile/shifuimagefile.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifucamera/shifucamera.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/tuto/tuto.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifuad/shifuad.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifudate/shifudate.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/presentations/presentations.module.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/app/app.component.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pipes/pipes.module.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/photos/photos.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifugallery/shifugallery.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifunote/shifunote.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/board/board.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/welcome/welcome.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/modalbet/modalbet.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/interfaces/user-options.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/about/about.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/story/story.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pipes/order-by/order-by.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifubutton/shifubutton.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifunote/shifunote.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/wholikeme/wholikeme.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/app/app.module.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/interfaces/user-options.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/app/app.component.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/messages/messages.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/directives/directives.module.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/charts/charts.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/term-of-use/term-of-use.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/directives/focusme/focusme.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/about/about.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/musiccharts/musiccharts.module.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifuwait/shifuwait.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifucheckbox/shifucheckbox.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/shifuinput/shifuinput.js.map" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/components/tuto/tuto.js" />
+        <option value="$PROJECT_DIR$/../shifumixClient/.tmp/src/pages/about-popover/about-popover.js" />
+      </list>
+    </option>
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
