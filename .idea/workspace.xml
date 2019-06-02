@@ -681,14 +681,7 @@
       <workItem from="1559117951683" duration="10155000" />
       <workItem from="1559375103372" duration="2670000" />
       <workItem from="1559464089561" duration="929000" />
-      <workItem from="1559481578857" duration="40000" />
-    </task>
-    <task id="LOCAL-00268" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1558105732228</created>
-      <option name="number" value="00268" />
-      <option name="presentableId" value="LOCAL-00268" />
-      <option name="project" value="LOCAL" />
-      <updated>1558105732228</updated>
+      <workItem from="1559481578857" duration="1418000" />
     </task>
     <task id="LOCAL-00269" summary="Mise en ligne de l'ensemble des vidéos">
       <created>1558105809856</created>
@@ -1026,14 +1019,21 @@
       <option name="project" value="LOCAL" />
       <updated>1559386035922</updated>
     </task>
-    <option name="localTasksCounter" value="317" />
+    <task id="LOCAL-00317" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1559481804189</created>
+      <option name="number" value="00317" />
+      <option name="presentableId" value="LOCAL-00317" />
+      <option name="project" value="LOCAL" />
+      <updated>1559481804190</updated>
+    </task>
+    <option name="localTasksCounter" value="318" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="432176000" />
+    <option name="totallyTimeSpent" value="433554000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.18763326" />
