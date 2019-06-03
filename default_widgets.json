@@ -25,6 +25,19 @@
       "owner":"root",
       "preview":null,
       "score":12
+    },
+    {
+      "title":"La salle des enchêres",
+      "picture":"https://shifumixweb.appspot.com/assets/img/auction01.jpg",
+      "name":"auction",
+      "description":"Affichage des enchère en cours",
+      "teaser":null,
+      "code":"widgetAuctionInSitu.html",
+      "activities":"loterie",
+      "public":true,
+      "owner":"root",
+      "preview":null,
+      "score":13
     }
   ]
 }
