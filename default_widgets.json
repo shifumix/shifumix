@@ -12,6 +12,19 @@
       "owner":"root",
       "preview":null,
       "score":15
+    },
+    {
+      "title":"Des enchères",
+      "picture":"https://shifumixweb.appspot.com/assets/img/auction01.jpg",
+      "name":"auction",
+      "description":"Affichage des enchère en cours",
+      "teaser":null,
+      "code":"widgetAuction.html",
+      "activities":"loterie",
+      "public":true,
+      "owner":"root",
+      "preview":null,
+      "score":12
     }
   ]
 }

@@ -94,7 +94,8 @@
       }
   },
   
-  "SocketServer":{
+  "SocketServer":
+  {
     "version":"1.0.0",
     "myAddress":"https://server.f80.fr",
     "port":4567,
