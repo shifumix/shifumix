@@ -38,6 +38,19 @@
       "owner":"root",
       "preview":null,
       "score":13
+    },
+    {
+      "title":"French Web Booster",
+      "picture":"https://raw.githubusercontent.com/f80dev/frenchwebbooster/master/frenchEventBooster.png",
+      "name":"FrenchEventBooster",
+      "description":"Widget dédié à FrenchEventBooster",
+      "teaser":"Des photos, des messages, des playlist pour FrenchEventBooster",
+      "code":"https://raw.githubusercontent.com/f80dev/frenchwebbooster/master/widgetFrenchEventBooster.html",
+      "activities":"message,photo,music",
+      "public":true,
+      "owner":"root",
+      "preview":null,
+      "score":8
     }
   ]
 }
