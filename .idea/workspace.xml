@@ -4,10 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/faq.html" line="983" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +16,7 @@
     <session id="-835947693">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="187" />
+          <entry key="project.closed" value="188" />
           <entry key="project.open.time.0" value="11" />
           <entry key="project.open.time.1" value="69" />
           <entry key="project.open.time.10" value="3" />
@@ -204,8 +201,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="773">
-              <caret line="235" column="50" lean-forward="true" selection-start-line="235" selection-start-column="50" selection-end-line="235" selection-end-column="50" />
+            <state relative-caret-position="127">
+              <caret line="197" lean-forward="true" selection-start-line="197" selection-end-line="197" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -293,7 +290,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Quels ser</find>
       <find>Sur l'écran de &quot;jeux&quot;</find>
       <find>&quot;jeux&quot;</find>
       <find>Comment partic</find>
@@ -323,6 +319,7 @@
       <find>video</find>
       <find>trouvés</find>
       <find>.SVG</find>
+      <find>loterie</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;div</replace>
@@ -400,7 +397,7 @@
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -707,14 +704,7 @@
       <workItem from="1560805276780" duration="189000" />
       <workItem from="1560832174929" duration="1940000" />
       <workItem from="1560869218267" duration="2353000" />
-      <workItem from="1560892765769" duration="978000" />
-    </task>
-    <task id="LOCAL-00286" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1558511014153</created>
-      <option name="number" value="00286" />
-      <option name="presentableId" value="LOCAL-00286" />
-      <option name="project" value="LOCAL" />
-      <updated>1558511014154</updated>
+      <workItem from="1560892765769" duration="1760000" />
     </task>
     <task id="LOCAL-00287" summary="Mise en ligne de l'ensemble des vidéos">
       <created>1558515859150</created>
@@ -1052,11 +1042,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560898232649</updated>
     </task>
-    <option name="localTasksCounter" value="335" />
+    <task id="LOCAL-00335" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1560898277042</created>
+      <option name="number" value="00335" />
+      <option name="presentableId" value="LOCAL-00335" />
+      <option name="project" value="LOCAL" />
+      <updated>1560898277042</updated>
+    </task>
+    <option name="localTasksCounter" value="336" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="465391000" />
+    <option name="totallyTimeSpent" value="466173000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1497,8 +1494,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="773">
-          <caret line="235" column="50" lean-forward="true" selection-start-line="235" selection-start-column="50" selection-end-line="235" selection-end-column="50" />
+        <state relative-caret-position="127">
+          <caret line="197" lean-forward="true" selection-start-line="197" selection-end-line="197" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
