@@ -92,6 +92,7 @@ function playTuto(evt){
 }
 
 $(document).ready(function() {
+
     var ua=navigator.userAgent.toLowerCase();
     if(ua.indexOf("android")>-1){
         if(location.href.indexOf("#")>-1){
