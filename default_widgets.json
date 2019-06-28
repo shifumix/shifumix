@@ -14,6 +14,19 @@
       "score":15
     },
     {
+      "title":"loterie",
+      "picture":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Emojione1_1F3B2.svg/48px-Emojione1_1F3B2.svg.png",
+      "name":"loterie",
+      "description":"une loterie en temps réel",
+      "teaser":"le lot et le nombre de joueurs",
+      "code":"widgetLoterie.html",
+      "activities":"loterie",
+      "public":true,
+      "owner":"root",
+      "preview":null,
+      "score":11
+    },
+    {
       "title":"Des enchères",
       "picture":"https://shifumixweb.appspot.com/assets/img/auction01.jpg",
       "name":"auction",
