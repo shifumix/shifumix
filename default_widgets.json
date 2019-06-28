@@ -53,6 +53,7 @@
       "score":13
     },
     {
+      "online":false,
       "title":"French Web Booster",
       "picture":"https://raw.githubusercontent.com/f80dev/frenchwebbooster/master/frenchEventBooster.png",
       "name":"FrenchEventBooster",
