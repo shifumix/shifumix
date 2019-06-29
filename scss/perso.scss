@@ -79,17 +79,18 @@ bg-primary {
 
 .typewriter h1 {
   color: white;
-  font-size:3vw;
-  font-weight: lighter;
+  font-size:4vw;
+  font-weight: bolder;
   cursor: pointer;
-  overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: .05em solid white; /* The typwriter cursor */
-  white-space: nowrap; /* Keeps the content on a single line */
-  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
-  letter-spacing: .05em; /* Adjust as needed */
+  overflow: hidden;
+  border-right: .05em solid white;
+  white-space: nowrap;
+  margin: 0 auto;
+  letter-spacing: .05em;
   animation:
-          typing 3s steps(25, end),
+          typing 5s steps(25, end),
           blink-caret 1s step-end infinite;
+
 }
 
 /* The typing effect */
