@@ -43,7 +43,7 @@ function setprofil(idxProfil) {
     }
 
     var config="simple";
-    if(type_profil=="perso")config="nightclub";
+    if(type_profil=="perso")config="simple";
     if(type_profil=="public")config="simple";
     if(type_profil=="pro")config="conference";
 

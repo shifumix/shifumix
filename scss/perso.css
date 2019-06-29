@@ -69,7 +69,7 @@ bg-primary {
   white-space: nowrap;
   margin: 0 auto;
   letter-spacing: .05em;
-  animation: typing 5s steps(25, end), blink-caret 1s step-end infinite; }
+  animation: typing 6s steps(25, end), blink-caret 1s step-end infinite; }
 
 /* The typing effect */
 @keyframes typing {
