@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="" />
+    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beta/build/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/beta/build/main.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +16,7 @@
     <session id="-835947693">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="197" />
+          <entry key="project.closed" value="198" />
           <entry key="project.open.time.0" value="12" />
           <entry key="project.open.time.1" value="72" />
           <entry key="project.open.time.10" value="3" />
@@ -200,8 +203,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="157" column="56" selection-start-line="157" selection-start-column="56" selection-end-line="157" selection-end-column="56" />
+            <state relative-caret-position="299">
+              <caret line="173" column="23" selection-start-line="173" selection-start-column="23" selection-end-line="173" selection-end-column="23" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -302,7 +305,6 @@
       <find>faq</find>
       <find>video</find>
       <find>trouvés</find>
-      <find>.SVG</find>
       <find>loterie</find>
       <find>blog_url</find>
       <find>feedback</find>
@@ -314,6 +316,7 @@
       <find>pres.</find>
       <find>tarif</find>
       <find>loterie.svg</find>
+      <find>.SVG</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;div</replace>
@@ -393,7 +396,7 @@
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -721,14 +724,7 @@
       <workItem from="1561883915338" duration="595000" />
       <workItem from="1561885742054" duration="285000" />
       <workItem from="1561886097003" duration="599000" />
-      <workItem from="1562312210509" duration="1703000" />
-    </task>
-    <task id="LOCAL-00301" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1558719369524</created>
-      <option name="number" value="00301" />
-      <option name="presentableId" value="LOCAL-00301" />
-      <option name="project" value="LOCAL" />
-      <updated>1558719369524</updated>
+      <workItem from="1562312210509" duration="3397000" />
     </task>
     <task id="LOCAL-00302" summary="Mise en ligne de l'ensemble des vidéos">
       <created>1558720063902</created>
@@ -1066,17 +1062,24 @@
       <option name="project" value="LOCAL" />
       <updated>1562331035623</updated>
     </task>
-    <option name="localTasksCounter" value="350" />
+    <task id="LOCAL-00350" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1562332227100</created>
+      <option name="number" value="00350" />
+      <option name="presentableId" value="LOCAL-00350" />
+      <option name="project" value="LOCAL" />
+      <updated>1562332227100</updated>
+    </task>
+    <option name="localTasksCounter" value="351" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="484113000" />
+    <option name="totallyTimeSpent" value="485807000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.14765458" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.14765458" />
       <window_info id="Structure" order="1" sideWeight="0.37333333" side_tool="true" weight="0.15405117" />
       <window_info id="Designer" order="2" />
       <window_info id="Gulp" order="3" side_tool="true" />
@@ -1097,7 +1100,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Application Servers" order="11" sideWeight="0.49733475" weight="0.4377778" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49554655" weight="0.32986626" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5181237" side_tool="true" visible="true" weight="0.17666666" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="13" sideWeight="0.5181237" side_tool="true" visible="true" weight="0.17666666" />
       <window_info anchor="bottom" id="Bitbucket Issues" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1463,8 +1466,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="157" column="56" selection-start-line="157" selection-start-column="56" selection-end-line="157" selection-end-column="56" />
+        <state relative-caret-position="299">
+          <caret line="173" column="23" selection-start-line="173" selection-start-column="23" selection-end-line="173" selection-end-column="23" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
