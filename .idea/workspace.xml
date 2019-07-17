@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +15,7 @@
         <counts>
           <entry key="project.closed" value="200" />
           <entry key="project.open.time.0" value="13" />
-          <entry key="project.open.time.1" value="73" />
+          <entry key="project.open.time.1" value="74" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="7" />
           <entry key="project.open.time.12" value="5" />
@@ -46,7 +44,7 @@
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="4" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="213" />
+          <entry key="project.opened" value="214" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -203,7 +201,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="561">
-              <caret line="41" column="26" lean-forward="true" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+              <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -409,6 +407,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -431,8 +431,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -726,13 +724,7 @@
       <workItem from="1562312210509" duration="3397000" />
       <workItem from="1562530649106" duration="192000" />
       <workItem from="1563210774866" duration="167000" />
-    </task>
-    <task id="LOCAL-00304" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1558990955611</created>
-      <option name="number" value="00304" />
-      <option name="presentableId" value="LOCAL-00304" />
-      <option name="project" value="LOCAL" />
-      <updated>1558990955612</updated>
+      <workItem from="1563379179378" duration="617000" />
     </task>
     <task id="LOCAL-00305" summary="Mise en ligne de l'ensemble des vidéos">
       <created>1558991084971</created>
@@ -1070,17 +1062,23 @@
       <option name="project" value="LOCAL" />
       <updated>1563210866671</updated>
     </task>
-    <option name="localTasksCounter" value="353" />
+    <task id="LOCAL-00353" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1563379194603</created>
+      <option name="number" value="00353" />
+      <option name="presentableId" value="LOCAL-00353" />
+      <option name="project" value="LOCAL" />
+      <updated>1563379194605</updated>
+    </task>
+    <option name="localTasksCounter" value="354" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="486166000" />
+    <option name="totallyTimeSpent" value="486783000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.15085287" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.15245202" />
       <window_info id="Structure" order="1" sideWeight="0.37333333" side_tool="true" weight="0.15405117" />
       <window_info id="Designer" order="2" />
       <window_info id="Gulp" order="3" side_tool="true" />
@@ -1468,7 +1466,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
-          <caret line="41" column="26" lean-forward="true" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
