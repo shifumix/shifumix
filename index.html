@@ -31,6 +31,7 @@
 
         gtag('config', 'UA-132470601-1');
     </script>
+
 </head>
 
 <style>
@@ -95,21 +96,15 @@
 
 
 <section class="m-0 p-0"  id="intro">
-    <div id="carouselExampleSlidesOnly"
-         class="carousel-fade slide"
-         data-ride="carousel" data-interval="6000">
+    <div id="carouselExampleSlidesOnly" class="carousel-fade slide" data-ride="carousel" data-interval="10000">
         <div class="carousel-inner">
-            <div class="carousel-item active" id="slide1">
+            <div class="carousel-item active" id="slide1" data-tag="perso,public">
                 <img class="image-slide" src="/img/portfolio/iwall.webp">
                 <div class="carousel-caption carousel-center">
                     <div class="carousel-title">Avec Shifumix, vos invités sont les photographes de la soirée</div>
-                    <a href="javascript:openScreen('cube')">
-                        <h1>
-                            <strong>photo</strong>.shifumix.com
-                        </h1>
-                    </a>
-
-
+                    <div style="margin-top:18vh;width: 100%;" class="typewriter" onclick="openScreen('photoshow')">
+                        <h1><strong>photo</strong>.shifumix.com</h1>
+                    </div>
                 </div>
             </div>
 
@@ -117,28 +112,22 @@
                 <img class="image-slide" src="./img/portfolio/yourthedj.jpg">
                 <div class="carousel-caption carousel-center">
                     <div class="carousel-title">Tous vos participants sont les DJs</div>
-                    <a href="javascript:openScreen('music')">
-                        <h1>
-                            <strong>music</strong>.shifumix.com
-                        </h1>
-                    </a>
 
+                    <div style="margin-top:18vh;" class="typewriter" onclick="openScreen('playlist_elegant')">
+                        <h1>music.shifumix.com</h1>
+                    </div>
                 </div>
             </div>
 
 
-            <div class="carousel-item" id="slide3">
+            <div class="carousel-item" id="slide3" data-tag="perso,public">
                 <img class="image-slide" src="./img/portfolio/sharemessage.webp">
                 <div class="carousel-caption carousel-center">
                     <div class="carousel-title">Avec Shifumix, vos invités partagent des messages</div>
 
-<!--                    <a class="start-link" href="javascript:openScreen('message_cursor')">-->
-<!--                        message.shifumix.com-->
-<!--                    </a>-->
-<!--                    -->
-                    <a href="javascript:openScreen('pelemele')">
-                        <h1><strong>pelemele</strong>.shifumix.com</h1>
-                    </a>
+                    <div style="margin-top:18vh;" class="typewriter" onclick="openScreen('message_cursor')">
+                        <h1>message.shifumix.com</h1>
+                    </div>
 
 
                 </div>
@@ -158,9 +147,9 @@
                 <div class="carousel-caption carousel-center">
                     <div class="carousel-title">Vos clients commandent vos articles depuis leur téléphone</div>
 
-                    <a href="javascript:openScreen('command')">
-                        <h1>command.shifumix.com</h1>
-                    </a>
+                    <div style="margin-top:18vh;" class="typewriter" onclick="openScreen('CommandDistance')">
+                        <h1>commandes.shifumix.com</h1>
+                    </div>
 
 
                 </div>
@@ -170,9 +159,11 @@
                 <img class="image-slide" src="./img/portfolio/brainstorm.jpg">
                 <div class="carousel-caption carousel-center">
                     <div class="carousel-title">Shifumix transforme n'importe quel écran en paperboard</div>
-                    <a href="javascript:openScreen('pelemeleTexture')">
-                        <h1><strong>paperboard</strong>.shifumix.com</h1>
-                    </a>
+
+                    <div style="margin-top:18vh;" class="typewriter" onclick="openScreen('pelemeleTexture')">
+                        <h1>paper.shifumix.com</h1>
+                    </div>
+
 
                 </div>
             </div>
@@ -181,14 +172,9 @@
                 <img class="image-slide" src="./img/portfolio/presentation.jpg">
                 <div class="carousel-caption carousel-center">
                     <div class="carousel-title">Organisez les présentations en temps réel</div>
-                </div>
-            </div>
-
-            <div class="carousel-item" id="slide12" data-tag="perso,pro,public">
-                <img class="image-slide" src="./img/portfolio/gratuit.jpg">
-                <div class="carousel-caption carousel-center" >
-                    <div class="carousel-title">Shifumix repesct l'anonymat, est gratuit et sans publicité</div>
-                    <a class="start-link" href="javascript:openScreen(12)">Start</a>
+                    <div style="margin-top:18vh;" class="typewriter" onclick="openScreen('presentation')">
+                        <h1>slide.shifumix.com</h1>
+                    </div>
                 </div>
             </div>
 
@@ -196,9 +182,24 @@
                 <img class="image-slide" src="./img/portfolio/auction.jpg">
                 <div class="carousel-caption carousel-center" >
                     <div class="carousel-title">Organiser vos propres enchères en quelques clics</div>
-                    <a class="btn btn-start  btn-primary " href="javascript:openScreen('auction')">Start</a>
+
+                    <div style="margin-top:18vh;" class="typewriter" onclick="openScreen('auction')">
+                        <h1>enchere.shifumix.com</h1>
+                    </div>
+
                 </div>
             </div>
+
+
+            <div class="carousel-item" id="slide12" data-tag="perso,pro,public">
+                <img class="image-slide" src="./img/portfolio/gratuit.jpg">
+                <div class="carousel-caption carousel-center" >
+                    <div class="carousel-title">Shifumix respecte l'anonymat, est gratuit et sans publicité</div>
+                    <a class="btn btn-start  btn-primary " href="javascript:openScreen(12)">Start</a>
+                </div>
+            </div>
+
+
         </div>
     </div>
 </section>
@@ -230,7 +231,7 @@
     <!--Services réservés plutôt aux bars et particuliers-->
     <div name="services" class="container text-center" data-tag="perso,public">
         <span class="section-heading section-title">Services</span>
-        <p>Shifumix offre de nombreux service pour renforcer l'interractivité de vos événements</p>
+        <p class="p-text">Shifumix offre de nombreux service pour renforcer l'interractivité de vos événements</p>
         <br><br>
 
         <div class="row text-center">
@@ -253,8 +254,10 @@
                     </span>
                 </a>
                 <h4 class="service-heading">Photos &amp; Messages</h4>
-                <p class="text-muted text-service">Tout le monde partage des photos ou des messages. Les photos sont affichées sur les écrans partagés.
-                    <br>
+                <p class="text-muted text-service">
+                    Tout le monde partage des photos ou des messages. Les photos sont affichées sur les écrans partagés.
+                </p>
+                <p class="text-muted text-service d-none d-lg-block">
                     Les votes sur les photos permettent d'établir le classement du meilleur photographe.
                 </p>
             </div>
@@ -265,9 +268,11 @@
                     <i class="fas fa-dice fa-stack-1x fa-inverse"></i>
             </span>
 
-                <h4 class="service-heading">Jeux &amp; sondage</h4>
-                <p class="text-muted text-service">Organisez des paris, des sondages, des battles, des enchères, des loteries en quelques clics.
-                    <br>
+                <h4 class="service-heading">Jeux</h4>
+                <p class="text-muted text-service">
+                    Organisez des paris, des sondages, des battles, des enchères, des loteries en quelques clics.
+                </p>
+                <p class="text-muted text-service d-none d-lg-block">
                     Shifumix gère une monnaie virtuelle pour les mises, affiche le classement en individuel ou par équipe</p>
             </div>
         </div>
@@ -439,8 +444,10 @@
         <div class="row">
             <div class="col-sm text-center" style="padding:1%">
                 <span class="section-heading section-title">Tarifs</span><br>
-                <p class="p-text">
-                    L'usage de Shifumix est <span class="text-primary">gratuit</span>. <br><br>
+                <p class="p-text p-4">
+                    L'usage de Shifumix est <span class="text-primary">gratuit</span>.
+                </p>
+                <p class="p-text p-4 d-none d-lg-block">
                     Le revenu nécessaire au fonctionnement du service est assuré par l'assistance à la personnalisation des widgets ou de l'application,
                     les possibilités de formation spécifiques sur le service, l'usage pour des événements de grande ampleure.
                 </p>

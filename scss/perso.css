@@ -1,14 +1,11 @@
 .bg-tertiary {
-  background-color: #dbdedb;
-}
+  background-color: #dbdedb; }
 
 bg-secondary {
-  background-color: #88837D;
-}
+  background-color: #88837D; }
 
 bg-primary {
-  background-color: #F07C00;
-}
+  background-color: #F07C00; }
 
 .carousel-center {
   position: absolute;
@@ -16,93 +13,75 @@ bg-primary {
   top: 8%;
   left: 20vw;
   width: 60vw;
-  height: 100%;
-}
+  height: 100%; }
 
 .section-title {
   font-size: 8vmin;
   font-weight: lighter;
   text-align: center;
   text-transform: uppercase;
-  margin: 5%;
-}
-
-.carousel-title {
-  margin-top: 5vh;
-  text-align: center;
-  font-size: 3vw;
-  font-weight: lighter;
-  color: white;
-}
-
-h1 {
-  color: white;
-  margin-top: 3vh;
-  font-size: 4vw;
-  font-weight: lighter;
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  overflow: hidden;
-  border-right: 2px solid #fff;
-  white-space: nowrap;
-  width: 40vw;
-  animation: typing 2s steps(23);
-}
-
-h1 {
-  animation-delay: 2s;
-}
-
-@keyframes typing {
-  0% {
-    width: 0ch;
-  }
-  100% {
-    width: 40vw;
-  }
-}
-.start-link {
-  margin-top: 3vh;
-  font-size: 4vw;
-  font-weight: lighter;
-  text-align: center;
-  color: white;
-}
+  margin: 5%; }
 
 .p-text {
   font-size: x-large;
   font-weight: lighter;
   margin-left: 4vw;
-  margin-right: 4vw;
-}
+  margin-right: 4vw; }
+
+.text-service {
+  font-size: large;
+  font-weight: lighter; }
 
 .btn-start {
   border-radius: 60px;
-  width: 40vw;
+  width: 16vw;
   display: inline-block;
   position: absolute;
-  left: 35%;
+  left: 45%;
   top: 70%;
+  max-width: 200px;
   text-transform: uppercase;
-  font-size: 2.3vw;
-}
+  font-size: 1.6vw; }
 
 .image-photo {
   box-shadow: 3px 3px 6px #aaa;
   margin: 5px;
-  border: 1px #bfbec4 solid;
-}
+  border: 1px #bfbec4 solid; }
 
 .nav-link-perso {
   margin-left: 6px;
-  margin-right: 6px;
-}
+  margin-right: 6px; }
 
-.text-service {
-  font-size: small;
+.carousel-title {
+  margin-top: 12vh;
+  text-align: center;
+  font-size: 4vmin;
   font-weight: lighter;
-}
+  color: white; }
+
+.typewriter h1 {
+  color: white;
+  font-size: 4vw;
+  font-weight: bolder;
+  cursor: pointer;
+  overflow: hidden;
+  border-right: .05em solid white;
+  white-space: nowrap;
+  margin: 0 auto;
+  letter-spacing: .05em;
+  animation: typing 6s steps(25, end), blink-caret 1s step-end infinite; }
+
+/* The typing effect */
+@keyframes typing {
+  from {
+    width: 0; }
+  to {
+    width: 100%; } }
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to {
+    border-color: transparent; }
+  50% {
+    border-color: white; } }
 
 /*# sourceMappingURL=perso.css.map */
