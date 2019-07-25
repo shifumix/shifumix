@@ -16,20 +16,22 @@
     <session id="-835947693">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="192" />
-          <entry key="project.open.time.0" value="12" />
-          <entry key="project.open.time.1" value="71" />
+          <entry key="project.closed" value="205" />
+          <entry key="project.open.time.0" value="14" />
+          <entry key="project.open.time.1" value="75" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="7" />
           <entry key="project.open.time.12" value="5" />
           <entry key="project.open.time.13" value="8" />
           <entry key="project.open.time.14" value="5" />
           <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="3" />
           <entry key="project.open.time.18" value="3" />
-          <entry key="project.open.time.2" value="34" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.2" value="36" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.21" value="3" />
           <entry key="project.open.time.23" value="2" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.26" value="2" />
@@ -44,19 +46,19 @@
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="4" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="206" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="220" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="conf" value="3" />
           <entry key="css" value="819" />
-          <entry key="html" value="24970" />
+          <entry key="html" value="25067" />
           <entry key="js" value="2188" />
-          <entry key="json" value="4217" />
+          <entry key="json" value="4240" />
           <entry key="php" value="28" />
-          <entry key="scss" value="1318" />
+          <entry key="scss" value="1319" />
           <entry key="txt" value="211" />
           <entry key="xml" value="37" />
         </counts>
@@ -64,11 +66,11 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="819" />
-          <entry key="HTML" value="24970" />
-          <entry key="JSON" value="4217" />
+          <entry key="HTML" value="25067" />
+          <entry key="JSON" value="4240" />
           <entry key="JavaScript" value="2188" />
           <entry key="PLAIN_TEXT" value="242" />
-          <entry key="SCSS" value="1318" />
+          <entry key="SCSS" value="1319" />
           <entry key="XML" value="37" />
         </counts>
       </usages-collector>
@@ -201,8 +203,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="571">
-              <caret line="177" column="22" lean-forward="true" selection-start-line="177" selection-start-column="22" selection-end-line="177" selection-end-column="22" />
+            <state relative-caret-position="537">
+              <caret line="469" column="114" selection-start-line="469" selection-start-column="114" selection-end-line="469" selection-end-column="114" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -227,56 +229,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/shifumix_website.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="49" column="54" selection-start-line="49" selection-start-column="54" selection-end-line="49" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scss/perso.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="71" column="18" lean-forward="true" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1428">
-              <caret line="84" column="16" selection-start-line="84" selection-start-column="16" selection-end-line="84" selection-end-column="16" />
-              <folding>
-                <element signature="n#!!block;n#Tutoriel#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/default_widgets.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scss/agency.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scss/_nav.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
+            <state relative-caret-position="78">
+              <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -285,10 +239,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>data-tag</find>
-      <find>tous le</find>
-      <find>tout le</find>
-      <find>passer les</find>
       <find>mises en</find>
       <find>Vous</find>
       <find>setPro</find>
@@ -304,7 +254,6 @@
       <find>faq</find>
       <find>video</find>
       <find>trouvés</find>
-      <find>.SVG</find>
       <find>loterie</find>
       <find>blog_url</find>
       <find>feedback</find>
@@ -315,6 +264,11 @@
       <find>démo</find>
       <find>pres.</find>
       <find>tarif</find>
+      <find>loterie.svg</find>
+      <find>.SVG</find>
+      <find>iwall.webp</find>
+      <find>webp</find>
+      <find>inter</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;div</replace>
@@ -362,10 +316,10 @@
         <option value="$PROJECT_DIR$/scss/agency.scss" />
         <option value="$PROJECT_DIR$/shifumix_settings.json" />
         <option value="$PROJECT_DIR$/faq.html" />
-        <option value="$PROJECT_DIR$/default_widgets.json" />
         <option value="$PROJECT_DIR$/scss/perso.css" />
-        <option value="$PROJECT_DIR$/scss/perso.scss" />
         <option value="$PROJECT_DIR$/js/shifumix_website.js" />
+        <option value="$PROJECT_DIR$/scss/perso.scss" />
+        <option value="$PROJECT_DIR$/default_widgets.json" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -394,7 +348,7 @@
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -408,6 +362,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -418,20 +373,18 @@
             <path>
               <item name="shifumixWebSite" type="b2602c69:ProjectViewProjectNode" />
               <item name="shifumixWebSite" type="462c0819:PsiDirectoryNode" />
-              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shifumixWebSite" type="b2602c69:ProjectViewProjectNode" />
               <item name="shifumixWebSite" type="462c0819:PsiDirectoryNode" />
-              <item name="scss" type="462c0819:PsiDirectoryNode" />
-              <item name="perso.scss" type="620a8d5e:NestingTreeNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -717,112 +670,21 @@
       <workItem from="1561716463692" duration="4219000" />
       <workItem from="1561729044459" duration="1690000" />
       <workItem from="1561791055809" duration="33000" />
-      <workItem from="1561817155740" duration="1609000" />
-    </task>
-    <task id="LOCAL-00298" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1558716409844</created>
-      <option name="number" value="00298" />
-      <option name="presentableId" value="LOCAL-00298" />
-      <option name="project" value="LOCAL" />
-      <updated>1558716409844</updated>
-    </task>
-    <task id="LOCAL-00299" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1558716484654</created>
-      <option name="number" value="00299" />
-      <option name="presentableId" value="LOCAL-00299" />
-      <option name="project" value="LOCAL" />
-      <updated>1558716484654</updated>
-    </task>
-    <task id="LOCAL-00300" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1558716606299</created>
-      <option name="number" value="00300" />
-      <option name="presentableId" value="LOCAL-00300" />
-      <option name="project" value="LOCAL" />
-      <updated>1558716606299</updated>
-    </task>
-    <task id="LOCAL-00301" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1558719369524</created>
-      <option name="number" value="00301" />
-      <option name="presentableId" value="LOCAL-00301" />
-      <option name="project" value="LOCAL" />
-      <updated>1558719369524</updated>
-    </task>
-    <task id="LOCAL-00302" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1558720063902</created>
-      <option name="number" value="00302" />
-      <option name="presentableId" value="LOCAL-00302" />
-      <option name="project" value="LOCAL" />
-      <updated>1558720063902</updated>
-    </task>
-    <task id="LOCAL-00303" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1558738439750</created>
-      <option name="number" value="00303" />
-      <option name="presentableId" value="LOCAL-00303" />
-      <option name="project" value="LOCAL" />
-      <updated>1558738439752</updated>
-    </task>
-    <task id="LOCAL-00304" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1558990955611</created>
-      <option name="number" value="00304" />
-      <option name="presentableId" value="LOCAL-00304" />
-      <option name="project" value="LOCAL" />
-      <updated>1558990955612</updated>
-    </task>
-    <task id="LOCAL-00305" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1558991084971</created>
-      <option name="number" value="00305" />
-      <option name="presentableId" value="LOCAL-00305" />
-      <option name="project" value="LOCAL" />
-      <updated>1558991084971</updated>
-    </task>
-    <task id="LOCAL-00306" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1559064720576</created>
-      <option name="number" value="00306" />
-      <option name="presentableId" value="LOCAL-00306" />
-      <option name="project" value="LOCAL" />
-      <updated>1559064720577</updated>
-    </task>
-    <task id="LOCAL-00307" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1559140685182</created>
-      <option name="number" value="00307" />
-      <option name="presentableId" value="LOCAL-00307" />
-      <option name="project" value="LOCAL" />
-      <updated>1559140685183</updated>
-    </task>
-    <task id="LOCAL-00308" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1559211987151</created>
-      <option name="number" value="00308" />
-      <option name="presentableId" value="LOCAL-00308" />
-      <option name="project" value="LOCAL" />
-      <updated>1559211987151</updated>
-    </task>
-    <task id="LOCAL-00309" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1559215399051</created>
-      <option name="number" value="00309" />
-      <option name="presentableId" value="LOCAL-00309" />
-      <option name="project" value="LOCAL" />
-      <updated>1559215399051</updated>
-    </task>
-    <task id="LOCAL-00310" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1559242398215</created>
-      <option name="number" value="00310" />
-      <option name="presentableId" value="LOCAL-00310" />
-      <option name="project" value="LOCAL" />
-      <updated>1559242398215</updated>
-    </task>
-    <task id="LOCAL-00311" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1559280644907</created>
-      <option name="number" value="00311" />
-      <option name="presentableId" value="LOCAL-00311" />
-      <option name="project" value="LOCAL" />
-      <updated>1559280644907</updated>
-    </task>
-    <task id="LOCAL-00312" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1559282080531</created>
-      <option name="number" value="00312" />
-      <option name="presentableId" value="LOCAL-00312" />
-      <option name="project" value="LOCAL" />
-      <updated>1559282080531</updated>
+      <workItem from="1561817155740" duration="2956000" />
+      <workItem from="1561882459584" duration="598000" />
+      <workItem from="1561883915338" duration="595000" />
+      <workItem from="1561885742054" duration="285000" />
+      <workItem from="1561886097003" duration="599000" />
+      <workItem from="1562312210509" duration="3397000" />
+      <workItem from="1562530649106" duration="192000" />
+      <workItem from="1563210774866" duration="167000" />
+      <workItem from="1563379179378" duration="3528000" />
+      <workItem from="1563532370973" duration="10858000" />
+      <workItem from="1563635576787" duration="1264000" />
+      <workItem from="1563695528627" duration="2556000" />
+      <workItem from="1563719534219" duration="1987000" />
+      <workItem from="1563923158257" duration="87000" />
+      <workItem from="1563947926611" duration="1916000" />
     </task>
     <task id="LOCAL-00313" summary="Mise en ligne de l'ensemble des vidéos">
       <created>1559314797224</created>
@@ -1062,17 +924,121 @@
       <option name="project" value="LOCAL" />
       <updated>1561819678485</updated>
     </task>
-    <option name="localTasksCounter" value="347" />
+    <task id="LOCAL-00347" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1561819744573</created>
+      <option name="number" value="00347" />
+      <option name="presentableId" value="LOCAL-00347" />
+      <option name="project" value="LOCAL" />
+      <updated>1561819744573</updated>
+    </task>
+    <task id="LOCAL-00348" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1562312221611</created>
+      <option name="number" value="00348" />
+      <option name="presentableId" value="LOCAL-00348" />
+      <option name="project" value="LOCAL" />
+      <updated>1562312221612</updated>
+    </task>
+    <task id="LOCAL-00349" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1562331035623</created>
+      <option name="number" value="00349" />
+      <option name="presentableId" value="LOCAL-00349" />
+      <option name="project" value="LOCAL" />
+      <updated>1562331035623</updated>
+    </task>
+    <task id="LOCAL-00350" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1562332227100</created>
+      <option name="number" value="00350" />
+      <option name="presentableId" value="LOCAL-00350" />
+      <option name="project" value="LOCAL" />
+      <updated>1562332227100</updated>
+    </task>
+    <task id="LOCAL-00351" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1562530770845</created>
+      <option name="number" value="00351" />
+      <option name="presentableId" value="LOCAL-00351" />
+      <option name="project" value="LOCAL" />
+      <updated>1562530770846</updated>
+    </task>
+    <task id="LOCAL-00352" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1563210866671</created>
+      <option name="number" value="00352" />
+      <option name="presentableId" value="LOCAL-00352" />
+      <option name="project" value="LOCAL" />
+      <updated>1563210866671</updated>
+    </task>
+    <task id="LOCAL-00353" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1563379194603</created>
+      <option name="number" value="00353" />
+      <option name="presentableId" value="LOCAL-00353" />
+      <option name="project" value="LOCAL" />
+      <updated>1563379194605</updated>
+    </task>
+    <task id="LOCAL-00354" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1563387939868</created>
+      <option name="number" value="00354" />
+      <option name="presentableId" value="LOCAL-00354" />
+      <option name="project" value="LOCAL" />
+      <updated>1563387939868</updated>
+    </task>
+    <task id="LOCAL-00355" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1563443470336</created>
+      <option name="number" value="00355" />
+      <option name="presentableId" value="LOCAL-00355" />
+      <option name="project" value="LOCAL" />
+      <updated>1563443470336</updated>
+    </task>
+    <task id="LOCAL-00356" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1563532382716</created>
+      <option name="number" value="00356" />
+      <option name="presentableId" value="LOCAL-00356" />
+      <option name="project" value="LOCAL" />
+      <updated>1563532382717</updated>
+    </task>
+    <task id="LOCAL-00357" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1563635912868</created>
+      <option name="number" value="00357" />
+      <option name="presentableId" value="LOCAL-00357" />
+      <option name="project" value="LOCAL" />
+      <updated>1563635912869</updated>
+    </task>
+    <task id="LOCAL-00358" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1563637983198</created>
+      <option name="number" value="00358" />
+      <option name="presentableId" value="LOCAL-00358" />
+      <option name="project" value="LOCAL" />
+      <updated>1563637983198</updated>
+    </task>
+    <task id="LOCAL-00359" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1563702321221</created>
+      <option name="number" value="00359" />
+      <option name="presentableId" value="LOCAL-00359" />
+      <option name="project" value="LOCAL" />
+      <updated>1563702321221</updated>
+    </task>
+    <task id="LOCAL-00360" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1563725850543</created>
+      <option name="number" value="00360" />
+      <option name="presentableId" value="LOCAL-00360" />
+      <option name="project" value="LOCAL" />
+      <updated>1563725850544</updated>
+    </task>
+    <task id="LOCAL-00361" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1563923216632</created>
+      <option name="number" value="00361" />
+      <option name="presentableId" value="LOCAL-00361" />
+      <option name="project" value="LOCAL" />
+      <updated>1563923216633</updated>
+    </task>
+    <option name="localTasksCounter" value="362" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="478986000" />
+    <option name="totallyTimeSpent" value="508362000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.13965885" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6251748" visible="true" weight="0.12686567" />
       <window_info id="Structure" order="1" sideWeight="0.37333333" side_tool="true" weight="0.15405117" />
       <window_info id="Designer" order="2" />
       <window_info id="Gulp" order="3" side_tool="true" />
@@ -1082,7 +1048,7 @@
       <window_info id="UI Designer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48187634" visible="true" weight="0.17666666" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48134327" visible="true" weight="0.17666666" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49626866" weight="0.3988889" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1093,7 +1059,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Application Servers" order="11" sideWeight="0.49733475" weight="0.4377778" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49554655" weight="0.32986626" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5181237" side_tool="true" visible="true" weight="0.17666666" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.51865673" side_tool="true" visible="true" weight="0.17666666" />
       <window_info anchor="bottom" id="Bitbucket Issues" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1459,11 +1425,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shifumix_settings.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1428">
+        <state relative-caret-position="656">
           <caret line="84" column="16" selection-start-line="84" selection-start-column="16" selection-end-line="84" selection-end-column="16" />
-          <folding>
-            <element signature="n#!!block;n#Tutoriel#0;n#!!top" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1483,29 +1446,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/default_widgets.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        <state relative-caret-position="401">
+          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/perso.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="71" column="18" lean-forward="true" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
+        <state relative-caret-position="163">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/shifumix_website.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="49" column="54" selection-start-line="49" selection-start-column="54" selection-end-line="49" selection-end-column="54" />
+        <state relative-caret-position="78">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="571">
-          <caret line="177" column="22" lean-forward="true" selection-start-line="177" selection-start-column="22" selection-end-line="177" selection-end-column="22" />
+        <state relative-caret-position="537">
+          <caret line="469" column="114" selection-start-line="469" selection-start-column="114" selection-end-line="469" selection-end-column="114" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
