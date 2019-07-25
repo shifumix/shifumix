@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="" />
+    <list default="true" id="208f60c3-9cc1-49a6-8589-c5da3740199d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/portfolio/sharephoto.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/sharemessage.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/sharemessage.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="shifumixWebSite">
@@ -22,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7160">
-              <caret line="469" column="114" selection-start-line="469" selection-start-column="114" selection-end-line="469" selection-end-column="114" />
+            <state relative-caret-position="280">
+              <caret line="101" column="65" selection-start-line="101" selection-start-column="65" selection-end-line="101" selection-end-column="65" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -486,14 +495,7 @@
       <workItem from="1563719534219" duration="1987000" />
       <workItem from="1563923158257" duration="87000" />
       <workItem from="1563947926611" duration="1916000" />
-      <workItem from="1564060716579" duration="324000" />
-    </task>
-    <task id="LOCAL-00313" summary="Mise en ligne de l'ensemble des vidéos">
-      <created>1559314797224</created>
-      <option name="number" value="00313" />
-      <option name="presentableId" value="LOCAL-00313" />
-      <option name="project" value="LOCAL" />
-      <updated>1559314797224</updated>
+      <workItem from="1564060716579" duration="876000" />
     </task>
     <task id="LOCAL-00314" summary="Mise en ligne de l'ensemble des vidéos">
       <created>1559315764197</created>
@@ -831,11 +833,18 @@
       <option name="project" value="LOCAL" />
       <updated>1563923216633</updated>
     </task>
-    <option name="localTasksCounter" value="362" />
+    <task id="LOCAL-00362" summary="Mise en ligne de l'ensemble des vidéos">
+      <created>1564092778272</created>
+      <option name="number" value="00362" />
+      <option name="presentableId" value="LOCAL-00362" />
+      <option name="project" value="LOCAL" />
+      <updated>1564092778273</updated>
+    </task>
+    <option name="localTasksCounter" value="363" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="508686000" />
+    <option name="totallyTimeSpent" value="509238000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2567" y="-7" width="1721" height="935" extended-state="6" />
@@ -850,7 +859,7 @@
       <window_info id="UI Designer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48134327" visible="true" weight="0.17666666" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48103553" visible="true" weight="0.39726028" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49626866" weight="0.3988889" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -861,7 +870,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Application Servers" order="11" sideWeight="0.49733475" weight="0.4377778" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49554655" weight="0.32986626" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.51865673" side_tool="true" visible="true" weight="0.17559153" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.51896447" side_tool="true" visible="true" weight="0.39726028" />
       <window_info anchor="bottom" id="Bitbucket Issues" order="14" />
       <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Mongo Explorer" />
@@ -1266,10 +1275,13 @@
     <entry file="file://$PROJECT_DIR$/img/portfolio/brainstorm.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/portfolio/yourthedj.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7160">
-          <caret line="469" column="114" selection-start-line="469" selection-start-column="114" selection-end-line="469" selection-end-column="114" />
+        <state relative-caret-position="280">
+          <caret line="101" column="65" selection-start-line="101" selection-start-column="65" selection-end-line="101" selection-end-column="65" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
