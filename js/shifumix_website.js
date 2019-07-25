@@ -47,7 +47,7 @@ function setprofil(idxProfil) {
     if(type_profil=="public")config="simple";
     if(type_profil=="pro")config="conference";
 
-    document.getElementById("iframe_tester").src = domain+"/tutoriel.html?config="+config+"&delay=30&size=150&ihm=" + type_profil;
+    //document.getElementById("iframe_tester").src = domain+"/tutoriel.html?config="+config+"&delay=30&size=150&ihm=" + type_profil;
     document.getElementById("profil").classList.toggle("invisible");
 }
 
