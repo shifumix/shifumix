@@ -245,7 +245,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Unnamed" type="js.build_tools.npm">
+    <configuration name="Unnamed" type="js.build_tools.npm" factoryName="npm">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
       <scripts>
