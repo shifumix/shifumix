@@ -90,7 +90,12 @@ bg-primary {
   animation:
           typing 6s steps(25, end),
           blink-caret 1s step-end infinite;
+}
 
+.typewriter-pos {
+  margin-top:5vh;
+  width: 100%;
+  pointer:cursor;
 }
 
 /* The typing effect */
