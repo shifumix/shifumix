@@ -66,6 +66,21 @@
       "owner":"root",
       "preview":null,
       "score":8
+    },
+    {
+      "online":true,
+      "title":"Disks List",
+      "picture":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Twemoji2_1f3a7.svg/48px-Twemoji2_1f3a7.svg.png",
+      "name":"disklist",
+      "description":"la playlist en vynil animés",
+      "teaser":"",
+      "code":"widgetDiskList.html",
+      "code_new":"https://raw.githubusercontent.com/f80dev/frenchwebbooster/master/widgetFrenchEventBooster.html",
+      "activities":"music",
+      "public":true,
+      "owner":"root",
+      "preview":null,
+      "score":3
     }
   ]
 }
